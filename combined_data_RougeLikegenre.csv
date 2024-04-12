@@ -1,1473 +1,1429 @@
-"Month|Avg. Players|Gain|% Gain|Peak Players"|Source File|Month|Avg. Players|Gain|%_Gain|Peak Players
-"February 2024 |240.7|-50.0|-17.21|394"|Binding_Of_Issac|||||
-"January 2024 |290.7|6.3|2.23|470"|Binding_Of_Issac|||||
-"December 2023 |284.4|47.5|20.07|565"|Binding_Of_Issac|||||
-"November 2023 |236.8|2.1|0.88|408"|Binding_Of_Issac|||||
-"October 2023 |234.8|-7.5|-3.11|418"|Binding_Of_Issac|||||
-"September 2023 |242.3|15.7|6.92|486"|Binding_Of_Issac|||||
-"August 2023 |226.6|-16.6|-6.81|394"|Binding_Of_Issac|||||
-"July 2023 |243.2|25.1|11.54|378"|Binding_Of_Issac|||||
-"June 2023 |218.0|14.7|7.22|423"|Binding_Of_Issac|||||
-"May 2023 |203.3|1.1|0.54|351"|Binding_Of_Issac|||||
-"April 2023 |202.2|6.8|3.49|338"|Binding_Of_Issac|||||
-"March 2023 |195.4|-8.5|-4.16|309"|Binding_Of_Issac|||||
-"February 2023 |203.9|4.1|2.05|325"|Binding_Of_Issac|||||
-"January 2023 |199.8|6.5|3.37|309"|Binding_Of_Issac|||||
-"December 2022 |193.3|-8.8|-4.33|317"|Binding_Of_Issac|||||
-"November 2022 |202.0|-13.8|-6.4|324"|Binding_Of_Issac|||||
-"October 2022 |215.8|3.3|1.57|330"|Binding_Of_Issac|||||
-"September 2022 |212.5|-7.3|-3.32|341"|Binding_Of_Issac|||||
-"August 2022 |219.8|-5.6|-2.5|316"|Binding_Of_Issac|||||
-"July 2022 |225.4|1.2|0.52|313"|Binding_Of_Issac|||||
-"June 2022 |224.3|-13.8|-5.81|319"|Binding_Of_Issac|||||
-"May 2022 |238.1|-49.8|-17.3|364"|Binding_Of_Issac|||||
-"April 2022 |287.9|-26.4|-8.4|465"|Binding_Of_Issac|||||
-"March 2022 |314.3|16.4|5.51|686"|Binding_Of_Issac|||||
-"February 2022 |297.9|-114.3|-27.73|438"|Binding_Of_Issac|||||
-"January 2022 |412.2|-73.8|-15.19|814"|Binding_Of_Issac|||||
-"December 2021 |486.1|85.0|21.18|1171"|Binding_Of_Issac|||||
-"November 2021 |401.1|188.5|88.65|1416"|Binding_Of_Issac|||||
-"October 2021 |212.6|13.6|6.82|782"|Binding_Of_Issac|||||
-"September 2021 |199.1|-17.6|-8.12|300"|Binding_Of_Issac|||||
-"August 2021 |216.6|-8.6|-3.83|315"|Binding_Of_Issac|||||
-"July 2021 |225.3|-49.9|-18.12|327"|Binding_Of_Issac|||||
-"June 2021 |275.1|-62.4|-18.49|431"|Binding_Of_Issac|||||
-"May 2021 |337.6|-61.3|-15.38|563"|Binding_Of_Issac|||||
-"April 2021 |398.9|96.7|32.0|609"|Binding_Of_Issac|||||
-"March 2021 |302.2|-70.1|-18.83|431"|Binding_Of_Issac|||||
-"February 2021 |372.3|-17.2|-4.42|557"|Binding_Of_Issac|||||
-"January 2021 |389.5|162.4|71.48|1159"|Binding_Of_Issac|||||
-"December 2020 |227.1|-22.5|-9.02|319"|Binding_Of_Issac|||||
-"November 2020 |249.7|6.7|2.76|358"|Binding_Of_Issac|||||
-"October 2020 |242.9|3.1|1.29|350"|Binding_Of_Issac|||||
-"September 2020 |239.8|7.2|3.09|365"|Binding_Of_Issac|||||
-"August 2020 |232.7|3.3|1.43|324"|Binding_Of_Issac|||||
-"July 2020 |229.4|-16.9|-6.88|331"|Binding_Of_Issac|||||
-"June 2020 |246.3|-39.4|-13.79|370"|Binding_Of_Issac|||||
-"May 2020 |285.8|-51.3|-15.21|413"|Binding_Of_Issac|||||
-"April 2020 |337.0|24.6|7.88|492"|Binding_Of_Issac|||||
-"March 2020 |312.4|67.7|27.65|505"|Binding_Of_Issac|||||
-"February 2020 |244.7|12.9|5.59|355"|Binding_Of_Issac|||||
-"January 2020 |231.8|-0.9|-0.39|343"|Binding_Of_Issac|||||
-"December 2019 |232.7|-13.4|-5.44|375"|Binding_Of_Issac|||||
-"November 2019 |246.1|15.7|6.79|383"|Binding_Of_Issac|||||
-"October 2019 |230.4|4.7|2.08|386"|Binding_Of_Issac|||||
-"September 2019 |225.7|12.4|5.81|379"|Binding_Of_Issac|||||
-"August 2019 |213.3|-2.0|-0.92|335"|Binding_Of_Issac|||||
-"July 2019 |215.3|-40.2|-15.73|315"|Binding_Of_Issac|||||
-"June 2019 |255.5|-8.8|-3.34|381"|Binding_Of_Issac|||||
-"May 2019 |264.3|0.9|0.35|477"|Binding_Of_Issac|||||
-"April 2019 |263.4|-29.6|-10.09|435"|Binding_Of_Issac|||||
-"March 2019 |292.9|7.6|2.67|457"|Binding_Of_Issac|||||
-"February 2019 |285.3|-7.2|-2.46|442"|Binding_Of_Issac|||||
-"January 2019 |292.5|-1.2|-0.4|460"|Binding_Of_Issac|||||
-"December 2018 |293.7|10.8|3.82|466"|Binding_Of_Issac|||||
-"November 2018 |282.9|-0.3|-0.11|473"|Binding_Of_Issac|||||
-"October 2018 |283.2|-0.1|-0.04|475"|Binding_Of_Issac|||||
-"September 2018 |283.3|-9.6|-3.28|458"|Binding_Of_Issac|||||
-"August 2018 |292.9|-20.6|-6.57|448"|Binding_Of_Issac|||||
-"July 2018 |313.5|-37.1|-10.58|462"|Binding_Of_Issac|||||
-"June 2018 |350.6|-25.0|-6.66|563"|Binding_Of_Issac|||||
-"May 2018 |375.6|35.6|10.48|616"|Binding_Of_Issac|||||
-"April 2018 |340.0|-23.6|-6.49|567"|Binding_Of_Issac|||||
-"March 2018 |363.6|-37.1|-9.26|572"|Binding_Of_Issac|||||
-"February 2018 |400.7|-54.3|-11.93|611"|Binding_Of_Issac|||||
-"January 2018 |455.0|-244.8|-34.98|674"|Binding_Of_Issac|||||
-"December 2017 |699.8|374.1|114.88|2013"|Binding_Of_Issac|||||
-"November 2017 |325.6|-23.7|-6.79|633"|Binding_Of_Issac|||||
-"October 2017 |349.4|2.5|0.72|594"|Binding_Of_Issac|||||
-"September 2017 |346.9|-0.1|-0.04|550"|Binding_Of_Issac|||||
-"August 2017 |347.0|-14.9|-4.11|496"|Binding_Of_Issac|||||
-"July 2017 |361.9|-33.0|-8.36|544"|Binding_Of_Issac|||||
-"June 2017 |394.9|-11.3|-2.78|612"|Binding_Of_Issac|||||
-"May 2017 |406.2|-20.9|-4.9|659"|Binding_Of_Issac|||||
-"April 2017 |427.1|-26.9|-5.93|675"|Binding_Of_Issac|||||
-"March 2017 |454.1|-87.2|-16.11|739"|Binding_Of_Issac|||||
-"February 2017 |541.2|-46.8|-7.96|909"|Binding_Of_Issac|||||
-"January 2017 |588.0|152.7|35.06|990"|Binding_Of_Issac|||||
-"December 2016 |435.4|-14.4|-3.21|703"|Binding_Of_Issac|||||
-"November 2016 |449.8|26.9|6.36|774"|Binding_Of_Issac|||||
-"October 2016 |422.9|41.8|10.97|853"|Binding_Of_Issac|||||
-"September 2016 |381.1|-14.0|-3.54|649"|Binding_Of_Issac|||||
-"August 2016 |395.1|-46.8|-10.58|632"|Binding_Of_Issac|||||
-"July 2016 |441.8|3.0|0.69|752"|Binding_Of_Issac|||||
-"June 2016 |438.8|12.1|2.83|739"|Binding_Of_Issac|||||
-"May 2016 |426.7|-43.7|-9.3|793"|Binding_Of_Issac|||||
-"April 2016 |470.5|-41.6|-8.13|784"|Binding_Of_Issac|||||
-"March 2016 |512.1|-72.8|-12.45|880"|Binding_Of_Issac|||||
-"February 2016 |584.9|-122.2|-17.29|1031"|Binding_Of_Issac|||||
-"January 2016 |707.2|-250.1|-26.12|1182"|Binding_Of_Issac|||||
-"December 2015 |957.2|-518.8|-35.15|1739"|Binding_Of_Issac|||||
-"November 2015 |1476.0|744.0|101.65|4269"|Binding_Of_Issac|||||
-"October 2015 |732.0|119.8|19.57|3699"|Binding_Of_Issac|||||
-"September 2015 |612.2|-29.7|-4.63|1077"|Binding_Of_Issac|||||
-"August 2015 |641.9|23.0|3.72|1015"|Binding_Of_Issac|||||
-"July 2015 |618.8|-106.2|-14.64|903"|Binding_Of_Issac|||||
-"June 2015 |725.0|-285.6|-28.26|1265"|Binding_Of_Issac|||||
-"May 2015 |1010.5|165.2|19.54|1977"|Binding_Of_Issac|||||
-"April 2015 |845.4|-111.9|-11.69|1836"|Binding_Of_Issac|||||
-"March 2015 |957.2|-280.6|-22.67|1873"|Binding_Of_Issac|||||
-"February 2015 |1237.8|-525.0|-29.78|2286"|Binding_Of_Issac|||||
-"January 2015 |1762.9|-614.2|-25.84|3940"|Binding_Of_Issac|||||
-"December 2014 |2377.1|-682.2|-22.3|4923"|Binding_Of_Issac|||||
-"November 2014 |3059.2|-155.9|-4.85|7970"|Binding_Of_Issac|||||
-"October 2014 |3215.1|395.6|14.03|5769"|Binding_Of_Issac|||||
-"September 2014 |2819.6|185.2|7.03|6127"|Binding_Of_Issac|||||
-"August 2014 |2634.4|-132.7|-4.8|3793"|Binding_Of_Issac|||||
-"July 2014 |2767.2|-141.2|-4.85|4086"|Binding_Of_Issac|||||
-"June 2014 |2908.3|38.5|1.34|4339"|Binding_Of_Issac|||||
-"May 2014 |2869.8|783.9|37.58|5800"|Binding_Of_Issac|||||
-"April 2014 |2086.0|-90.4|-4.15|3154"|Binding_Of_Issac|||||
-"March 2014 |2176.3|-343.1|-13.62|3647"|Binding_Of_Issac|||||
-"February 2014 |2519.4|-222.1|-8.1|4071"|Binding_Of_Issac|||||
-"January 2014 |2741.5|230.5|9.18|4483"|Binding_Of_Issac|||||
-"December 2013 |2511.1|91.1|3.76|4696"|Binding_Of_Issac|||||
-"November 2013 |2419.9|-16.3|-0.67|4121"|Binding_Of_Issac|||||
-"October 2013 |2436.2|-49.6|-1.99|4273"|Binding_Of_Issac|||||
-"September 2013 |2485.8|-331.3|-11.76|7093"|Binding_Of_Issac|||||
-"August 2013 |2817.1|-439.3|-13.49|4324"|Binding_Of_Issac|||||
-"July 2013 |3256.4|681.2|26.45|6520"|Binding_Of_Issac|||||
-"June 2013 |2575.2|477.4|22.76|12295"|Binding_Of_Issac|||||
-"May 2013 |2097.8|-67.8|-3.13|3416"|Binding_Of_Issac|||||
-"April 2013 |2165.7|-14.5|-0.66|3735"|Binding_Of_Issac|||||
-"March 2013 |2180.2|-187.2|-7.91|4442"|Binding_Of_Issac|||||
-"February 2013 |2367.4|-691.5|-22.61|4427"|Binding_Of_Issac|||||
-"January 2013 |3058.8|741.8|32.01|6115"|Binding_Of_Issac|||||
-"December 2012 |2317.1|756.9|48.51|4657"|Binding_Of_Issac|||||
-"November 2012 |1560.2|-83.7|-5.09|2806"|Binding_Of_Issac|||||
-"October 2012 |1643.9|-513.9|-23.82|3252"|Binding_Of_Issac|||||
-"September 2012 |2157.8|-922.4|-29.95|4186"|Binding_Of_Issac|||||
-"August 2012 |3080.2|-1896.1|-38.1|5412"|Binding_Of_Issac|||||
-"February 2024 |18618.1|-1771.0|-8.69|27244"|Binding_Of_Issac_Rebirth|||||
-"January 2024 |20389.1|3011.9|17.33|30548"|Binding_Of_Issac_Rebirth|||||
-"December 2023 |17377.2|2186.9|14.4|27507"|Binding_Of_Issac_Rebirth|||||
-"November 2023 |15190.3|-873.9|-5.44|23825"|Binding_Of_Issac_Rebirth|||||
-"October 2023 |16064.2|2182.2|15.72|25701"|Binding_Of_Issac_Rebirth|||||
-"September 2023 |13882.0|447.4|3.33|21930"|Binding_Of_Issac_Rebirth|||||
-"August 2023 |13434.5|-793.6|-5.58|18588"|Binding_Of_Issac_Rebirth|||||
-"July 2023 |14228.1|1461.8|11.45|18686"|Binding_Of_Issac_Rebirth|||||
-"June 2023 |12766.4|-708.5|-5.26|18355"|Binding_Of_Issac_Rebirth|||||
-"May 2023 |13474.9|-821.6|-5.75|20420"|Binding_Of_Issac_Rebirth|||||
-"April 2023 |14296.5|-44.0|-0.31|21643"|Binding_Of_Issac_Rebirth|||||
-"March 2023 |14340.5|-598.6|-4.01|21741"|Binding_Of_Issac_Rebirth|||||
-"February 2023 |14939.1|-416.0|-2.71|21953"|Binding_Of_Issac_Rebirth|||||
-"January 2023 |15355.1|2817.3|22.47|21061"|Binding_Of_Issac_Rebirth|||||
-"December 2022 |12537.8|444.9|3.68|18304"|Binding_Of_Issac_Rebirth|||||
-"November 2022 |12092.9|203.8|1.71|18913"|Binding_Of_Issac_Rebirth|||||
-"October 2022 |11889.1|-1283.6|-9.74|18301"|Binding_Of_Issac_Rebirth|||||
-"September 2022 |13172.6|-889.5|-6.33|20119"|Binding_Of_Issac_Rebirth|||||
-"August 2022 |14062.2|404.1|2.96|20465"|Binding_Of_Issac_Rebirth|||||
-"July 2022 |13658.0|1299.1|10.51|18085"|Binding_Of_Issac_Rebirth|||||
-"June 2022 |12358.9|-241.0|-1.91|17628"|Binding_Of_Issac_Rebirth|||||
-"May 2022 |12599.9|-1669.3|-11.7|18577"|Binding_Of_Issac_Rebirth|||||
-"April 2022 |14269.2|1602.3|12.65|21105"|Binding_Of_Issac_Rebirth|||||
-"March 2022 |12666.9|-1458.7|-10.33|21965"|Binding_Of_Issac_Rebirth|||||
-"February 2022 |14125.5|-1966.5|-12.22|20399"|Binding_Of_Issac_Rebirth|||||
-"January 2022 |16092.1|1788.6|12.5|22615"|Binding_Of_Issac_Rebirth|||||
-"December 2021 |14303.5|690.5|5.07|20949"|Binding_Of_Issac_Rebirth|||||
-"November 2021 |13613.0|1329.5|10.82|21453"|Binding_Of_Issac_Rebirth|||||
-"October 2021 |12283.5|-830.9|-6.34|18974"|Binding_Of_Issac_Rebirth|||||
-"September 2021 |13114.4|-2507.3|-16.05|19815"|Binding_Of_Issac_Rebirth|||||
-"August 2021 |15621.8|-2323.7|-12.95|21264"|Binding_Of_Issac_Rebirth|||||
-"July 2021 |17945.5|-4856.9|-21.3|26686"|Binding_Of_Issac_Rebirth|||||
-"June 2021 |22802.4|-11551.3|-33.62|36597"|Binding_Of_Issac_Rebirth|||||
-"May 2021 |34353.7|-11708.8|-25.42|55851"|Binding_Of_Issac_Rebirth|||||
-"April 2021 |46062.4|37549.5|441.09|70483"|Binding_Of_Issac_Rebirth|||||
-"March 2021 |8512.9|862.1|11.27|58791"|Binding_Of_Issac_Rebirth|||||
-"February 2021 |7650.8|-105.3|-1.36|10422"|Binding_Of_Issac_Rebirth|||||
-"January 2021 |7756.1|1611.1|26.22|12679"|Binding_Of_Issac_Rebirth|||||
-"December 2020 |6145.0|61.3|1.01|8805"|Binding_Of_Issac_Rebirth|||||
-"November 2020 |6083.8|301.7|5.22|8413"|Binding_Of_Issac_Rebirth|||||
-"October 2020 |5782.1|236.5|4.26|8405"|Binding_Of_Issac_Rebirth|||||
-"September 2020 |5545.6|-77.6|-1.38|7987"|Binding_Of_Issac_Rebirth|||||
-"August 2020 |5623.2|-535.9|-8.7|7761"|Binding_Of_Issac_Rebirth|||||
-"July 2020 |6159.1|355.1|6.12|8437"|Binding_Of_Issac_Rebirth|||||
-"June 2020 |5804.1|-304.0|-4.98|7976"|Binding_Of_Issac_Rebirth|||||
-"May 2020 |6108.1|-576.5|-8.62|8308"|Binding_Of_Issac_Rebirth|||||
-"April 2020 |6684.6|209.9|3.24|10321"|Binding_Of_Issac_Rebirth|||||
-"March 2020 |6474.6|581.6|9.87|9192"|Binding_Of_Issac_Rebirth|||||
-"February 2020 |5893.0|515.1|9.58|8126"|Binding_Of_Issac_Rebirth|||||
-"January 2020 |5377.9|174.1|3.35|7816"|Binding_Of_Issac_Rebirth|||||
-"December 2019 |5203.8|167.7|3.33|7576"|Binding_Of_Issac_Rebirth|||||
-"November 2019 |5036.1|724.3|16.8|7814"|Binding_Of_Issac_Rebirth|||||
-"October 2019 |4311.8|216.8|5.29|6751"|Binding_Of_Issac_Rebirth|||||
-"September 2019 |4095.0|137.0|3.46|6720"|Binding_Of_Issac_Rebirth|||||
-"August 2019 |3958.0|-87.1|-2.15|5803"|Binding_Of_Issac_Rebirth|||||
-"July 2019 |4045.1|-356.1|-8.09|5612"|Binding_Of_Issac_Rebirth|||||
-"June 2019 |4401.2|-319.0|-6.76|6433"|Binding_Of_Issac_Rebirth|||||
-"May 2019 |4720.3|16.4|0.35|7905"|Binding_Of_Issac_Rebirth|||||
-"April 2019 |4703.9|-646.3|-12.08|7395"|Binding_Of_Issac_Rebirth|||||
-"March 2019 |5350.2|-147.7|-2.69|8332"|Binding_Of_Issac_Rebirth|||||
-"February 2019 |5497.9|-363.5|-6.2|8384"|Binding_Of_Issac_Rebirth|||||
-"January 2019 |5861.4|240.9|4.29|9052"|Binding_Of_Issac_Rebirth|||||
-"December 2018 |5620.5|-206.4|-3.54|9089"|Binding_Of_Issac_Rebirth|||||
-"November 2018 |5827.0|645.9|12.47|9315"|Binding_Of_Issac_Rebirth|||||
-"October 2018 |5181.1|402.5|8.42|8602"|Binding_Of_Issac_Rebirth|||||
-"September 2018 |4778.7|95.9|2.05|7778"|Binding_Of_Issac_Rebirth|||||
-"August 2018 |4682.8|-829.0|-15.04|6956"|Binding_Of_Issac_Rebirth|||||
-"July 2018 |5511.8|-490.7|-8.17|8192"|Binding_Of_Issac_Rebirth|||||
-"June 2018 |6002.5|-1659.6|-21.66|9603"|Binding_Of_Issac_Rebirth|||||
-"May 2018 |7662.0|2872.8|59.99|13151"|Binding_Of_Issac_Rebirth|||||
-"April 2018 |4789.2|-100.7|-2.06|7795"|Binding_Of_Issac_Rebirth|||||
-"March 2018 |4889.9|-571.4|-10.46|7504"|Binding_Of_Issac_Rebirth|||||
-"February 2018 |5461.3|-373.9|-6.41|8115"|Binding_Of_Issac_Rebirth|||||
-"January 2018 |5835.2|52.6|0.91|8407"|Binding_Of_Issac_Rebirth|||||
-"December 2017 |5782.6|268.3|4.86|8707"|Binding_Of_Issac_Rebirth|||||
-"November 2017 |5514.3|117.2|2.17|8431"|Binding_Of_Issac_Rebirth|||||
-"October 2017 |5397.1|336.4|6.65|8245"|Binding_Of_Issac_Rebirth|||||
-"September 2017 |5060.7|-232.6|-4.39|7931"|Binding_Of_Issac_Rebirth|||||
-"August 2017 |5293.3|-773.2|-12.75|7369"|Binding_Of_Issac_Rebirth|||||
-"July 2017 |6066.5|-174.8|-2.8|8628"|Binding_Of_Issac_Rebirth|||||
-"June 2017 |6241.3|260.8|4.36|10755"|Binding_Of_Issac_Rebirth|||||
-"May 2017 |5980.5|-872.2|-12.73|9649"|Binding_Of_Issac_Rebirth|||||
-"April 2017 |6852.7|-1180.4|-14.69|10848"|Binding_Of_Issac_Rebirth|||||
-"March 2017 |8033.1|-3397.3|-29.72|13053"|Binding_Of_Issac_Rebirth|||||
-"February 2017 |11430.4|-5487.6|-32.44|20039"|Binding_Of_Issac_Rebirth|||||
-"January 2017 |16918.0|9741.9|135.75|39579"|Binding_Of_Issac_Rebirth|||||
-"December 2016 |7176.2|1191.8|19.92|14985"|Binding_Of_Issac_Rebirth|||||
-"November 2016 |5984.4|702.5|13.3|9348"|Binding_Of_Issac_Rebirth|||||
-"October 2016 |5281.8|224.3|4.43|8266"|Binding_Of_Issac_Rebirth|||||
-"September 2016 |5057.5|-158.7|-3.04|7930"|Binding_Of_Issac_Rebirth|||||
-"August 2016 |5216.2|-30.7|-0.58|7921"|Binding_Of_Issac_Rebirth|||||
-"July 2016 |5246.9|109.9|2.14|7432"|Binding_Of_Issac_Rebirth|||||
-"June 2016 |5136.9|-219.5|-4.1|7623"|Binding_Of_Issac_Rebirth|||||
-"May 2016 |5356.4|-440.4|-7.6|8242"|Binding_Of_Issac_Rebirth|||||
-"April 2016 |5796.8|-1657.4|-22.23|10487"|Binding_Of_Issac_Rebirth|||||
-"March 2016 |7454.2|-1825.2|-19.67|12070"|Binding_Of_Issac_Rebirth|||||
-"February 2016 |9279.4|-2492.6|-21.17|15221"|Binding_Of_Issac_Rebirth|||||
-"January 2016 |11772.0|-2439.1|-17.16|20743"|Binding_Of_Issac_Rebirth|||||
-"December 2015 |14211.1|-5670.0|-28.52|23397"|Binding_Of_Issac_Rebirth|||||
-"November 2015 |19881.1|11573.0|139.3|53281"|Binding_Of_Issac_Rebirth|||||
-"October 2015 |8308.1|2405.1|40.74|69673"|Binding_Of_Issac_Rebirth|||||
-"September 2015 |5903.0|66.3|1.14|10247"|Binding_Of_Issac_Rebirth|||||
-"August 2015 |5836.7|491.4|9.19|8727"|Binding_Of_Issac_Rebirth|||||
-"July 2015 |5345.3|-704.8|-11.65|7729"|Binding_Of_Issac_Rebirth|||||
-"June 2015 |6050.1|354.1|6.22|9711"|Binding_Of_Issac_Rebirth|||||
-"May 2015 |5696.0|-133.1|-2.28|9105"|Binding_Of_Issac_Rebirth|||||
-"April 2015 |5829.1|-1220.3|-17.31|9538"|Binding_Of_Issac_Rebirth|||||
-"March 2015 |7049.4|-1113.1|-13.64|12872"|Binding_Of_Issac_Rebirth|||||
-"February 2015 |8162.5|-2894.2|-26.18|14707"|Binding_Of_Issac_Rebirth|||||
-"January 2015 |11056.7|-2317.4|-17.33|19888"|Binding_Of_Issac_Rebirth|||||
-"December 2014 |13374.0|-5979.9|-30.9|22392"|Binding_Of_Issac_Rebirth|||||
-"February 2024 |102.7|0.2|0.16|189"|Crypt_Of_The_NecroDancer|||||
-"January 2024 |102.5|-7.3|-6.63|159"|Crypt_Of_The_NecroDancer|||||
-"December 2023 |109.8|-13.2|-10.75|176"|Crypt_Of_The_NecroDancer|||||
-"November 2023 |123.0|-10.7|-8.0|224"|Crypt_Of_The_NecroDancer|||||
-"October 2023 |133.7|26.9|25.13|489"|Crypt_Of_The_NecroDancer|||||
-"September 2023 |106.8|4.7|4.63|194"|Crypt_Of_The_NecroDancer|||||
-"August 2023 |102.1|-29.9|-22.66|159"|Crypt_Of_The_NecroDancer|||||
-"July 2023 |132.0|12.4|10.33|192"|Crypt_Of_The_NecroDancer|||||
-"June 2023 |119.7|4.2|3.6|234"|Crypt_Of_The_NecroDancer|||||
-"May 2023 |115.5|-12.2|-9.57|196"|Crypt_Of_The_NecroDancer|||||
-"April 2023 |127.7|-7.2|-5.3|257"|Crypt_Of_The_NecroDancer|||||
-"March 2023 |134.9|-27.6|-17.01|252"|Crypt_Of_The_NecroDancer|||||
-"February 2023 |162.5|24.5|17.74|287"|Crypt_Of_The_NecroDancer|||||
-"January 2023 |138.0|-17.4|-11.2|225"|Crypt_Of_The_NecroDancer|||||
-"December 2022 |155.4|-10.5|-6.33|243"|Crypt_Of_The_NecroDancer|||||
-"November 2022 |165.9|-3.1|-1.85|346"|Crypt_Of_The_NecroDancer|||||
-"October 2022 |169.1|-20.3|-10.74|380"|Crypt_Of_The_NecroDancer|||||
-"September 2022 |189.4|-266.1|-58.42|338"|Crypt_Of_The_NecroDancer|||||
-"August 2022 |455.6|277.6|156.07|1497"|Crypt_Of_The_NecroDancer|||||
-"July 2022 |177.9|51.9|41.17|340"|Crypt_Of_The_NecroDancer|||||
-"June 2022 |126.0|-3.0|-2.31|285"|Crypt_Of_The_NecroDancer|||||
-"May 2022 |129.0|29.0|28.98|229"|Crypt_Of_The_NecroDancer|||||
-"April 2022 |100.0|-16.5|-14.17|154"|Crypt_Of_The_NecroDancer|||||
-"March 2022 |116.5|-31.4|-21.2|203"|Crypt_Of_The_NecroDancer|||||
-"February 2022 |147.9|11.8|8.64|279"|Crypt_Of_The_NecroDancer|||||
-"January 2022 |136.1|-13.8|-9.18|261"|Crypt_Of_The_NecroDancer|||||
-"December 2021 |149.9|33.8|29.08|227"|Crypt_Of_The_NecroDancer|||||
-"November 2021 |116.1|-2.9|-2.4|213"|Crypt_Of_The_NecroDancer|||||
-"October 2021 |119.0|8.3|7.54|223"|Crypt_Of_The_NecroDancer|||||
-"September 2021 |110.6|-26.6|-19.37|210"|Crypt_Of_The_NecroDancer|||||
-"August 2021 |137.2|-9.3|-6.36|241"|Crypt_Of_The_NecroDancer|||||
-"July 2021 |146.5|-7.1|-4.65|239"|Crypt_Of_The_NecroDancer|||||
-"June 2021 |153.7|-4.9|-3.07|294"|Crypt_Of_The_NecroDancer|||||
-"May 2021 |158.5|24.6|18.35|332"|Crypt_Of_The_NecroDancer|||||
-"April 2021 |133.9|2.3|1.72|238"|Crypt_Of_The_NecroDancer|||||
-"March 2021 |131.7|-22.7|-14.7|301"|Crypt_Of_The_NecroDancer|||||
-"February 2021 |154.4|19.4|14.38|243"|Crypt_Of_The_NecroDancer|||||
-"January 2021 |135.0|-25.8|-16.06|215"|Crypt_Of_The_NecroDancer|||||
-"December 2020 |160.8|12.4|8.37|240"|Crypt_Of_The_NecroDancer|||||
-"November 2020 |148.4|16.5|12.5|231"|Crypt_Of_The_NecroDancer|||||
-"October 2020 |131.9|-27.3|-17.14|268"|Crypt_Of_The_NecroDancer|||||
-"September 2020 |159.2|23.6|17.37|271"|Crypt_Of_The_NecroDancer|||||
-"August 2020 |135.6|-37.8|-21.78|202"|Crypt_Of_The_NecroDancer|||||
-"July 2020 |173.4|-24.9|-12.56|271"|Crypt_Of_The_NecroDancer|||||
-"June 2020 |198.3|18.2|10.12|403"|Crypt_Of_The_NecroDancer|||||
-"May 2020 |180.1|-27.8|-13.38|386"|Crypt_Of_The_NecroDancer|||||
-"April 2020 |207.9|38.8|22.94|415"|Crypt_Of_The_NecroDancer|||||
-"March 2020 |169.1|6.2|3.82|313"|Crypt_Of_The_NecroDancer|||||
-"February 2020 |162.9|-44.7|-21.53|288"|Crypt_Of_The_NecroDancer|||||
-"January 2020 |207.6|16.4|8.61|420"|Crypt_Of_The_NecroDancer|||||
-"December 2019 |191.1|-12.2|-6.01|300"|Crypt_Of_The_NecroDancer|||||
-"November 2019 |203.3|57.7|39.64|351"|Crypt_Of_The_NecroDancer|||||
-"October 2019 |145.6|-24.0|-14.13|283"|Crypt_Of_The_NecroDancer|||||
-"September 2019 |169.6|-21.1|-11.05|371"|Crypt_Of_The_NecroDancer|||||
-"August 2019 |190.6|-109.2|-36.42|360"|Crypt_Of_The_NecroDancer|||||
-"July 2019 |299.8|-207.3|-40.88|591"|Crypt_Of_The_NecroDancer|||||
-"June 2019 |507.1|363.1|252.15|1172"|Crypt_Of_The_NecroDancer|||||
-"May 2019 |144.0|-12.7|-8.11|229"|Crypt_Of_The_NecroDancer|||||
-"April 2019 |156.7|-14.3|-8.35|252"|Crypt_Of_The_NecroDancer|||||
-"March 2019 |171.0|-11.1|-6.08|355"|Crypt_Of_The_NecroDancer|||||
-"February 2019 |182.1|18.6|11.4|309"|Crypt_Of_The_NecroDancer|||||
-"January 2019 |163.4|-38.5|-19.06|242"|Crypt_Of_The_NecroDancer|||||
-"December 2018 |201.9|-9.5|-4.48|338"|Crypt_Of_The_NecroDancer|||||
-"November 2018 |211.4|45.1|27.15|418"|Crypt_Of_The_NecroDancer|||||
-"October 2018 |166.3|-15.2|-8.39|283"|Crypt_Of_The_NecroDancer|||||
-"September 2018 |181.5|3.5|1.96|379"|Crypt_Of_The_NecroDancer|||||
-"August 2018 |178.0|-102.0|-36.43|297"|Crypt_Of_The_NecroDancer|||||
-"July 2018 |280.0|-34.6|-11.01|476"|Crypt_Of_The_NecroDancer|||||
-"June 2018 |314.7|89.7|39.84|692"|Crypt_Of_The_NecroDancer|||||
-"May 2018 |225.0|43.0|23.61|581"|Crypt_Of_The_NecroDancer|||||
-"April 2018 |182.0|-50.2|-21.62|311"|Crypt_Of_The_NecroDancer|||||
-"March 2018 |232.3|-6.0|-2.5|512"|Crypt_Of_The_NecroDancer|||||
-"February 2018 |238.2|-108.5|-31.3|411"|Crypt_Of_The_NecroDancer|||||
-"January 2018 |346.7|52.4|17.82|670"|Crypt_Of_The_NecroDancer|||||
-"December 2017 |294.3|-93.7|-24.15|612"|Crypt_Of_The_NecroDancer|||||
-"November 2017 |388.0|143.0|58.39|689"|Crypt_Of_The_NecroDancer|||||
-"October 2017 |245.0|-54.5|-18.19|647"|Crypt_Of_The_NecroDancer|||||
-"September 2017 |299.4|38.1|14.56|652"|Crypt_Of_The_NecroDancer|||||
-"August 2017 |261.4|-258.5|-49.72|391"|Crypt_Of_The_NecroDancer|||||
-"July 2017 |519.9|240.4|86.0|1291"|Crypt_Of_The_NecroDancer|||||
-"June 2017 |279.5|103.0|58.33|883"|Crypt_Of_The_NecroDancer|||||
-"May 2017 |176.5|-22.8|-11.43|280"|Crypt_Of_The_NecroDancer|||||
-"April 2017 |199.3|-48.2|-19.47|311"|Crypt_Of_The_NecroDancer|||||
-"March 2017 |247.5|-121.6|-32.95|405"|Crypt_Of_The_NecroDancer|||||
-"February 2017 |369.1|-134.5|-26.71|696"|Crypt_Of_The_NecroDancer|||||
-"January 2017 |503.6|170.5|51.18|1415"|Crypt_Of_The_NecroDancer|||||
-"December 2016 |333.1|-2.6|-0.76|955"|Crypt_Of_The_NecroDancer|||||
-"November 2016 |335.7|143.2|74.42|860"|Crypt_Of_The_NecroDancer|||||
-"October 2016 |192.5|10.2|5.62|403"|Crypt_Of_The_NecroDancer|||||
-"September 2016 |182.2|-22.3|-10.89|308"|Crypt_Of_The_NecroDancer|||||
-"August 2016 |204.5|-167.6|-45.03|360"|Crypt_Of_The_NecroDancer|||||
-"July 2016 |372.1|110.0|41.97|874"|Crypt_Of_The_NecroDancer|||||
-"June 2016 |262.1|-54.5|-17.21|783"|Crypt_Of_The_NecroDancer|||||
-"May 2016 |316.6|126.7|66.77|904"|Crypt_Of_The_NecroDancer|||||
-"April 2016 |189.8|-87.0|-31.43|332"|Crypt_Of_The_NecroDancer|||||
-"March 2016 |276.8|-116.5|-29.63|512"|Crypt_Of_The_NecroDancer|||||
-"February 2016 |393.4|-49.4|-11.16|884"|Crypt_Of_The_NecroDancer|||||
-"January 2016 |442.8|80.8|22.33|1088"|Crypt_Of_The_NecroDancer|||||
-"December 2015 |361.9|67.7|23.02|1050"|Crypt_Of_The_NecroDancer|||||
-"November 2015 |294.2|20.6|7.52|863"|Crypt_Of_The_NecroDancer|||||
-"October 2015 |273.6|103.0|60.38|760"|Crypt_Of_The_NecroDancer|||||
-"September 2015 |170.6|-54.5|-24.2|316"|Crypt_Of_The_NecroDancer|||||
-"August 2015 |225.1|-9.8|-4.16|405"|Crypt_Of_The_NecroDancer|||||
-"July 2015 |234.8|-174.0|-42.56|367"|Crypt_Of_The_NecroDancer|||||
-"June 2015 |408.8|-126.3|-23.6|1385"|Crypt_Of_The_NecroDancer|||||
-"May 2015 |535.0|115.7|27.58|1247"|Crypt_Of_The_NecroDancer|||||
-"April 2015 |419.4|251.9|150.43|2234"|Crypt_Of_The_NecroDancer|||||
-"March 2015 |167.5|-8.3|-4.74|352"|Crypt_Of_The_NecroDancer|||||
-"February 2015 |175.8|-62.4|-26.2|419"|Crypt_Of_The_NecroDancer|||||
-"January 2015 |238.2|-14.2|-5.62|427"|Crypt_Of_The_NecroDancer|||||
-"December 2014 |252.4|-17.0|-6.31|771"|Crypt_Of_The_NecroDancer|||||
-"November 2014 |269.4|74.0|37.84|720"|Crypt_Of_The_NecroDancer|||||
-"October 2014 |195.4|50.1|34.45|550"|Crypt_Of_The_NecroDancer|||||
-"September 2014 |145.4|-198.2|-57.69|560"|Crypt_Of_The_NecroDancer|||||
-"August 2014 |343.6|186.5|118.73|1284"|Crypt_Of_The_NecroDancer|||||
-"February 2024 |2208.8|-695.3|-23.94|3891"|Dead_Cells|||||
-"January 2024 |2904.1|-30.9|-1.05|5551"|Dead_Cells|||||
-"December 2023 |2935.0|750.1|34.33|6001"|Dead_Cells|||||
-"November 2023 |2184.9|-213.0|-8.88|4910"|Dead_Cells|||||
-"October 2023 |2397.9|308.6|14.77|5417"|Dead_Cells|||||
-"September 2023 |2089.3|-349.1|-14.32|4002"|Dead_Cells|||||
-"August 2023 |2438.4|-792.8|-24.53|4589"|Dead_Cells|||||
-"July 2023 |3231.2|837.9|35.01|5799"|Dead_Cells|||||
-"June 2023 |2393.3|-539.4|-18.39|4674"|Dead_Cells|||||
-"May 2023 |2932.7|-805.8|-21.55|5765"|Dead_Cells|||||
-"April 2023 |3738.5|-2496.3|-40.04|8426"|Dead_Cells|||||
-"March 2023 |6234.8|3441.8|123.23|14880"|Dead_Cells|||||
-"February 2023 |2793.0|-1052.3|-27.37|4928"|Dead_Cells|||||
-"January 2023 |3845.3|351.1|10.05|6094"|Dead_Cells|||||
-"December 2022 |3494.2|-50.5|-1.42|6505"|Dead_Cells|||||
-"November 2022 |3544.7|1618.6|84.04|8619"|Dead_Cells|||||
-"October 2022 |1926.1|-59.4|-2.99|3609"|Dead_Cells|||||
-"September 2022 |1985.5|-928.6|-31.87|3713"|Dead_Cells|||||
-"August 2022 |2914.2|21.8|0.75|5134"|Dead_Cells|||||
-"July 2022 |2892.3|547.4|23.34|5132"|Dead_Cells|||||
-"June 2022 |2344.9|-589.3|-20.08|5146"|Dead_Cells|||||
-"May 2022 |2934.3|31.5|1.08|6609"|Dead_Cells|||||
-"April 2022 |2902.8|294.1|11.28|6441"|Dead_Cells|||||
-"March 2022 |2608.6|-1404.1|-34.99|5492"|Dead_Cells|||||
-"February 2022 |4012.7|-3008.2|-42.85|7525"|Dead_Cells|||||
-"January 2022 |7020.9|3426.2|95.31|13556"|Dead_Cells|||||
-"December 2021 |3594.8|1076.3|42.74|7553"|Dead_Cells|||||
-"November 2021 |2518.5|646.9|34.56|8530"|Dead_Cells|||||
-"October 2021 |1871.6|-295.0|-13.61|4579"|Dead_Cells|||||
-"September 2021 |2166.6|-125.5|-5.48|5483"|Dead_Cells|||||
-"August 2021 |2292.1|-711.2|-23.68|3680"|Dead_Cells|||||
-"July 2021 |3003.3|645.5|27.38|6287"|Dead_Cells|||||
-"June 2021 |2357.8|389.9|19.81|5852"|Dead_Cells|||||
-"May 2021 |1967.9|-742.5|-27.39|4588"|Dead_Cells|||||
-"April 2021 |2710.4|-229.1|-7.8|6771"|Dead_Cells|||||
-"March 2021 |2939.5|-3242.0|-52.45|7289"|Dead_Cells|||||
-"February 2021 |6181.6|3291.3|113.87|13651"|Dead_Cells|||||
-"January 2021 |2890.3|1212.9|72.3|10451"|Dead_Cells|||||
-"December 2020 |1677.4|457.6|37.51|4107"|Dead_Cells|||||
-"November 2020 |1219.9|43.7|3.72|2474"|Dead_Cells|||||
-"October 2020 |1176.2|-484.1|-29.16|2095"|Dead_Cells|||||
-"September 2020 |1660.3|-1054.5|-38.84|3307"|Dead_Cells|||||
-"August 2020 |2714.9|17.7|0.66|5413"|Dead_Cells|||||
-"July 2020 |2697.2|1025.9|61.39|5316"|Dead_Cells|||||
-"June 2020 |1671.2|-41.1|-2.4|4428"|Dead_Cells|||||
-"May 2020 |1712.3|-295.8|-14.73|3262"|Dead_Cells|||||
-"April 2020 |2008.1|-348.5|-14.79|5322"|Dead_Cells|||||
-"March 2020 |2356.6|-1425.9|-37.7|5054"|Dead_Cells|||||
-"February 2020 |3782.5|1964.6|108.08|9717"|Dead_Cells|||||
-"January 2020 |1817.8|13.9|0.77|3313"|Dead_Cells|||||
-"December 2019 |1803.9|334.1|22.73|3780"|Dead_Cells|||||
-"November 2019 |1469.8|381.5|35.06|3125"|Dead_Cells|||||
-"October 2019 |1088.3|-321.2|-22.79|2029"|Dead_Cells|||||
-"September 2019 |1409.4|-629.1|-30.86|2685"|Dead_Cells|||||
-"August 2019 |2038.5|274.6|15.57|5121"|Dead_Cells|||||
-"July 2019 |1764.0|326.2|22.69|3363"|Dead_Cells|||||
-"June 2019 |1437.8|-97.7|-6.36|3274"|Dead_Cells|||||
-"May 2019 |1535.5|-569.6|-27.06|3133"|Dead_Cells|||||
-"April 2019 |2105.1|447.0|26.96|5155"|Dead_Cells|||||
-"March 2019 |1658.1|342.6|26.04|6323"|Dead_Cells|||||
-"February 2019 |1315.5|-581.4|-30.65|2293"|Dead_Cells|||||
-"January 2019 |1897.0|99.3|5.53|4153"|Dead_Cells|||||
-"December 2018 |1797.6|647.6|56.31|4381"|Dead_Cells|||||
-"November 2018 |1150.0|-398.6|-25.74|2136"|Dead_Cells|||||
-"October 2018 |1548.7|-583.5|-27.37|3746"|Dead_Cells|||||
-"September 2018 |2132.2|-2305.6|-51.95|4601"|Dead_Cells|||||
-"August 2018 |4437.7|2702.1|155.68|10344"|Dead_Cells|||||
-"July 2018 |1735.7|-32.5|-1.84|3625"|Dead_Cells|||||
-"June 2018 |1768.2|616.1|53.48|4192"|Dead_Cells|||||
-"May 2018 |1152.0|62.0|5.69|2200"|Dead_Cells|||||
-"April 2018 |1090.0|-358.2|-24.73|1787"|Dead_Cells|||||
-"March 2018 |1448.3|506.9|53.84|3516"|Dead_Cells|||||
-"February 2018 |941.4|-861.6|-47.79|1548"|Dead_Cells|||||
-"January 2018 |1803.0|425.2|30.86|3602"|Dead_Cells|||||
-"December 2017 |1377.8|363.8|35.88|4004"|Dead_Cells|||||
-"November 2017 |1014.0|567.0|126.88|2639"|Dead_Cells|||||
-"October 2017 |446.9|-365.8|-45.01|847"|Dead_Cells|||||
-"September 2017 |812.7|-158.2|-16.29|1670"|Dead_Cells|||||
-"August 2017 |970.9|-1109.5|-53.33|1535"|Dead_Cells|||||
-"July 2017 |2080.4|-443.3|-17.57|4243"|Dead_Cells|||||
-"June 2017 |2523.7|-37.3|-1.46|4463"|Dead_Cells|||||
-"May 2017 |2561.0|2558.1|86307.07|6712"|Dead_Cells|||||
-"April 2017 |3.0|2.8|1304.43|15"|Dead_Cells|||||
-"March 2017 |0.2|0.1|264.04|6"|Dead_Cells|||||
-|Deep_Rock|March 2024|14725.62|4120.88|+38.86%|31452.0
-|Deep_Rock|February 2024|10604.74|-924.02|-8.01%|18738.0
-|Deep_Rock|January 2024|11528.77|-705.12|-5.76%|20789.0
-|Deep_Rock|December 2023|12233.88|-385.20|-3.05%|20579.0
-|Deep_Rock|November 2023|12619.08|1740.95|+16.00%|22249.0
-|Deep_Rock|October 2023|10878.13|-1505.71|-12.16%|23423.0
-|Deep_Rock|September 2023|12383.85|-2099.40|-14.50%|25298.0
-|Deep_Rock|August 2023|14483.24|-4305.90|-22.92%|25573.0
-|Deep_Rock|July 2023|18789.15|980.16|+5.50%|34474.0
-|Deep_Rock|June 2023|17808.98|4615.36|+34.98%|34905.0
-|Deep_Rock|May 2023|13193.62|-2034.10|-13.36%|24918.0
-|Deep_Rock|April 2023|15227.72|-5570.67|-26.78%|27496.0
-|Deep_Rock|March 2023|20798.39|7700.37|+58.79%|36198.0
-|Deep_Rock|February 2023|13098.02|-3522.72|-21.19%|23460.0
-|Deep_Rock|January 2023|16620.74|284.88|+1.74%|27360.0
-|Deep_Rock|December 2022|16335.86|-5301.69|-24.50%|25051.0
-|Deep_Rock|November 2022|21637.55|13131.11|+154.37%|46392.0
-|Deep_Rock|October 2022|8506.44|-31.65|-0.37%|15230.0
-|Deep_Rock|September 2022|8538.09|393.40|+4.83%|16182.0
-|Deep_Rock|August 2022|8144.69|-3769.25|-31.64%|13619.0
-|Deep_Rock|July 2022|11913.93|-1381.37|-10.39%|24217.0
-|Deep_Rock|June 2022|13295.31|470.86|+3.67%|26162.0
-|Deep_Rock|May 2022|12824.45|3983.47|+45.06%|30710.0
-|Deep_Rock|April 2022|8840.98|447.41|+5.33%|28698.0
-|Deep_Rock|March 2022|8393.57|-1462.09|-14.83%|16649.0
-|Deep_Rock|February 2022|9855.65|-483.81|-4.68%|21314.0
-|Deep_Rock|January 2022|10339.46|-501.69|-4.63%|20811.0
-|Deep_Rock|December 2021|10841.15|-7183.58|-39.85%|19148.0
-|Deep_Rock|November 2021|18024.73|13301.11|+281.59%|41544.0
-|Deep_Rock|October 2021|4723.62|-175.09|-3.57%|10818.0
-|Deep_Rock|September 2021|4898.71|452.63|+10.18%|9112.0
-|Deep_Rock|August 2021|4446.08|-2255.60|-33.66%|7472.0
-|Deep_Rock|July 2021|6701.67|1144.29|+20.59%|12469.0
-|Deep_Rock|June 2021|5557.39|-743.92|-11.81%|13027.0
-|Deep_Rock|May 2021|6301.31|1044.34|+19.87%|13218.0
-|Deep_Rock|April 2021|5256.97|-5692.64|-51.99%|9049.0
-|Deep_Rock|March 2021|10949.6|1823.14|+19.98%|24522.0
-|Deep_Rock|February 2021|9126.46|1921.06|+26.66%|35827.0
-|Deep_Rock|January 2021|7205.41|1193.30|+19.85%|14077.0
-|Deep_Rock|December 2020|6012.11|485.09|+8.78%|12395.0
-|Deep_Rock|November 2020|5527.01|510.43|+10.17%|11275.0
-|Deep_Rock|October 2020|5016.59|382.40|+8.25%|12457.0
-|Deep_Rock|September 2020|4634.19|1223.67|+35.88%|9273.0
-|Deep_Rock|August 2020|3410.52|-1956.41|-36.45%|6370.0
-|Deep_Rock|July 2020|5366.93|-676.53|-11.19%|10527.0
-|Deep_Rock|June 2020|6043.46|-519.74|-7.92%|11326.0
-|Deep_Rock|May 2020|6563.21|3156.66|+92.66%|15515.0
-|Deep_Rock|April 2020|3406.54|-3067.17|-47.38%|6541.0
-|Deep_Rock|March 2020|6473.72|3164.79|+95.64%|20030.0
-|Deep_Rock|February 2020|3308.93|796.89|+31.72%|19471.0
-|Deep_Rock|January 2020|2512.05|13.56|+0.54%|5242.0
-|Deep_Rock|December 2019|2498.49|726.93|+41.03%|5091.0
-|Deep_Rock|November 2019|1771.56|-165.51|-8.54%|4489.0
-|Deep_Rock|October 2019|1937.07|-22.84|-1.17%|4172.0
-|Deep_Rock|September 2019|1959.91|1220.49|+165.06%|9790.0
-|Deep_Rock|August 2019|739.42|-624.56|-45.79%|1393.0
-|Deep_Rock|July 2019|1363.98|205.92|+17.78%|3026.0
-|Deep_Rock|June 2019|1158.06|15.66|+1.37%|3085.0
-|Deep_Rock|May 2019|1142.41|322.24|+39.29%|3453.0
-|Deep_Rock|April 2019|820.17|-1666.99|-67.02%|1863.0
-|Deep_Rock|March 2019|2487.16|1305.94|+110.56%|14863.0
-|Deep_Rock|February 2019|1181.22|-162.28|-12.08%|4462.0
-|Deep_Rock|January 2019|1343.5|-86.97|-6.08%|3014.0
-|Deep_Rock|December 2018|1430.48|733.60|+105.27%|3263.0
-|Deep_Rock|November 2018|696.88|114.51|+19.66%|2631.0
-|Deep_Rock|October 2018|582.37|-10.02|-1.69%|1404.0
-|Deep_Rock|September 2018|592.38|303.24|+104.88%|1311.0
-|Deep_Rock|August 2018|289.14|-510.75|-63.85%|743.0
-|Deep_Rock|July 2018|799.88|95.52|+13.56%|2272.0
-|Deep_Rock|June 2018|704.37|-102.34|-12.69%|2189.0
-|Deep_Rock|May 2018|806.71|192.97|+31.44%|2963.0
-|Deep_Rock|April 2018|613.74|-720.77|-54.01%|1686.0
-|Deep_Rock|March 2018|1334.51|1288.12|+2776.24%|4286.0
-|Deep_Rock|February 2018|46.4|45.60|+5725.25%|2674.0
-|Deep_Rock|January 2018|0.8|-0.26|-24.53%|6.0
-|Deep_Rock|December 2017|1.06|-1.90|-64.32%|9.0
-|Deep_Rock|November 2017|2.96|-1.28|-30.24%|17.0
-|Deep_Rock|October 2017|4.24|-7.77|-64.68%|25.0
-|Deep_Rock|September 2017|12.01|1.84|+18.07%|59.0
-|Deep_Rock|August 2017|10.17|5.41|+113.61%|184.0
-|Deep_Rock|July 2017|4.76|-1.07|-18.41%|28.0
-|Deep_Rock|June 2017|5.83|4.33|+288.11%|114.0
-|Deep_Rock|May 2017|1.5|0.25|+19.87%|16.0
-|Deep_Rock|April 2017|1.25|-0.86|-40.60%|9.0
-|Deep_Rock|March 2017|2.11|0.55|+35.53%|33.0
-|Deep_Rock|February 2017|1.56|1.32|+554.90%|21.0
-|Deep_Rock|January 2017|0.24|-1.19|-83.29%|4.0
-|Deep_Rock|December 2016|1.42|-|-|11.0
-"February 2024 |3.5|-0.6|-13.92|9"|Delver|||||
-"January 2024 |4.0|0.5|13.61|16"|Delver|||||
-"December 2023 |3.5|0.5|14.52|12"|Delver|||||
-"November 2023 |3.1|-0.2|-6.65|10"|Delver|||||
-"October 2023 |3.3|-0.1|-3.61|10"|Delver|||||
-"September 2023 |3.4|0.4|13.99|11"|Delver|||||
-"August 2023 |3.0|-0.1|-4.39|10"|Delver|||||
-"July 2023 |3.1|0.2|5.34|9"|Delver|||||
-"June 2023 |3.0|-0.1|-3.99|10"|Delver|||||
-"May 2023 |3.1|-0.4|-12.19|9"|Delver|||||
-"April 2023 |3.5|0.0|0.17|11"|Delver|||||
-"March 2023 |3.5|-0.3|-8.49|11"|Delver|||||
-"February 2023 |3.9|-0.6|-14.24|13"|Delver|||||
-"January 2023 |4.5|0.3|6.08|13"|Delver|||||
-"December 2022 |4.3|0.4|9.41|15"|Delver|||||
-"November 2022 |3.9|0.7|22.19|13"|Delver|||||
-"October 2022 |3.2|-0.4|-10.75|12"|Delver|||||
-"September 2022 |3.6|-0.5|-12.76|12"|Delver|||||
-"August 2022 |4.1|-0.7|-13.86|13"|Delver|||||
-"July 2022 |4.8|0.3|7.35|13"|Delver|||||
-"June 2022 |4.4|-0.5|-10.14|13"|Delver|||||
-"May 2022 |4.9|0.4|9.68|19"|Delver|||||
-"April 2022 |4.5|0.6|14.31|14"|Delver|||||
-"March 2022 |3.9|-1.1|-22.6|15"|Delver|||||
-"February 2022 |5.1|-0.9|-15.18|14"|Delver|||||
-"January 2022 |6.0|0.5|9.35|16"|Delver|||||
-"December 2021 |5.5|0.2|4.56|16"|Delver|||||
-"November 2021 |5.2|-0.1|-1.18|17"|Delver|||||
-"October 2021 |5.3|-0.3|-5.27|20"|Delver|||||
-"September 2021 |5.6|-8.2|-59.61|19"|Delver|||||
-"August 2021 |13.8|7.0|102.11|48"|Delver|||||
-"July 2021 |6.8|1.3|22.25|44"|Delver|||||
-"June 2021 |5.6|0.9|19.62|19"|Delver|||||
-"May 2021 |4.7|0.4|10.38|13"|Delver|||||
-"April 2021 |4.2|-0.7|-13.28|14"|Delver|||||
-"March 2021 |4.9|-1.3|-20.49|14"|Delver|||||
-"February 2021 |6.2|0.0|0.04|17"|Delver|||||
-"January 2021 |6.2|0.6|10.76|18"|Delver|||||
-"December 2020 |5.5|-0.6|-9.97|15"|Delver|||||
-"November 2020 |6.2|0.9|16.57|19"|Delver|||||
-"October 2020 |5.3|-0.7|-11.93|16"|Delver|||||
-"September 2020 |6.0|0.9|18.21|22"|Delver|||||
-"August 2020 |5.1|-2.7|-35.02|15"|Delver|||||
-"July 2020 |7.8|1.5|23.73|24"|Delver|||||
-"June 2020 |6.3|-0.5|-7.59|24"|Delver|||||
-"May 2020 |6.8|-3.8|-35.52|19"|Delver|||||
-"April 2020 |10.6|-4.0|-27.65|37"|Delver|||||
-"March 2020 |14.7|7.4|101.97|56"|Delver|||||
-"February 2020 |7.3|0.5|6.69|20"|Delver|||||
-"January 2020 |6.8|0.1|1.64|23"|Delver|||||
-"December 2019 |6.7|0.2|3.02|26"|Delver|||||
-"November 2019 |6.5|2.2|49.75|21"|Delver|||||
-"October 2019 |4.3|-1.4|-24.99|13"|Delver|||||
-"September 2019 |5.8|-0.9|-13.63|16"|Delver|||||
-"August 2019 |6.7|-0.4|-5.72|19"|Delver|||||
-"July 2019 |7.1|0.8|12.8|22"|Delver|||||
-"June 2019 |6.3|0.7|12.69|19"|Delver|||||
-"May 2019 |5.6|-0.4|-6.45|16"|Delver|||||
-"April 2019 |6.0|-0.6|-8.99|17"|Delver|||||
-"March 2019 |6.6|0.0|0.41|19"|Delver|||||
-"February 2019 |6.5|-0.9|-11.75|17"|Delver|||||
-"January 2019 |7.4|-2.2|-22.78|21"|Delver|||||
-"December 2018 |9.6|-0.4|-3.85|28"|Delver|||||
-"November 2018 |10.0|3.7|59.0|41"|Delver|||||
-"October 2018 |6.3|0.3|5.92|25"|Delver|||||
-"September 2018 |5.9|-1.6|-21.33|23"|Delver|||||
-"August 2018 |7.5|-0.7|-8.61|20"|Delver|||||
-"July 2018 |8.2|-0.2|-1.98|23"|Delver|||||
-"June 2018 |8.4|-1.1|-11.76|26"|Delver|||||
-"May 2018 |9.5|-2.3|-19.34|28"|Delver|||||
-"April 2018 |11.8|-5.4|-31.51|29"|Delver|||||
-"March 2018 |17.2|-26.4|-60.53|40"|Delver|||||
-"February 2018 |43.7|38.4|731.96|184"|Delver|||||
-"January 2018 |5.3|-0.2|-3.53|17"|Delver|||||
-"December 2017 |5.4|1.0|21.58|15"|Delver|||||
-"November 2017 |4.5|-0.4|-8.02|13"|Delver|||||
-"October 2017 |4.9|0.2|3.55|14"|Delver|||||
-"September 2017 |4.7|-0.5|-8.75|17"|Delver|||||
-"August 2017 |5.2|-0.3|-5.34|14"|Delver|||||
-"July 2017 |5.4|-0.7|-11.29|17"|Delver|||||
-"June 2017 |6.1|-1.8|-22.53|16"|Delver|||||
-"May 2017 |7.9|-4.9|-38.4|22"|Delver|||||
-"April 2017 |12.8|7.4|136.44|40"|Delver|||||
-"March 2017 |5.4|-3.1|-36.31|17"|Delver|||||
-"February 2017 |8.5|-0.3|-2.96|21"|Delver|||||
-"January 2017 |8.8|2.3|35.67|29"|Delver|||||
-"December 2016 |6.5|0.9|16.24|19"|Delver|||||
-"November 2016 |5.6|-0.4|-6.98|16"|Delver|||||
-"October 2016 |6.0|-1.4|-19.26|16"|Delver|||||
-"September 2016 |7.4|3.7|97.55|40"|Delver|||||
-"August 2016 |3.8|-0.7|-16.41|14"|Delver|||||
-"July 2016 |4.5|-0.3|-6.79|14"|Delver|||||
-"June 2016 |4.8|0.6|13.03|18"|Delver|||||
-"May 2016 |4.3|-0.4|-9.07|14"|Delver|||||
-"April 2016 |4.7|-0.8|-14.78|18"|Delver|||||
-"March 2016 |5.5|-4.1|-42.79|17"|Delver|||||
-"February 2016 |9.6|2.8|41.5|34"|Delver|||||
-"January 2016 |6.8|0.1|1.77|21"|Delver|||||
-"December 2015 |6.7|0.6|10.67|19"|Delver|||||
-"November 2015 |6.0|-1.6|-21.46|18"|Delver|||||
-"October 2015 |7.7|0.7|9.23|26"|Delver|||||
-"September 2015 |7.0|-0.2|-2.75|43"|Delver|||||
-"August 2015 |7.2|-1.1|-13.02|21"|Delver|||||
-"July 2015 |8.3|-1.1|-11.54|24"|Delver|||||
-"June 2015 |9.4|-3.8|-28.84|40"|Delver|||||
-"May 2015 |13.2|-8.0|-37.64|39"|Delver|||||
-"April 2015 |21.2|0.4|2.04|137"|Delver|||||
-"March 2015 |20.8|12.3|144.79|132"|Delver|||||
-"February 2015 |8.5|-3.6|-29.96|25"|Delver|||||
-"January 2015 |12.1|0.2|2.03|43"|Delver|||||
-"December 2014 |11.9|3.9|49.23|42"|Delver|||||
-"November 2014 |8.0|-1.0|-10.8|33"|Delver|||||
-"October 2014 |8.9|3.4|61.94|36"|Delver|||||
-"September 2014 |5.5|-3.8|-40.77|18"|Delver|||||
-"August 2014 |9.3|-6.4|-40.68|63"|Delver|||||
-"July 2014 |15.7|-15.3|-49.42|61"|Delver|||||
-"June 2014 |31.0|27.5|785.61|640"|Delver|||||
-"May 2014 |3.5|-2.5|-41.94|12"|Delver|||||
-"April 2014 |6.0|2.4|66.12|31"|Delver|||||
-"March 2014 |3.6|-0.8|-17.87|13"|Delver|||||
-"February 2014 |4.4|-20.8|-82.5|18"|Delver|||||
-"January 2014 |25.3|14.2|127.33|467"|Delver|||||
-"December 2013 |11.1|2.2|25.13|43"|Delver|||||
-"November 2013 |8.9|3.6|68.51|48"|Delver|||||
-"October 2013 |5.3|-3.5|-39.96|29"|Delver|||||
-"February 2024 |1063.6|-40.4|-3.66|1730"|Enter_The_Gungeon|||||
-"January 2024 |1104.0|27.3|2.54|1567"|Enter_The_Gungeon|||||
-"December 2023 |1076.7|75.8|7.58|1554"|Enter_The_Gungeon|||||
-"November 2023 |1000.9|-234.7|-18.99|1649"|Enter_The_Gungeon|||||
-"October 2023 |1235.6|131.8|11.94|2593"|Enter_The_Gungeon|||||
-"September 2023 |1103.8|-275.4|-19.97|2593"|Enter_The_Gungeon|||||
-"August 2023 |1379.2|306.6|28.58|2225"|Enter_The_Gungeon|||||
-"July 2023 |1072.7|-6.9|-0.64|1418"|Enter_The_Gungeon|||||
-"June 2023 |1079.5|-76.6|-6.62|1578"|Enter_The_Gungeon|||||
-"May 2023 |1156.1|136.2|13.35|1929"|Enter_The_Gungeon|||||
-"April 2023 |1019.9|80.4|8.56|1998"|Enter_The_Gungeon|||||
-"March 2023 |939.5|-21.7|-2.26|1373"|Enter_The_Gungeon|||||
-"February 2023 |961.2|-74.0|-7.15|1388"|Enter_The_Gungeon|||||
-"January 2023 |1035.3|47.7|4.83|1454"|Enter_The_Gungeon|||||
-"December 2022 |987.6|69.0|7.51|1387"|Enter_The_Gungeon|||||
-"November 2022 |918.6|-117.0|-11.3|1379"|Enter_The_Gungeon|||||
-"October 2022 |1035.6|-198.2|-16.06|1750"|Enter_The_Gungeon|||||
-"September 2022 |1233.8|-396.8|-24.34|1996"|Enter_The_Gungeon|||||
-"August 2022 |1630.6|484.4|42.26|4401"|Enter_The_Gungeon|||||
-"July 2022 |1146.2|-25.8|-2.2|1503"|Enter_The_Gungeon|||||
-"June 2022 |1172.1|-309.6|-20.89|1674"|Enter_The_Gungeon|||||
-"May 2022 |1481.7|539.2|57.21|2397"|Enter_The_Gungeon|||||
-"April 2022 |942.5|72.2|8.3|1353"|Enter_The_Gungeon|||||
-"March 2022 |870.3|-45.9|-5.01|1324"|Enter_The_Gungeon|||||
-"February 2022 |916.1|-149.1|-14.0|1298"|Enter_The_Gungeon|||||
-"January 2022 |1065.3|38.3|3.73|1452"|Enter_The_Gungeon|||||
-"December 2021 |1027.0|102.3|11.07|1414"|Enter_The_Gungeon|||||
-"November 2021 |924.6|-7.9|-0.85|1410"|Enter_The_Gungeon|||||
-"October 2021 |932.5|-156.1|-14.34|1444"|Enter_The_Gungeon|||||
-"September 2021 |1088.6|-33.1|-2.95|1681"|Enter_The_Gungeon|||||
-"August 2021 |1121.8|-123.3|-9.9|1483"|Enter_The_Gungeon|||||
-"July 2021 |1245.0|-33.3|-2.61|1656"|Enter_The_Gungeon|||||
-"June 2021 |1278.3|-51.3|-3.86|1983"|Enter_The_Gungeon|||||
-"May 2021 |1329.7|111.8|9.18|2134"|Enter_The_Gungeon|||||
-"April 2021 |1217.8|73.5|6.43|1724"|Enter_The_Gungeon|||||
-"March 2021 |1144.3|-38.5|-3.26|1986"|Enter_The_Gungeon|||||
-"February 2021 |1182.8|-187.2|-13.66|1589"|Enter_The_Gungeon|||||
-"January 2021 |1370.0|215.8|18.7|1982"|Enter_The_Gungeon|||||
-"December 2020 |1154.1|-87.3|-7.03|1562"|Enter_The_Gungeon|||||
-"November 2020 |1241.4|80.1|6.9|1680"|Enter_The_Gungeon|||||
-"October 2020 |1161.3|-260.9|-18.34|1585"|Enter_The_Gungeon|||||
-"September 2020 |1422.2|-23.6|-1.63|2015"|Enter_The_Gungeon|||||
-"August 2020 |1445.8|-10.2|-0.7|2049"|Enter_The_Gungeon|||||
-"July 2020 |1455.9|-80.4|-5.23|1874"|Enter_The_Gungeon|||||
-"June 2020 |1536.3|-12.4|-0.8|2598"|Enter_The_Gungeon|||||
-"May 2020 |1548.8|-446.1|-22.36|2230"|Enter_The_Gungeon|||||
-"April 2020 |1994.9|-115.0|-5.45|3003"|Enter_The_Gungeon|||||
-"March 2020 |2109.8|514.8|32.27|3538"|Enter_The_Gungeon|||||
-"February 2020 |1595.1|43.2|2.79|2550"|Enter_The_Gungeon|||||
-"January 2020 |1551.8|93.7|6.42|2215"|Enter_The_Gungeon|||||
-"December 2019 |1458.2|94.9|6.96|2251"|Enter_The_Gungeon|||||
-"November 2019 |1363.3|22.8|1.7|2490"|Enter_The_Gungeon|||||
-"October 2019 |1340.4|-278.1|-17.18|2212"|Enter_The_Gungeon|||||
-"September 2019 |1618.5|81.9|5.33|3289"|Enter_The_Gungeon|||||
-"August 2019 |1536.6|-600.1|-28.09|2572"|Enter_The_Gungeon|||||
-"July 2019 |2136.7|-562.7|-20.85|3395"|Enter_The_Gungeon|||||
-"June 2019 |2699.5|-1229.9|-31.3|3843"|Enter_The_Gungeon|||||
-"May 2019 |3929.4|-2558.7|-39.44|7041"|Enter_The_Gungeon|||||
-"April 2019 |6488.1|5179.7|395.89|13043"|Enter_The_Gungeon|||||
-"March 2019 |1308.4|-104.5|-7.4|2238"|Enter_The_Gungeon|||||
-"February 2019 |1412.9|-390.4|-21.65|2159"|Enter_The_Gungeon|||||
-"January 2019 |1803.2|348.1|23.93|3413"|Enter_The_Gungeon|||||
-"December 2018 |1455.1|-119.3|-7.58|2315"|Enter_The_Gungeon|||||
-"November 2018 |1574.4|-150.0|-8.7|2597"|Enter_The_Gungeon|||||
-"October 2018 |1724.4|-692.5|-28.65|3184"|Enter_The_Gungeon|||||
-"September 2018 |2416.9|-2224.1|-47.92|4318"|Enter_The_Gungeon|||||
-"August 2018 |4640.9|-184.9|-3.83|8612"|Enter_The_Gungeon|||||
-"July 2018 |4825.9|3706.0|330.95|15767"|Enter_The_Gungeon|||||
-"June 2018 |1119.8|40.0|3.71|3111"|Enter_The_Gungeon|||||
-"May 2018 |1079.8|370.6|52.25|2579"|Enter_The_Gungeon|||||
-"April 2018 |709.2|-52.1|-6.84|1269"|Enter_The_Gungeon|||||
-"March 2018 |761.3|-153.2|-16.76|1273"|Enter_The_Gungeon|||||
-"February 2018 |914.5|-136.3|-12.97|1480"|Enter_The_Gungeon|||||
-"January 2018 |1050.9|154.0|17.17|1646"|Enter_The_Gungeon|||||
-"December 2017 |896.9|147.0|19.6|1632"|Enter_The_Gungeon|||||
-"November 2017 |749.9|-242.9|-24.46|1297"|Enter_The_Gungeon|||||
-"October 2017 |992.8|139.6|16.36|2565"|Enter_The_Gungeon|||||
-"September 2017 |853.2|162.2|23.47|2123"|Enter_The_Gungeon|||||
-"August 2017 |691.0|-245.1|-26.18|1007"|Enter_The_Gungeon|||||
-"July 2017 |936.1|-37.7|-3.87|1658"|Enter_The_Gungeon|||||
-"June 2017 |973.8|-60.3|-5.83|1828"|Enter_The_Gungeon|||||
-"May 2017 |1034.1|123.9|13.61|2633"|Enter_The_Gungeon|||||
-"April 2017 |910.2|-264.1|-22.49|1491"|Enter_The_Gungeon|||||
-"March 2017 |1174.4|-1176.3|-50.04|2091"|Enter_The_Gungeon|||||
-"February 2017 |2350.7|738.3|45.78|4609"|Enter_The_Gungeon|||||
-"January 2017 |1612.5|772.7|92.01|6903"|Enter_The_Gungeon|||||
-"December 2016 |839.8|227.0|37.04|2076"|Enter_The_Gungeon|||||
-"November 2016 |612.8|61.5|11.15|1518"|Enter_The_Gungeon|||||
-"October 2016 |551.3|-191.4|-25.77|1023"|Enter_The_Gungeon|||||
-"September 2016 |742.7|29.3|4.11|1748"|Enter_The_Gungeon|||||
-"August 2016 |713.4|-378.6|-34.67|1264"|Enter_The_Gungeon|||||
-"July 2016 |1091.9|-226.3|-17.17|2153"|Enter_The_Gungeon|||||
-"June 2016 |1318.3|-1108.3|-45.67|2132"|Enter_The_Gungeon|||||
-"May 2016 |2426.6|-2192.1|-47.46|5299"|Enter_The_Gungeon|||||
-"April 2016 |4618.7|4615.5|146304.94|13574"|Enter_The_Gungeon|||||
-"March 2016 |3.1|2.2|220.07|23"|Enter_The_Gungeon|||||
-"February 2016 |1.0|0.1|14.09|5"|Enter_The_Gungeon|||||
-"January 2016 |0.9|0.6|182.44|5"|Enter_The_Gungeon|||||
-"December 2015 |0.3|0.3|761.52|3"|Enter_The_Gungeon|||||
-"November 2015 |0.0|-0.1|-65.25|1"|Enter_The_Gungeon|||||
-"October 2015 |0.1|-0.0|-18.26|1"|Enter_The_Gungeon|||||
-"September 2015 |0.1|0.1|110.76|2"|Enter_The_Gungeon|||||
-"August 2015 |0.1|-0.0|-31.24|2"|Enter_The_Gungeon|||||
-"July 2015 |0.1|-0.1|-43.98|2"|Enter_The_Gungeon|||||
-"June 2015 |0.1|0.1|334.98|3"|Enter_The_Gungeon|||||
-"May 2015 |0.0|-0.1|-72.1|2"|Enter_The_Gungeon|||||
-"February 2024 |1113.2|-19.7|-1.74|1708"|FTL|||||
-"January 2024 |1132.9|28.4|2.58|1817"|FTL|||||
-"December 2023 |1104.5|58.0|5.55|1672"|FTL|||||
-"November 2023 |1046.4|72.7|7.47|1772"|FTL|||||
-"October 2023 |973.7|-8.0|-0.82|1476"|FTL|||||
-"September 2023 |981.7|-8.8|-0.88|1495"|FTL|||||
-"August 2023 |990.4|-102.7|-9.39|1463"|FTL|||||
-"July 2023 |1093.1|171.2|18.58|1580"|FTL|||||
-"June 2023 |921.9|-48.6|-5.01|1380"|FTL|||||
-"May 2023 |970.5|-82.3|-7.82|1487"|FTL|||||
-"April 2023 |1052.9|-59.2|-5.32|1553"|FTL|||||
-"March 2023 |1112.1|66.2|6.33|1714"|FTL|||||
-"February 2023 |1045.9|-70.5|-6.31|1659"|FTL|||||
-"January 2023 |1116.4|56.0|5.28|1713"|FTL|||||
-"December 2022 |1060.4|41.6|4.09|1612"|FTL|||||
-"November 2022 |1018.8|-19.6|-1.89|1615"|FTL|||||
-"October 2022 |1038.4|-75.3|-6.76|1616"|FTL|||||
-"September 2022 |1113.7|-194.8|-14.89|1779"|FTL|||||
-"August 2022 |1308.5|-18.4|-1.39|1967"|FTL|||||
-"July 2022 |1326.9|109.2|8.97|2079"|FTL|||||
-"June 2022 |1217.7|-145.3|-10.66|1957"|FTL|||||
-"May 2022 |1363.0|177.4|14.97|2173"|FTL|||||
-"April 2022 |1185.5|161.7|15.79|1855"|FTL|||||
-"March 2022 |1023.9|-49.6|-4.62|1577"|FTL|||||
-"February 2022 |1073.5|-139.2|-11.48|1662"|FTL|||||
-"January 2022 |1212.7|99.4|8.93|1834"|FTL|||||
-"December 2021 |1113.4|-73.3|-6.18|1733"|FTL|||||
-"November 2021 |1186.7|-84.5|-6.64|1845"|FTL|||||
-"October 2021 |1271.2|-148.2|-10.44|2190"|FTL|||||
-"September 2021 |1419.3|-105.1|-6.9|2273"|FTL|||||
-"August 2021 |1524.4|-284.2|-15.71|2261"|FTL|||||
-"July 2021 |1808.6|353.7|24.31|3219"|FTL|||||
-"June 2021 |1454.9|351.6|31.87|2975"|FTL|||||
-"May 2021 |1103.3|18.4|1.7|1638"|FTL|||||
-"April 2021 |1084.9|-54.3|-4.77|1706"|FTL|||||
-"March 2021 |1139.2|-64.9|-5.39|1892"|FTL|||||
-"February 2021 |1204.1|25.1|2.13|1854"|FTL|||||
-"January 2021 |1179.0|88.0|8.07|1833"|FTL|||||
-"December 2020 |1090.9|-41.0|-3.63|1756"|FTL|||||
-"November 2020 |1132.0|64.5|6.04|1769"|FTL|||||
-"October 2020 |1067.5|-70.4|-6.19|1648"|FTL|||||
-"September 2020 |1137.9|-13.5|-1.17|1734"|FTL|||||
-"August 2020 |1151.4|-127.9|-10.0|1693"|FTL|||||
-"July 2020 |1279.3|135.8|11.87|1934"|FTL|||||
-"June 2020 |1143.6|-99.6|-8.01|1853"|FTL|||||
-"May 2020 |1243.2|-62.3|-4.77|1823"|FTL|||||
-"April 2020 |1305.5|75.5|6.14|1865"|FTL|||||
-"March 2020 |1230.0|-41.8|-3.29|2190"|FTL|||||
-"February 2020 |1271.8|-98.7|-7.2|2299"|FTL|||||
-"January 2020 |1370.5|188.0|15.9|2186"|FTL|||||
-"December 2019 |1182.5|62.3|5.56|2196"|FTL|||||
-"November 2019 |1120.2|155.8|16.15|1876"|FTL|||||
-"October 2019 |964.4|-45.9|-4.55|1566"|FTL|||||
-"September 2019 |1010.4|-285.3|-22.02|1720"|FTL|||||
-"August 2019 |1295.7|-397.4|-23.47|2163"|FTL|||||
-"July 2019 |1693.0|539.6|46.79|3619"|FTL|||||
-"June 2019 |1153.4|120.0|11.62|2254"|FTL|||||
-"May 2019 |1033.3|44.4|4.48|1794"|FTL|||||
-"April 2019 |989.0|-71.1|-6.71|1614"|FTL|||||
-"March 2019 |1060.1|-91.6|-7.95|1877"|FTL|||||
-"February 2019 |1151.7|-122.4|-9.61|2036"|FTL|||||
-"January 2019 |1274.1|61.0|5.03|2172"|FTL|||||
-"December 2018 |1213.1|144.8|13.56|2116"|FTL|||||
-"November 2018 |1068.2|-23.9|-2.19|2192"|FTL|||||
-"October 2018 |1092.1|124.0|12.8|1903"|FTL|||||
-"September 2018 |968.2|52.4|5.72|2210"|FTL|||||
-"August 2018 |915.8|-256.1|-21.86|1534"|FTL|||||
-"July 2018 |1171.9|103.2|9.65|2007"|FTL|||||
-"June 2018 |1068.8|80.1|8.11|1957"|FTL|||||
-"May 2018 |988.6|-148.2|-13.04|1760"|FTL|||||
-"April 2018 |1136.8|-367.5|-24.43|1936"|FTL|||||
-"March 2018 |1504.4|406.6|37.04|2996"|FTL|||||
-"February 2018 |1097.7|-134.1|-10.88|1907"|FTL|||||
-"January 2018 |1231.8|22.6|1.87|2219"|FTL|||||
-"December 2017 |1209.2|119.0|10.92|2126"|FTL|||||
-"November 2017 |1090.2|-69.6|-6.0|2041"|FTL|||||
-"October 2017 |1159.8|47.6|4.28|2092"|FTL|||||
-"September 2017 |1112.1|-35.1|-3.06|1918"|FTL|||||
-"August 2017 |1147.2|-286.3|-19.97|1825"|FTL|||||
-"July 2017 |1433.5|86.1|6.39|2607"|FTL|||||
-"June 2017 |1347.4|207.9|18.25|3224"|FTL|||||
-"May 2017 |1139.5|7.4|0.66|1939"|FTL|||||
-"April 2017 |1132.1|-274.3|-19.5|1822"|FTL|||||
-"March 2017 |1406.4|93.7|7.13|3421"|FTL|||||
-"February 2017 |1312.7|25.0|1.94|3024"|FTL|||||
-"January 2017 |1287.7|43.9|3.53|2566"|FTL|||||
-"December 2016 |1243.8|122.5|10.92|2402"|FTL|||||
-"November 2016 |1121.4|83.4|8.04|2249"|FTL|||||
-"October 2016 |1037.9|4.3|0.41|1818"|FTL|||||
-"September 2016 |1033.7|-58.6|-5.36|1710"|FTL|||||
-"August 2016 |1092.3|-191.2|-14.89|1804"|FTL|||||
-"July 2016 |1283.4|116.2|9.95|2595"|FTL|||||
-"June 2016 |1167.3|123.6|11.84|2378"|FTL|||||
-"May 2016 |1043.7|18.7|1.83|1873"|FTL|||||
-"April 2016 |1025.0|-115.3|-10.11|1799"|FTL|||||
-"March 2016 |1140.3|-210.9|-15.61|2075"|FTL|||||
-"February 2016 |1351.2|-282.3|-17.28|2467"|FTL|||||
-"January 2016 |1633.5|248.1|17.91|3472"|FTL|||||
-"December 2015 |1385.4|324.6|30.59|3093"|FTL|||||
-"November 2015 |1060.8|-47.4|-4.27|2232"|FTL|||||
-"October 2015 |1108.2|67.0|6.44|2059"|FTL|||||
-"September 2015 |1041.1|-85.8|-7.61|1813"|FTL|||||
-"August 2015 |1126.9|-83.2|-6.88|1830"|FTL|||||
-"July 2015 |1210.1|-184.7|-13.24|1935"|FTL|||||
-"June 2015 |1394.8|23.0|1.68|2786"|FTL|||||
-"May 2015 |1371.8|-78.0|-5.38|2503"|FTL|||||
-"April 2015 |1449.9|16.9|1.18|4108"|FTL|||||
-"March 2015 |1432.9|-13.7|-0.95|2967"|FTL|||||
-"February 2015 |1446.7|-501.1|-25.73|2662"|FTL|||||
-"January 2015 |1947.7|140.0|7.75|3947"|FTL|||||
-"December 2014 |1807.7|470.8|35.21|4837"|FTL|||||
-"November 2014 |1336.9|-15.1|-1.12|3244"|FTL|||||
-"October 2014 |1352.1|-6.0|-0.44|2502"|FTL|||||
-"September 2014 |1358.0|-439.1|-24.43|2390"|FTL|||||
-"August 2014 |1797.1|-379.6|-17.44|3602"|FTL|||||
-"July 2014 |2176.7|-335.9|-13.37|4311"|FTL|||||
-"June 2014 |2512.6|-407.0|-13.94|7593"|FTL|||||
-"May 2014 |2919.6|-4070.7|-58.23|6255"|FTL|||||
-"April 2014 |6990.3|5776.1|475.71|18821"|FTL|||||
-"March 2014 |1214.2|52.0|4.48|3264"|FTL|||||
-"February 2014 |1162.2|-414.7|-26.3|2268"|FTL|||||
-"January 2014 |1576.9|-260.7|-14.19|3714"|FTL|||||
-"December 2013 |1837.6|536.3|41.21|5334"|FTL|||||
-"November 2013 |1301.3|21.5|1.68|3080"|FTL|||||
-"October 2013 |1279.7|-754.7|-37.1|2724"|FTL|||||
-"September 2013 |2034.4|596.0|41.44|5204"|FTL|||||
-"August 2013 |1438.4|-1587.3|-52.46|2982"|FTL|||||
-"July 2013 |3025.7|1778.5|142.6|11642"|FTL|||||
-"June 2013 |1247.2|356.2|39.97|3503"|FTL|||||
-"May 2013 |891.0|-204.7|-18.68|2123"|FTL|||||
-"April 2013 |1095.8|-265.9|-19.53|2078"|FTL|||||
-"March 2013 |1361.7|-679.3|-33.28|3102"|FTL|||||
-"February 2013 |2041.0|-1382.2|-40.38|4588"|FTL|||||
-"January 2013 |3423.2|854.0|33.24|9356"|FTL|||||
-"December 2012 |2569.2|1369.1|114.09|9308"|FTL|||||
-"November 2012 |1200.0|-1188.5|-49.76|2612"|FTL|||||
-"October 2012 |2388.5|-4202.9|-63.76|5744"|FTL|||||
-"February 2024 |7.9|0.1|1.32|18"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2024 |7.8|0.0|0.23|19"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2023 |7.8|0.2|2.11|18"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2023 |7.6|-1.1|-12.31|21"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2023 |8.7|-0.5|-5.5|22"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2023 |9.2|1.8|23.53|25"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2023 |7.5|-1.9|-20.43|22"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2023 |9.4|1.9|26.32|22"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2023 |7.4|-2.4|-24.07|18"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2023 |9.8|0.2|2.2|22"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2023 |9.6|0.0|0.27|23"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2023 |9.5|0.2|1.76|24"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2023 |9.4|-1.9|-16.9|25"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2023 |11.3|0.9|8.48|28"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2022 |10.4|-0.1|-1.06|29"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2022 |10.5|0.9|9.49|26"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2022 |9.6|-0.1|-1.13|20"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2022 |9.7|-1.9|-16.5|23"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2022 |11.6|-1.4|-10.89|29"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2022 |13.0|-1.4|-9.41|29"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2022 |14.4|-2.8|-16.18|30"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2022 |17.2|-1.4|-7.5|38"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2022 |18.6|-6.9|-27.2|40"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2022 |25.5|6.1|31.58|59"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2022 |19.4|-9.0|-31.82|41"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2022 |28.4|-28.9|-50.41|53"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2021 |57.3|-36.0|-38.55|155"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2021 |93.3|83.2|821.25|433"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2021 |10.1|-0.5|-4.9|26"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2021 |10.7|-1.8|-14.65|26"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2021 |12.5|1.9|17.8|51"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2021 |10.6|-2.6|-19.6|25"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2021 |13.2|4.0|43.57|34"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2021 |9.2|-0.2|-1.91|23"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2021 |9.3|-0.3|-2.72|22"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2021 |9.6|-1.3|-12.2|23"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2021 |10.9|-0.7|-5.58|40"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2021 |11.6|-0.7|-5.84|30"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2020 |12.3|-0.6|-4.88|28"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2020 |12.9|-5.1|-28.24|35"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2020 |18.1|6.7|59.47|52"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2020 |11.3|-2.5|-18.29|28"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2020 |13.8|-2.7|-16.31|32"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2020 |16.6|2.5|17.97|37"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2020 |14.0|-11.1|-44.14|32"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2020 |25.1|10.9|76.98|101"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2020 |14.2|-0.9|-6.01|29"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2020 |15.1|2.3|18.38|41"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2020 |12.8|-4.3|-25.13|31"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2020 |17.0|-3.5|-17.03|45"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2019 |20.5|1.8|9.3|52"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2019 |18.8|1.1|6.08|52"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2019 |17.7|-3.5|-16.7|40"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2019 |21.3|6.1|40.46|100"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2019 |15.1|-5.5|-26.5|34"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2019 |20.6|4.7|29.34|43"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2019 |15.9|1.8|13.04|44"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2019 |14.1|0.1|0.69|33"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2019 |14.0|-1.7|-10.63|36"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2019 |15.7|-1.9|-10.65|40"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2019 |17.5|-2.3|-11.64|43"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2019 |19.8|-1.8|-8.13|52"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2018 |21.6|0.5|2.16|60"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2018 |21.1|-4.6|-17.87|69"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2018 |25.7|-9.3|-26.58|65"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2018 |35.0|5.3|17.89|154"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2018 |29.7|-3.5|-10.57|101"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2018 |33.2|3.3|10.93|92"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2018 |30.0|6.4|27.08|96"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2018 |23.6|-0.6|-2.38|51"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2018 |24.1|-3.6|-12.94|53"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2018 |27.7|-7.9|-22.17|59"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2018 |35.6|-12.4|-25.8|79"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2018 |48.0|0.5|1.13|100"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2017 |47.5|-15.8|-24.9|111"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2017 |63.3|-100.5|-61.39|157"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2017 |163.8|149.5|1046.71|579"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2017 |14.3|-2.9|-16.98|34"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2017 |17.2|-11.5|-39.97|47"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2017 |28.7|-3.9|-11.98|93"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2017 |32.6|-18.4|-36.12|100"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2017 |51.0|35.1|221.32|342"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2017 |15.9|-2.4|-13.06|30"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2017 |18.3|-0.5|-2.42|45"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2017 |18.7|-9.7|-34.08|36"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2017 |28.4|-0.1|-0.23|107"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2016 |28.4|-35.1|-55.25|92"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2016 |63.5|12.9|25.41|288"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2016 |50.7|35.7|238.96|481"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2016 |14.9|-5.9|-28.15|36"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2016 |20.8|-17.8|-46.15|43"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2016 |38.6|7.0|21.94|113"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2016 |31.7|11.9|60.49|144"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"May 2016 |19.7|0.8|4.29|41"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2016 |18.9|-2.1|-10.06|50"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"March 2016 |21.1|-11.8|-35.88|50"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2016 |32.8|-13.6|-29.35|77"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"January 2016 |46.5|-8.0|-14.63|138"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"December 2015 |54.4|-27.6|-33.68|155"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"November 2015 |82.0|35.4|75.98|345"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"October 2015 |46.6|-45.5|-49.41|151"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"September 2015 |92.2|-10.3|-10.06|396"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"August 2015 |102.5|-174.8|-63.05|278"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"July 2015 |277.3|277.1|135750.71|1793"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"June 2015 |0.2|0.2|1818.65|3"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"April 2015 |0.0|-0.0|-66.9|1"|Guild_Of_Dungeoneering_Ultimate_Edition|||||
-"February 2024 |4530.2|-687.7|-13.18|8166"|Hades|||||
-"January 2024 |5217.9|-458.4|-8.08|8963"|Hades|||||
-"December 2023 |5676.3|1257.8|28.47|9428"|Hades|||||
-"November 2023 |4418.5|1082.8|32.46|8612"|Hades|||||
-"October 2023 |3335.7|-300.5|-8.26|7123"|Hades|||||
-"September 2023 |3636.1|238.2|7.01|8221"|Hades|||||
-"August 2023 |3397.9|-1451.2|-29.93|5428"|Hades|||||
-"July 2023 |4849.2|1927.5|65.97|7996"|Hades|||||
-"June 2023 |2921.7|-1032.2|-26.11|5205"|Hades|||||
-"May 2023 |3953.9|-1361.4|-25.61|7570"|Hades|||||
-"April 2023 |5315.3|266.0|5.27|11963"|Hades|||||
-"March 2023 |5049.3|38.7|0.77|10812"|Hades|||||
-"February 2023 |5010.6|-4647.6|-48.12|8198"|Hades|||||
-"January 2023 |9658.2|-1359.4|-12.34|16843"|Hades|||||
-"December 2022 |11017.6|6231.6|130.2|20050"|Hades|||||
-"November 2022 |4786.0|220.7|4.83|9350"|Hades|||||
-"October 2022 |4565.3|-651.5|-12.49|9490"|Hades|||||
-"September 2022 |5216.8|-362.5|-6.5|12105"|Hades|||||
-"August 2022 |5579.3|-612.6|-9.89|13576"|Hades|||||
-"July 2022 |6191.9|2250.2|57.09|14044"|Hades|||||
-"June 2022 |3941.8|190.2|5.07|10020"|Hades|||||
-"May 2022 |3751.6|-856.4|-18.59|6097"|Hades|||||
-"April 2022 |4608.0|-353.0|-7.12|9267"|Hades|||||
-"March 2022 |4961.0|-1395.7|-21.96|10310"|Hades|||||
-"February 2022 |6356.8|-1023.1|-13.86|12076"|Hades|||||
-"January 2022 |7379.9|1008.9|15.84|12295"|Hades|||||
-"December 2021 |6371.0|625.8|10.89|11055"|Hades|||||
-"November 2021 |5745.2|823.7|16.74|12607"|Hades|||||
-"October 2021 |4921.5|-451.3|-8.4|13666"|Hades|||||
-"September 2021 |5372.8|-787.9|-12.79|8308"|Hades|||||
-"August 2021 |6160.7|-2156.0|-25.92|9150"|Hades|||||
-"July 2021 |8316.7|3020.7|57.04|15468"|Hades|||||
-"June 2021 |5296.0|431.1|8.86|14563"|Hades|||||
-"May 2021 |4864.9|-1501.7|-23.59|7582"|Hades|||||
-"April 2021 |6366.6|-3371.6|-34.62|11114"|Hades|||||
-"March 2021 |9738.1|-1110.9|-10.24|18007"|Hades|||||
-"February 2021 |10849.1|-7926.4|-42.22|16939"|Hades|||||
-"January 2021 |18775.5|1173.0|6.66|35048"|Hades|||||
-"December 2020 |17602.4|-427.4|-2.37|29764"|Hades|||||
-"November 2020 |18029.9|-1557.2|-7.95|30509"|Hades|||||
-"October 2020 |19587.1|8261.6|72.95|32431"|Hades|||||
-"September 2020 |11325.5|10058.0|793.52|37586"|Hades|||||
-"August 2020 |1267.5|-1203.9|-48.71|1929"|Hades|||||
-"July 2020 |2471.4|716.5|40.82|4995"|Hades|||||
-"June 2020 |1755.0|-201.8|-10.31|5646"|Hades|||||
-"May 2020 |1956.8|959.1|96.14|6070"|Hades|||||
-"April 2020 |997.6|-1079.6|-51.97|2079"|Hades|||||
-"March 2020 |2077.3|-434.1|-17.29|5941"|Hades|||||
-"February 2020 |2511.3|-1723.2|-40.69|5566"|Hades|||||
-"January 2020 |4234.5|-154.4|-3.52|8086"|Hades|||||
-"February 2024 |110.5|-72.1|-39.48|203"|Moonlighter|||||
-"January 2024 |182.6|-65.8|-26.47|351"|Moonlighter|||||
-"December 2023 |248.4|83.8|50.94|466"|Moonlighter|||||
-"November 2023 |164.5|10.8|7.0|356"|Moonlighter|||||
-"October 2023 |153.8|-35.4|-18.72|357"|Moonlighter|||||
-"September 2023 |189.2|34.8|22.52|383"|Moonlighter|||||
-"August 2023 |154.4|-124.5|-44.63|405"|Moonlighter|||||
-"July 2023 |278.9|46.9|20.23|475"|Moonlighter|||||
-"June 2023 |231.9|75.9|48.65|749"|Moonlighter|||||
-"May 2023 |156.0|-158.1|-50.32|380"|Moonlighter|||||
-"April 2023 |314.1|-132.7|-29.7|725"|Moonlighter|||||
-"March 2023 |446.8|282.9|172.48|1880"|Moonlighter|||||
-"February 2023 |164.0|3.1|1.94|481"|Moonlighter|||||
-"January 2023 |160.9|-31.1|-16.19|304"|Moonlighter|||||
-"December 2022 |191.9|-5.2|-2.64|326"|Moonlighter|||||
-"November 2022 |197.2|34.6|21.29|394"|Moonlighter|||||
-"October 2022 |162.6|-80.5|-33.13|453"|Moonlighter|||||
-"September 2022 |243.1|100.6|70.57|981"|Moonlighter|||||
-"August 2022 |142.5|-52.6|-26.95|309"|Moonlighter|||||
-"July 2022 |195.1|-17.3|-8.15|376"|Moonlighter|||||
-"June 2022 |212.4|61.8|41.02|649"|Moonlighter|||||
-"May 2022 |150.6|58.5|63.59|402"|Moonlighter|||||
-"April 2022 |92.1|-30.6|-24.92|184"|Moonlighter|||||
-"March 2022 |122.6|-11.3|-8.43|342"|Moonlighter|||||
-"February 2022 |133.9|-141.1|-51.3|281"|Moonlighter|||||
-"January 2022 |275.0|140.2|104.05|989"|Moonlighter|||||
-"December 2021 |134.8|9.3|7.37|315"|Moonlighter|||||
-"November 2021 |125.5|-136.4|-52.09|285"|Moonlighter|||||
-"October 2021 |261.9|186.2|245.69|1074"|Moonlighter|||||
-"September 2021 |75.8|-18.4|-19.54|141"|Moonlighter|||||
-"August 2021 |94.2|-60.2|-38.99|163"|Moonlighter|||||
-"July 2021 |154.3|-35.9|-18.87|330"|Moonlighter|||||
-"June 2021 |190.2|39.4|26.11|499"|Moonlighter|||||
-"May 2021 |150.8|-80.6|-34.82|417"|Moonlighter|||||
-"April 2021 |231.5|133.5|136.23|1009"|Moonlighter|||||
-"March 2021 |98.0|-57.9|-37.15|179"|Moonlighter|||||
-"February 2021 |155.9|-29.1|-15.74|380"|Moonlighter|||||
-"January 2021 |185.0|-61.6|-24.98|455"|Moonlighter|||||
-"December 2020 |246.6|113.8|85.61|819"|Moonlighter|||||
-"November 2020 |132.9|52.9|66.22|332"|Moonlighter|||||
-"October 2020 |79.9|-13.4|-14.34|207"|Moonlighter|||||
-"September 2020 |93.3|-29.2|-23.86|160"|Moonlighter|||||
-"August 2020 |122.5|-109.7|-47.22|214"|Moonlighter|||||
-"July 2020 |232.2|-331.8|-58.83|524"|Moonlighter|||||
-"June 2020 |564.0|384.7|214.5|1801"|Moonlighter|||||
-"May 2020 |179.3|46.5|34.97|704"|Moonlighter|||||
-"April 2020 |132.9|-16.1|-10.8|232"|Moonlighter|||||
-"March 2020 |149.0|-109.6|-42.39|295"|Moonlighter|||||
-"February 2020 |258.6|68.2|35.81|1170"|Moonlighter|||||
-"January 2020 |190.4|-59.0|-23.67|466"|Moonlighter|||||
-"December 2019 |249.4|80.3|47.45|745"|Moonlighter|||||
-"November 2019 |169.2|-167.8|-49.79|454"|Moonlighter|||||
-"October 2019 |336.9|203.1|151.67|1214"|Moonlighter|||||
-"September 2019 |133.9|-85.8|-39.05|268"|Moonlighter|||||
-"August 2019 |219.7|-343.6|-61.01|549"|Moonlighter|||||
-"July 2019 |563.3|30.7|5.76|1299"|Moonlighter|||||
-"June 2019 |532.6|357.2|203.62|1767"|Moonlighter|||||
-"May 2019 |175.4|-47.8|-21.42|1512"|Moonlighter|||||
-"April 2019 |223.3|112.0|100.74|798"|Moonlighter|||||
-"March 2019 |111.2|-230.9|-67.49|282"|Moonlighter|||||
-"February 2019 |342.1|188.4|122.64|1244"|Moonlighter|||||
-"January 2019 |153.6|-53.6|-25.85|508"|Moonlighter|||||
-"December 2018 |207.2|27.8|15.46|885"|Moonlighter|||||
-"November 2018 |179.5|-72.1|-28.66|429"|Moonlighter|||||
-"October 2018 |251.6|164.3|188.39|1342"|Moonlighter|||||
-"September 2018 |87.2|-223.4|-71.92|195"|Moonlighter|||||
-"August 2018 |310.7|9.6|3.17|1316"|Moonlighter|||||
-"July 2018 |301.1|-673.0|-69.09|707"|Moonlighter|||||
-"June 2018 |974.1|973.5|155900.38|4121"|Moonlighter|||||
-"March 2018 |0.6|0.3|130.41|5"|Moonlighter|||||
-"February 2018 |0.3|0.1|88.4|3"|Moonlighter|||||
-"January 2018 |0.1|-0.3|-68.45|3"|Moonlighter|||||
-"December 2017 |0.5|0.4|1561.9|2"|Moonlighter|||||
-"November 2017 |0.0|-0.0|-37.25|1"|Moonlighter|||||
-"October 2017 |0.0|-0.1|-70.31|1"|Moonlighter|||||
-"September 2017 |0.1|-0.1|-24.04|4"|Moonlighter|||||
-"August 2017 |0.2|0.2|491.15|3"|Moonlighter|||||
-"July 2017 |0.0|-0.0|-53.39|1"|Moonlighter|||||
-"June 2017 |0.1|0.1|inf|1"|Moonlighter|||||
-"May 2017 |0.0|-0.1|-100.0|0"|Moonlighter|||||
-"February 2024 |26.7|-8.8|-24.72|54"|Risk_Of_Rain|||||
-"January 2024 |35.5|-17.0|-32.35|76"|Risk_Of_Rain|||||
-"December 2023 |52.5|-42.5|-44.73|111"|Risk_Of_Rain|||||
-"November 2023 |95.0|34.0|55.71|183"|Risk_Of_Rain|||||
-"October 2023 |61.0|5.8|10.41|133"|Risk_Of_Rain|||||
-"September 2023 |55.2|-10.2|-15.64|97"|Risk_Of_Rain|||||
-"August 2023 |65.5|-58.1|-47.01|166"|Risk_Of_Rain|||||
-"July 2023 |123.6|17.2|16.16|276"|Risk_Of_Rain|||||
-"June 2023 |106.4|50.7|91.15|393"|Risk_Of_Rain|||||
-"May 2023 |55.6|-12.9|-18.87|100"|Risk_Of_Rain|||||
-"April 2023 |68.6|-12.8|-15.77|120"|Risk_Of_Rain|||||
-"March 2023 |81.4|9.3|12.87|176"|Risk_Of_Rain|||||
-"February 2023 |72.2|-18.9|-20.73|128"|Risk_Of_Rain|||||
-"January 2023 |91.0|8.4|10.15|168"|Risk_Of_Rain|||||
-"December 2022 |82.6|29.1|54.21|238"|Risk_Of_Rain|||||
-"November 2022 |53.6|3.7|7.33|95"|Risk_Of_Rain|||||
-"October 2022 |49.9|-2.8|-5.24|88"|Risk_Of_Rain|||||
-"September 2022 |52.7|-1.7|-3.11|95"|Risk_Of_Rain|||||
-"August 2022 |54.4|-22.0|-28.79|164"|Risk_Of_Rain|||||
-"July 2022 |76.4|9.8|14.75|142"|Risk_Of_Rain|||||
-"June 2022 |66.5|-2.4|-3.47|153"|Risk_Of_Rain|||||
-"May 2022 |68.9|-24.9|-26.52|126"|Risk_Of_Rain|||||
-"April 2022 |93.8|-4.2|-4.32|183"|Risk_Of_Rain|||||
-"March 2022 |98.0|2.3|2.35|183"|Risk_Of_Rain|||||
-"February 2022 |95.8|-1.3|-1.3|171"|Risk_Of_Rain|||||
-"January 2022 |97.1|5.5|6.05|191"|Risk_Of_Rain|||||
-"December 2021 |91.5|-0.2|-0.24|189"|Risk_Of_Rain|||||
-"November 2021 |91.7|21.7|31.0|165"|Risk_Of_Rain|||||
-"October 2021 |70.0|4.9|7.54|196"|Risk_Of_Rain|||||
-"September 2021 |65.1|-7.5|-10.38|108"|Risk_Of_Rain|||||
-"August 2021 |72.7|-29.2|-28.65|114"|Risk_Of_Rain|||||
-"July 2021 |101.8|20.4|25.12|204"|Risk_Of_Rain|||||
-"June 2021 |81.4|5.0|6.61|183"|Risk_Of_Rain|||||
-"May 2021 |76.4|-16.6|-17.82|127"|Risk_Of_Rain|||||
-"April 2021 |92.9|12.6|15.69|157"|Risk_Of_Rain|||||
-"March 2021 |80.3|-16.2|-16.75|141"|Risk_Of_Rain|||||
-"February 2021 |96.5|-29.9|-23.64|201"|Risk_Of_Rain|||||
-"January 2021 |126.3|23.5|22.81|294"|Risk_Of_Rain|||||
-"December 2020 |102.9|25.4|32.69|245"|Risk_Of_Rain|||||
-"November 2020 |77.5|-9.9|-11.34|127"|Risk_Of_Rain|||||
-"October 2020 |87.4|-43.0|-32.98|151"|Risk_Of_Rain|||||
-"September 2020 |130.5|-13.6|-9.46|218"|Risk_Of_Rain|||||
-"August 2020 |144.1|22.3|18.3|264"|Risk_Of_Rain|||||
-"July 2020 |121.8|29.9|32.53|224"|Risk_Of_Rain|||||
-"June 2020 |91.9|-15.7|-14.56|214"|Risk_Of_Rain|||||
-"May 2020 |107.6|-67.4|-38.53|183"|Risk_Of_Rain|||||
-"April 2020 |175.0|51.3|41.48|322"|Risk_Of_Rain|||||
-"March 2020 |123.7|6.7|5.74|212"|Risk_Of_Rain|||||
-"February 2020 |117.0|-37.2|-24.14|202"|Risk_Of_Rain|||||
-"January 2020 |154.2|1.0|0.66|313"|Risk_Of_Rain|||||
-"December 2019 |153.2|48.3|46.03|364"|Risk_Of_Rain|||||
-"November 2019 |104.9|-4.6|-4.2|199"|Risk_Of_Rain|||||
-"October 2019 |109.5|-8.0|-6.78|200"|Risk_Of_Rain|||||
-"September 2019 |117.5|-11.1|-8.65|199"|Risk_Of_Rain|||||
-"August 2019 |128.6|-78.4|-37.87|218"|Risk_Of_Rain|||||
-"July 2019 |207.0|41.0|24.68|373"|Risk_Of_Rain|||||
-"June 2019 |166.0|-65.2|-28.19|412"|Risk_Of_Rain|||||
-"May 2019 |231.2|-242.9|-51.24|447"|Risk_Of_Rain|||||
-"April 2019 |474.1|246.3|108.1|923"|Risk_Of_Rain|||||
-"March 2019 |227.8|40.5|21.61|934"|Risk_Of_Rain|||||
-"February 2019 |187.3|-34.9|-15.71|332"|Risk_Of_Rain|||||
-"January 2019 |222.3|-37.0|-14.29|373"|Risk_Of_Rain|||||
-"December 2018 |259.3|-119.0|-31.46|451"|Risk_Of_Rain|||||
-"November 2018 |378.3|177.5|88.39|1531"|Risk_Of_Rain|||||
-"October 2018 |200.8|-70.3|-25.93|362"|Risk_Of_Rain|||||
-"September 2018 |271.1|68.3|33.67|617"|Risk_Of_Rain|||||
-"August 2018 |202.8|-205.5|-50.32|325"|Risk_Of_Rain|||||
-"July 2018 |408.3|144.9|55.02|1277"|Risk_Of_Rain|||||
-"June 2018 |263.4|-17.1|-6.1|512"|Risk_Of_Rain|||||
-"May 2018 |280.5|68.4|32.25|439"|Risk_Of_Rain|||||
-"April 2018 |212.1|-7.6|-3.46|369"|Risk_Of_Rain|||||
-"March 2018 |219.7|-27.5|-11.12|354"|Risk_Of_Rain|||||
-"February 2018 |247.2|-104.4|-29.69|431"|Risk_Of_Rain|||||
-"January 2018 |351.5|5.7|1.64|648"|Risk_Of_Rain|||||
-"December 2017 |345.8|90.8|35.63|688"|Risk_Of_Rain|||||
-"November 2017 |255.0|27.6|12.16|604"|Risk_Of_Rain|||||
-"October 2017 |227.3|-4.7|-2.03|382"|Risk_Of_Rain|||||
-"September 2017 |232.0|-9.5|-3.93|404"|Risk_Of_Rain|||||
-"August 2017 |241.5|-138.0|-36.36|378"|Risk_Of_Rain|||||
-"July 2017 |379.5|-45.3|-10.66|721"|Risk_Of_Rain|||||
-"June 2017 |424.9|-19.8|-4.45|762"|Risk_Of_Rain|||||
-"May 2017 |444.6|175.7|65.34|1624"|Risk_Of_Rain|||||
-"April 2017 |268.9|-39.2|-12.73|458"|Risk_Of_Rain|||||
-"March 2017 |308.2|-258.8|-45.65|556"|Risk_Of_Rain|||||
-"February 2017 |567.0|92.4|19.46|1185"|Risk_Of_Rain|||||
-"January 2017 |474.6|75.7|18.96|1062"|Risk_Of_Rain|||||
-"December 2016 |398.9|109.1|37.64|1103"|Risk_Of_Rain|||||
-"November 2016 |289.9|9.7|3.47|483"|Risk_Of_Rain|||||
-"October 2016 |280.1|-1.9|-0.67|500"|Risk_Of_Rain|||||
-"September 2016 |282.0|-39.8|-12.37|476"|Risk_Of_Rain|||||
-"August 2016 |321.8|-178.7|-35.7|509"|Risk_Of_Rain|||||
-"July 2016 |500.5|102.4|25.71|996"|Risk_Of_Rain|||||
-"June 2016 |398.2|33.5|9.18|936"|Risk_Of_Rain|||||
-"May 2016 |364.7|-9.0|-2.42|688"|Risk_Of_Rain|||||
-"April 2016 |373.7|-60.1|-13.86|653"|Risk_Of_Rain|||||
-"March 2016 |433.8|-222.5|-33.9|716"|Risk_Of_Rain|||||
-"February 2016 |656.3|-367.3|-35.88|1210"|Risk_Of_Rain|||||
-"January 2016 |1023.6|332.4|48.08|2703"|Risk_Of_Rain|||||
-"December 2015 |691.2|287.5|71.21|1630"|Risk_Of_Rain|||||
-"November 2015 |403.7|34.7|9.41|1039"|Risk_Of_Rain|||||
-"October 2015 |369.0|21.9|6.3|669"|Risk_Of_Rain|||||
-"September 2015 |347.1|-57.3|-14.16|613"|Risk_Of_Rain|||||
-"August 2015 |404.4|-62.4|-13.37|632"|Risk_Of_Rain|||||
-"July 2015 |466.8|-365.2|-43.89|721"|Risk_Of_Rain|||||
-"June 2015 |832.0|168.2|25.34|2423"|Risk_Of_Rain|||||
-"May 2015 |663.8|-311.2|-31.92|1561"|Risk_Of_Rain|||||
-"April 2015 |975.0|519.9|114.24|2717"|Risk_Of_Rain|||||
-"March 2015 |455.1|-56.6|-11.06|883"|Risk_Of_Rain|||||
-"February 2015 |511.7|-208.6|-28.96|931"|Risk_Of_Rain|||||
-"January 2015 |720.3|-444.6|-38.17|1409"|Risk_Of_Rain|||||
-"December 2014 |1164.9|-485.1|-29.4|3136"|Risk_Of_Rain|||||
-"November 2014 |1650.0|907.5|122.22|4200"|Risk_Of_Rain|||||
-"October 2014 |742.5|311.1|72.11|3587"|Risk_Of_Rain|||||
-"September 2014 |431.4|-83.5|-16.21|760"|Risk_Of_Rain|||||
-"August 2014 |514.9|-362.3|-41.31|886"|Risk_Of_Rain|||||
-"July 2014 |877.2|-302.8|-25.66|2247"|Risk_Of_Rain|||||
-"June 2014 |1180.0|273.9|30.22|5446"|Risk_Of_Rain|||||
-"May 2014 |906.1|342.3|60.7|2343"|Risk_Of_Rain|||||
-"April 2014 |563.9|62.2|12.4|3450"|Risk_Of_Rain|||||
-"March 2014 |501.6|-566.2|-53.02|1230"|Risk_Of_Rain|||||
-"February 2014 |1067.9|-81.1|-7.06|3185"|Risk_Of_Rain|||||
-"January 2014 |1149.0|-248.6|-17.79|3479"|Risk_Of_Rain|||||
-"December 2013 |1397.6|-461.6|-24.83|4128"|Risk_Of_Rain|||||
-"February 2024 |4530.2|-687.7|-13.18|8166"|Risk_Of_Rain_2|||||
-"January 2024 |5217.9|-458.4|-8.08|8963"|Risk_Of_Rain_2|||||
-"December 2023 |5676.3|1257.8|28.47|9428"|Risk_Of_Rain_2|||||
-"November 2023 |4418.5|1082.8|32.46|8612"|Risk_Of_Rain_2|||||
-"October 2023 |3335.7|-300.5|-8.26|7123"|Risk_Of_Rain_2|||||
-"September 2023 |3636.1|238.2|7.01|8221"|Risk_Of_Rain_2|||||
-"August 2023 |3397.9|-1451.2|-29.93|5428"|Risk_Of_Rain_2|||||
-"July 2023 |4849.2|1927.5|65.97|7996"|Risk_Of_Rain_2|||||
-"June 2023 |2921.7|-1032.2|-26.11|5205"|Risk_Of_Rain_2|||||
-"May 2023 |3953.9|-1361.4|-25.61|7570"|Risk_Of_Rain_2|||||
-"April 2023 |5315.3|266.0|5.27|11963"|Risk_Of_Rain_2|||||
-"March 2023 |5049.3|38.7|0.77|10812"|Risk_Of_Rain_2|||||
-"February 2023 |5010.6|-4647.6|-48.12|8198"|Risk_Of_Rain_2|||||
-"January 2023 |9658.2|-1359.4|-12.34|16843"|Risk_Of_Rain_2|||||
-"December 2022 |11017.6|6231.6|130.2|20050"|Risk_Of_Rain_2|||||
-"November 2022 |4786.0|220.7|4.83|9350"|Risk_Of_Rain_2|||||
-"October 2022 |4565.3|-651.5|-12.49|9490"|Risk_Of_Rain_2|||||
-"September 2022 |5216.8|-362.5|-6.5|12105"|Risk_Of_Rain_2|||||
-"August 2022 |5579.3|-612.6|-9.89|13576"|Risk_Of_Rain_2|||||
-"July 2022 |6191.9|2250.2|57.09|14044"|Risk_Of_Rain_2|||||
-"June 2022 |3941.8|190.2|5.07|10020"|Risk_Of_Rain_2|||||
-"May 2022 |3751.6|-856.4|-18.59|6097"|Risk_Of_Rain_2|||||
-"April 2022 |4608.0|-353.0|-7.12|9267"|Risk_Of_Rain_2|||||
-"March 2022 |4961.0|-1395.7|-21.96|10310"|Risk_Of_Rain_2|||||
-"February 2022 |6356.8|-1023.1|-13.86|12076"|Risk_Of_Rain_2|||||
-"January 2022 |7379.9|1008.9|15.84|12295"|Risk_Of_Rain_2|||||
-"December 2021 |6371.0|625.8|10.89|11055"|Risk_Of_Rain_2|||||
-"November 2021 |5745.2|823.7|16.74|12607"|Risk_Of_Rain_2|||||
-"October 2021 |4921.5|-451.3|-8.4|13666"|Risk_Of_Rain_2|||||
-"September 2021 |5372.8|-787.9|-12.79|8308"|Risk_Of_Rain_2|||||
-"August 2021 |6160.7|-2156.0|-25.92|9150"|Risk_Of_Rain_2|||||
-"July 2021 |8316.7|3020.7|57.04|15468"|Risk_Of_Rain_2|||||
-"June 2021 |5296.0|431.1|8.86|14563"|Risk_Of_Rain_2|||||
-"May 2021 |4864.9|-1501.7|-23.59|7582"|Risk_Of_Rain_2|||||
-"April 2021 |6366.6|-3371.6|-34.62|11114"|Risk_Of_Rain_2|||||
-"March 2021 |9738.1|-1110.9|-10.24|18007"|Risk_Of_Rain_2|||||
-"February 2021 |10849.1|-7926.4|-42.22|16939"|Risk_Of_Rain_2|||||
-"January 2021 |18775.5|1173.0|6.66|35048"|Risk_Of_Rain_2|||||
-"December 2020 |17602.4|-427.4|-2.37|29764"|Risk_Of_Rain_2|||||
-"November 2020 |18029.9|-1557.2|-7.95|30509"|Risk_Of_Rain_2|||||
-"October 2020 |19587.1|8261.6|72.95|32431"|Risk_Of_Rain_2|||||
-"September 2020 |11325.5|10058.0|793.52|37586"|Risk_Of_Rain_2|||||
-"August 2020 |1267.5|-1203.9|-48.71|1929"|Risk_Of_Rain_2|||||
-"July 2020 |2471.4|716.5|40.82|4995"|Risk_Of_Rain_2|||||
-"June 2020 |1755.0|-201.8|-10.31|5646"|Risk_Of_Rain_2|||||
-"May 2020 |1956.8|959.1|96.14|6070"|Risk_Of_Rain_2|||||
-"April 2020 |997.6|-1079.6|-51.97|2079"|Risk_Of_Rain_2|||||
-"March 2020 |2077.3|-434.1|-17.29|5941"|Risk_Of_Rain_2|||||
-"February 2020 |2511.3|-1723.2|-40.69|5566"|Risk_Of_Rain_2|||||
-"January 2020 |4234.5|-154.4|-3.52|8086"|Risk_Of_Rain_2|||||
-"February 2024 |9937.4|-746.2|-6.98|15256"|Slay_The_Spire|||||
-"January 2024 |10683.5|552.1|5.45|16383"|Slay_The_Spire|||||
-"December 2023 |10131.4|-325.9|-3.12|15450"|Slay_The_Spire|||||
-"November 2023 |10457.3|432.0|4.31|18760"|Slay_The_Spire|||||
-"October 2023 |10025.4|-62.9|-0.62|18812"|Slay_The_Spire|||||
-"September 2023 |10088.3|1307.6|14.89|18551"|Slay_The_Spire|||||
-"August 2023 |8780.6|-552.8|-5.92|15058"|Slay_The_Spire|||||
-"July 2023 |9333.5|2394.5|34.51|14646"|Slay_The_Spire|||||
-"June 2023 |6938.9|-926.7|-11.78|11866"|Slay_The_Spire|||||
-"May 2023 |7865.6|-1951.1|-19.88|12617"|Slay_The_Spire|||||
-"April 2023 |9816.7|63.4|0.65|16630"|Slay_The_Spire|||||
-"March 2023 |9753.3|1348.4|16.04|18812"|Slay_The_Spire|||||
-"February 2023 |8404.9|-1381.1|-14.11|11835"|Slay_The_Spire|||||
-"January 2023 |9786.0|258.7|2.72|14255"|Slay_The_Spire|||||
-"December 2022 |9527.3|-775.0|-7.52|18748"|Slay_The_Spire|||||
-"November 2022 |10302.3|3209.7|45.25|19314"|Slay_The_Spire|||||
-"October 2022 |7092.6|-28.0|-0.39|10043"|Slay_The_Spire|||||
-"September 2022 |7120.6|-640.3|-8.25|10495"|Slay_The_Spire|||||
-"August 2022 |7761.0|-2048.7|-20.88|11010"|Slay_The_Spire|||||
-"July 2022 |9809.7|1701.2|20.98|16576"|Slay_The_Spire|||||
-"June 2022 |8108.6|-2049.1|-20.17|15401"|Slay_The_Spire|||||
-"May 2022 |10157.7|1841.8|22.15|18918"|Slay_The_Spire|||||
-"April 2022 |8315.9|1444.4|21.02|11555"|Slay_The_Spire|||||
-"March 2022 |6871.5|454.5|7.08|10695"|Slay_The_Spire|||||
-"February 2022 |6417.0|-1849.8|-22.38|8485"|Slay_The_Spire|||||
-"January 2022 |8266.8|763.2|10.17|11903"|Slay_The_Spire|||||
-"December 2021 |7503.7|738.1|10.91|11087"|Slay_The_Spire|||||
-"November 2021 |6765.6|-389.8|-5.45|11044"|Slay_The_Spire|||||
-"October 2021 |7155.4|476.9|7.14|13759"|Slay_The_Spire|||||
-"September 2021 |6678.5|-856.9|-11.37|9160"|Slay_The_Spire|||||
-"August 2021 |7535.4|405.5|5.69|10843"|Slay_The_Spire|||||
-"July 2021 |7129.8|1166.6|19.56|10831"|Slay_The_Spire|||||
-"June 2021 |5963.3|502.7|9.21|10381"|Slay_The_Spire|||||
-"May 2021 |5460.5|4.0|0.07|7222"|Slay_The_Spire|||||
-"April 2021 |5456.5|-863.2|-13.66|7304"|Slay_The_Spire|||||
-"March 2021 |6319.7|-1156.2|-15.47|8773"|Slay_The_Spire|||||
-"February 2021 |7476.0|-628.5|-7.75|10380"|Slay_The_Spire|||||
-"January 2021 |8104.4|825.2|11.34|11077"|Slay_The_Spire|||||
-"December 2020 |7279.2|1139.6|18.56|10297"|Slay_The_Spire|||||
-"November 2020 |6139.6|430.8|7.55|9696"|Slay_The_Spire|||||
-"October 2020 |5708.8|204.1|3.71|10695"|Slay_The_Spire|||||
-"September 2020 |5504.8|-1021.8|-15.66|7895"|Slay_The_Spire|||||
-"August 2020 |6526.5|-30.6|-0.47|9584"|Slay_The_Spire|||||
-"July 2020 |6557.1|1033.5|18.71|9621"|Slay_The_Spire|||||
-"June 2020 |5523.6|-714.3|-11.45|9030"|Slay_The_Spire|||||
-"May 2020 |6238.0|-850.6|-12.0|7994"|Slay_The_Spire|||||
-"April 2020 |7088.6|-901.5|-11.28|14267"|Slay_The_Spire|||||
-"March 2020 |7990.1|-1524.9|-16.03|10626"|Slay_The_Spire|||||
-"February 2020 |9515.0|-1404.4|-12.86|13209"|Slay_The_Spire|||||
-"January 2020 |10919.5|4995.3|84.32|20383"|Slay_The_Spire|||||
-"December 2019 |5924.2|952.4|19.16|10057"|Slay_The_Spire|||||
-"November 2019 |4971.8|-498.1|-9.11|7128"|Slay_The_Spire|||||
-"October 2019 |5469.9|-856.3|-13.54|7864"|Slay_The_Spire|||||
-"September 2019 |6326.3|249.9|4.11|9434"|Slay_The_Spire|||||
-"August 2019 |6076.3|-510.8|-7.76|10357"|Slay_The_Spire|||||
-"July 2019 |6587.2|1376.1|26.41|11521"|Slay_The_Spire|||||
-"June 2019 |5211.0|-83.6|-1.58|9508"|Slay_The_Spire|||||
-"May 2019 |5294.6|-172.6|-3.16|7471"|Slay_The_Spire|||||
-"April 2019 |5467.3|-1422.1|-20.64|7816"|Slay_The_Spire|||||
-"March 2019 |6889.4|-1448.3|-17.37|10303"|Slay_The_Spire|||||
-"February 2019 |8337.6|-2069.0|-19.88|12407"|Slay_The_Spire|||||
-"January 2019 |10406.6|2128.4|25.71|14586"|Slay_The_Spire|||||
-"December 2018 |8278.1|358.6|4.53|12365"|Slay_The_Spire|||||
-"November 2018 |7919.6|1169.0|17.32|12647"|Slay_The_Spire|||||
-"October 2018 |6750.6|-167.8|-2.42|9572"|Slay_The_Spire|||||
-"September 2018 |6918.3|-12.2|-0.18|10323"|Slay_The_Spire|||||
-"August 2018 |6930.5|-4696.6|-40.39|11015"|Slay_The_Spire|||||
-"July 2018 |11627.2|894.0|8.33|21643"|Slay_The_Spire|||||
-"June 2018 |10733.1|610.6|6.03|18758"|Slay_The_Spire|||||
-"May 2018 |10122.5|-232.1|-2.24|17216"|Slay_The_Spire|||||
-"April 2018 |10354.6|-3548.0|-25.52|20163"|Slay_The_Spire|||||
-"March 2018 |13902.6|-5321.7|-27.68|25018"|Slay_The_Spire|||||
-"February 2018 |19224.3|9551.1|98.74|32937"|Slay_The_Spire|||||
-"January 2018 |9673.2|8435.7|681.68|19513"|Slay_The_Spire|||||
-"December 2017 |1237.5|1170.7|1753.13|3189"|Slay_The_Spire|||||
-"November 2017 |66.8|66.4|16572.04|186"|Slay_The_Spire|||||
-"October 2017 |0.4|0.3|691.65|4"|Slay_The_Spire|||||
-"September 2017 |0.1|-0.0|-30.76|2"|Slay_The_Spire|||||
-"July 2017 |0.1|0.0|-3.92|2"|Slay_The_Spire|||||
-"February 2024 |9937.4|-746.2|-6.98|15256"|Spelunky|||||
-"January 2024 |10683.5|552.1|5.45|16383"|Spelunky|||||
-"December 2023 |10131.4|-325.9|-3.12|15450"|Spelunky|||||
-"November 2023 |10457.3|432.0|4.31|18760"|Spelunky|||||
-"October 2023 |10025.4|-62.9|-0.62|18812"|Spelunky|||||
-"September 2023 |10088.3|1307.6|14.89|18551"|Spelunky|||||
-"August 2023 |8780.6|-552.8|-5.92|15058"|Spelunky|||||
-"July 2023 |9333.5|2394.5|34.51|14646"|Spelunky|||||
-"June 2023 |6938.9|-926.7|-11.78|11866"|Spelunky|||||
-"May 2023 |7865.6|-1951.1|-19.88|12617"|Spelunky|||||
-"April 2023 |9816.7|63.4|0.65|16630"|Spelunky|||||
-"March 2023 |9753.3|1348.4|16.04|18812"|Spelunky|||||
-"February 2023 |8404.9|-1381.1|-14.11|11835"|Spelunky|||||
-"January 2023 |9786.0|258.7|2.72|14255"|Spelunky|||||
-"December 2022 |9527.3|-775.0|-7.52|18748"|Spelunky|||||
-"November 2022 |10302.3|3209.7|45.25|19314"|Spelunky|||||
-"October 2022 |7092.6|-28.0|-0.39|10043"|Spelunky|||||
-"September 2022 |7120.6|-640.3|-8.25|10495"|Spelunky|||||
-"August 2022 |7761.0|-2048.7|-20.88|11010"|Spelunky|||||
-"July 2022 |9809.7|1701.2|20.98|16576"|Spelunky|||||
-"June 2022 |8108.6|-2049.1|-20.17|15401"|Spelunky|||||
-"May 2022 |10157.7|1841.8|22.15|18918"|Spelunky|||||
-"April 2022 |8315.9|1444.4|21.02|11555"|Spelunky|||||
-"March 2022 |6871.5|454.5|7.08|10695"|Spelunky|||||
-"February 2022 |6417.0|-1849.8|-22.38|8485"|Spelunky|||||
-"January 2022 |8266.8|763.2|10.17|11903"|Spelunky|||||
-"December 2021 |7503.7|738.1|10.91|11087"|Spelunky|||||
-"November 2021 |6765.6|-389.8|-5.45|11044"|Spelunky|||||
-"October 2021 |7155.4|476.9|7.14|13759"|Spelunky|||||
-"September 2021 |6678.5|-856.9|-11.37|9160"|Spelunky|||||
-"August 2021 |7535.4|405.5|5.69|10843"|Spelunky|||||
-"July 2021 |7129.8|1166.6|19.56|10831"|Spelunky|||||
-"June 2021 |5963.3|502.7|9.21|10381"|Spelunky|||||
-"May 2021 |5460.5|4.0|0.07|7222"|Spelunky|||||
-"April 2021 |5456.5|-863.2|-13.66|7304"|Spelunky|||||
-"March 2021 |6319.7|-1156.2|-15.47|8773"|Spelunky|||||
-"February 2021 |7476.0|-628.5|-7.75|10380"|Spelunky|||||
-"January 2021 |8104.4|825.2|11.34|11077"|Spelunky|||||
-"December 2020 |7279.2|1139.6|18.56|10297"|Spelunky|||||
-"November 2020 |6139.6|430.8|7.55|9696"|Spelunky|||||
-"October 2020 |5708.8|204.1|3.71|10695"|Spelunky|||||
-"September 2020 |5504.8|-1021.8|-15.66|7895"|Spelunky|||||
-"August 2020 |6526.5|-30.6|-0.47|9584"|Spelunky|||||
-"July 2020 |6557.1|1033.5|18.71|9621"|Spelunky|||||
-"June 2020 |5523.6|-714.3|-11.45|9030"|Spelunky|||||
-"May 2020 |6238.0|-850.6|-12.0|7994"|Spelunky|||||
-"April 2020 |7088.6|-901.5|-11.28|14267"|Spelunky|||||
-"March 2020 |7990.1|-1524.9|-16.03|10626"|Spelunky|||||
-"February 2020 |9515.0|-1404.4|-12.86|13209"|Spelunky|||||
-"January 2020 |10919.5|4995.3|84.32|20383"|Spelunky|||||
-"December 2019 |5924.2|952.4|19.16|10057"|Spelunky|||||
-"November 2019 |4971.8|-498.1|-9.11|7128"|Spelunky|||||
-"October 2019 |5469.9|-856.3|-13.54|7864"|Spelunky|||||
-"September 2019 |6326.3|249.9|4.11|9434"|Spelunky|||||
-"August 2019 |6076.3|-510.8|-7.76|10357"|Spelunky|||||
-"July 2019 |6587.2|1376.1|26.41|11521"|Spelunky|||||
-"June 2019 |5211.0|-83.6|-1.58|9508"|Spelunky|||||
-"May 2019 |5294.6|-172.6|-3.16|7471"|Spelunky|||||
-"April 2019 |5467.3|-1422.1|-20.64|7816"|Spelunky|||||
-"March 2019 |6889.4|-1448.3|-17.37|10303"|Spelunky|||||
-"February 2019 |8337.6|-2069.0|-19.88|12407"|Spelunky|||||
-"January 2019 |10406.6|2128.4|25.71|14586"|Spelunky|||||
-"December 2018 |8278.1|358.6|4.53|12365"|Spelunky|||||
-"November 2018 |7919.6|1169.0|17.32|12647"|Spelunky|||||
-"October 2018 |6750.6|-167.8|-2.42|9572"|Spelunky|||||
-"September 2018 |6918.3|-12.2|-0.18|10323"|Spelunky|||||
-"August 2018 |6930.5|-4696.6|-40.39|11015"|Spelunky|||||
-"July 2018 |11627.2|894.0|8.33|21643"|Spelunky|||||
-"June 2018 |10733.1|610.6|6.03|18758"|Spelunky|||||
-"May 2018 |10122.5|-232.1|-2.24|17216"|Spelunky|||||
-"April 2018 |10354.6|-3548.0|-25.52|20163"|Spelunky|||||
-"March 2018 |13902.6|-5321.7|-27.68|25018"|Spelunky|||||
-"February 2018 |19224.3|9551.1|98.74|32937"|Spelunky|||||
-"January 2018 |9673.2|8435.7|681.68|19513"|Spelunky|||||
-"December 2017 |1237.5|1170.7|1753.13|3189"|Spelunky|||||
-"November 2017 |66.8|66.4|16572.04|186"|Spelunky|||||
-"October 2017 |0.4|0.3|691.65|4"|Spelunky|||||
-"September 2017 |0.1|-0.0|-30.76|2"|Spelunky|||||
-"July 2017 |0.1|0.0|-3.92|2"|Spelunky|||||
+Month|Avg. Players|Gain|% Gain|Peak Players|Source File
+March 2024|140.65|38.00|+37.01%|307|Crypt of the NecroDancer
+February 2024|102.65|0.16|+0.16%|189|Crypt of the NecroDancer
+January 2024|102.49|-7.28|-6.63%|159|Crypt of the NecroDancer
+December 2023|109.77|-13.22|-10.75%|176|Crypt of the NecroDancer
+November 2023|122.99|-10.69|-8.00%|224|Crypt of the NecroDancer
+October 2023|133.68|26.85|+25.13%|489|Crypt of the NecroDancer
+September 2023|106.84|4.72|+4.63%|194|Crypt of the NecroDancer
+August 2023|102.11|-29.92|-22.66%|159|Crypt of the NecroDancer
+July 2023|132.03|12.36|+10.33%|192|Crypt of the NecroDancer
+June 2023|119.67|4.16|+3.60%|234|Crypt of the NecroDancer
+May 2023|115.51|-12.22|-9.57%|196|Crypt of the NecroDancer
+April 2023|127.73|-7.15|-5.30%|257|Crypt of the NecroDancer
+March 2023|134.88|-27.64|-17.01%|252|Crypt of the NecroDancer
+February 2023|162.52|24.49|+17.74%|287|Crypt of the NecroDancer
+January 2023|138.03|-17.41|-11.20%|225|Crypt of the NecroDancer
+December 2022|155.44|-10.51|-6.33%|243|Crypt of the NecroDancer
+November 2022|165.95|-3.12|-1.85%|346|Crypt of the NecroDancer
+October 2022|169.07|-20.34|-10.74%|380|Crypt of the NecroDancer
+September 2022|189.41|-266.14|-58.42%|338|Crypt of the NecroDancer
+August 2022|455.56|277.65|+156.07%|1497|Crypt of the NecroDancer
+July 2022|177.9|51.88|+41.17%|340|Crypt of the NecroDancer
+June 2022|126.02|-2.97|-2.31%|285|Crypt of the NecroDancer
+May 2022|128.99|28.98|+28.98%|229|Crypt of the NecroDancer
+April 2022|100.01|-16.51|-14.17%|154|Crypt of the NecroDancer
+March 2022|116.52|-31.35|-21.20%|203|Crypt of the NecroDancer
+February 2022|147.87|11.76|+8.64%|279|Crypt of the NecroDancer
+January 2022|136.11|-13.76|-9.18%|261|Crypt of the NecroDancer
+December 2021|149.86|33.76|+29.08%|227|Crypt of the NecroDancer
+November 2021|116.1|-2.86|-2.40%|213|Crypt of the NecroDancer
+October 2021|118.96|8.34|+7.54%|223|Crypt of the NecroDancer
+September 2021|110.62|-26.57|-19.37%|210|Crypt of the NecroDancer
+August 2021|137.19|-9.32|-6.36%|241|Crypt of the NecroDancer
+July 2021|146.51|-7.14|-4.65%|239|Crypt of the NecroDancer
+June 2021|153.66|-4.87|-3.07%|294|Crypt of the NecroDancer
+May 2021|158.53|24.58|+18.35%|332|Crypt of the NecroDancer
+April 2021|133.94|2.26|+1.72%|238|Crypt of the NecroDancer
+March 2021|131.68|-22.69|-14.70%|301|Crypt of the NecroDancer
+February 2021|154.37|19.41|+14.38%|243|Crypt of the NecroDancer
+January 2021|134.97|-25.83|-16.06%|215|Crypt of the NecroDancer
+December 2020|160.79|12.42|+8.37%|240|Crypt of the NecroDancer
+November 2020|148.37|16.48|+12.50%|231|Crypt of the NecroDancer
+October 2020|131.89|-27.28|-17.14%|268|Crypt of the NecroDancer
+September 2020|159.17|23.55|+17.37%|271|Crypt of the NecroDancer
+August 2020|135.62|-37.77|-21.78%|202|Crypt of the NecroDancer
+July 2020|173.39|-24.90|-12.56%|271|Crypt of the NecroDancer
+June 2020|198.29|18.23|+10.12%|403|Crypt of the NecroDancer
+May 2020|180.06|-27.82|-13.38%|386|Crypt of the NecroDancer
+April 2020|207.89|38.79|+22.94%|415|Crypt of the NecroDancer
+March 2020|169.1|6.23|+3.82%|313|Crypt of the NecroDancer
+February 2020|162.87|-44.70|-21.53%|288|Crypt of the NecroDancer
+January 2020|207.56|16.45|+8.61%|420|Crypt of the NecroDancer
+December 2019|191.11|-12.23|-6.01%|300|Crypt of the NecroDancer
+November 2019|203.34|57.73|+39.64%|351|Crypt of the NecroDancer
+October 2019|145.61|-23.96|-14.13%|283|Crypt of the NecroDancer
+September 2019|169.57|-21.06|-11.05%|371|Crypt of the NecroDancer
+August 2019|190.63|-109.18|-36.42%|360|Crypt of the NecroDancer
+July 2019|299.81|-207.27|-40.88%|591|Crypt of the NecroDancer
+June 2019|507.08|363.09|+252.15%|1172|Crypt of the NecroDancer
+May 2019|144.0|-12.71|-8.11%|229|Crypt of the NecroDancer
+April 2019|156.71|-14.28|-8.35%|252|Crypt of the NecroDancer
+March 2019|170.99|-11.08|-6.08%|355|Crypt of the NecroDancer
+February 2019|182.07|18.63|+11.40%|309|Crypt of the NecroDancer
+January 2019|163.44|-38.49|-19.06%|242|Crypt of the NecroDancer
+December 2018|201.93|-9.48|-4.48%|338|Crypt of the NecroDancer
+November 2018|211.41|45.14|+27.15%|418|Crypt of the NecroDancer
+October 2018|166.27|-15.22|-8.39%|283|Crypt of the NecroDancer
+September 2018|181.49|3.50|+1.96%|379|Crypt of the NecroDancer
+August 2018|177.99|-102.02|-36.43%|297|Crypt of the NecroDancer
+July 2018|280.01|-34.65|-11.01%|476|Crypt of the NecroDancer
+June 2018|314.66|89.65|+39.84%|692|Crypt of the NecroDancer
+May 2018|225.01|42.98|+23.61%|581|Crypt of the NecroDancer
+April 2018|182.03|-50.22|-21.62%|311|Crypt of the NecroDancer
+March 2018|232.25|-5.97|-2.50%|512|Crypt of the NecroDancer
+February 2018|238.22|-108.53|-31.30%|411|Crypt of the NecroDancer
+January 2018|346.74|52.44|+17.82%|670|Crypt of the NecroDancer
+December 2017|294.31|-93.71|-24.15%|612|Crypt of the NecroDancer
+November 2017|388.02|143.04|+58.39%|689|Crypt of the NecroDancer
+October 2017|244.98|-54.45|-18.19%|647|Crypt of the NecroDancer
+September 2017|299.44|38.06|+14.56%|652|Crypt of the NecroDancer
+August 2017|261.38|-258.48|-49.72%|391|Crypt of the NecroDancer
+July 2017|519.86|240.37|+86.00%|1291|Crypt of the NecroDancer
+June 2017|279.5|102.96|+58.33%|883|Crypt of the NecroDancer
+May 2017|176.53|-22.78|-11.43%|280|Crypt of the NecroDancer
+April 2017|199.31|-48.18|-19.47%|311|Crypt of the NecroDancer
+March 2017|247.49|-121.64|-32.95%|405|Crypt of the NecroDancer
+February 2017|369.13|-134.52|-26.71%|696|Crypt of the NecroDancer
+January 2017|503.64|170.50|+51.18%|1415|Crypt of the NecroDancer
+December 2016|333.15|-2.57|-0.76%|955|Crypt of the NecroDancer
+November 2016|335.71|143.24|+74.42%|860|Crypt of the NecroDancer
+October 2016|192.48|10.24|+5.62%|403|Crypt of the NecroDancer
+September 2016|182.24|-22.27|-10.89%|308|Crypt of the NecroDancer
+August 2016|204.51|-167.55|-45.03%|360|Crypt of the NecroDancer
+July 2016|372.06|109.99|+41.97%|874|Crypt of the NecroDancer
+June 2016|262.07|-54.48|-17.21%|783|Crypt of the NecroDancer
+May 2016|316.55|126.74|+66.77%|904|Crypt of the NecroDancer
+April 2016|189.81|-87.01|-31.43%|332|Crypt of the NecroDancer
+March 2016|276.82|-116.53|-29.63%|512|Crypt of the NecroDancer
+February 2016|393.35|-49.40|-11.16%|884|Crypt of the NecroDancer
+January 2016|442.75|80.83|+22.33%|1088|Crypt of the NecroDancer
+December 2015|361.92|67.73|+23.02%|1050|Crypt of the NecroDancer
+November 2015|294.19|20.58|+7.52%|863|Crypt of the NecroDancer
+October 2015|273.61|103.01|+60.38%|760|Crypt of the NecroDancer
+September 2015|170.6|-54.45|-24.20%|316|Crypt of the NecroDancer
+August 2015|225.05|-9.76|-4.16%|405|Crypt of the NecroDancer
+July 2015|234.82|-173.97|-42.56%|367|Crypt of the NecroDancer
+June 2015|408.79|-126.26|-23.60%|1385|Crypt of the NecroDancer
+May 2015|535.04|115.66|+27.58%|1247|Crypt of the NecroDancer
+April 2015|419.38|251.92|+150.43%|2234|Crypt of the NecroDancer
+March 2015|167.46|-8.33|-4.74%|352|Crypt of the NecroDancer
+February 2015|175.79|-62.40|-26.20%|419|Crypt of the NecroDancer
+January 2015|238.2|-14.18|-5.62%|427|Crypt of the NecroDancer
+December 2014|252.38|-17.01|-6.31%|771|Crypt of the NecroDancer
+November 2014|269.38|73.95|+37.84%|720|Crypt of the NecroDancer
+October 2014|195.43|50.07|+34.45%|550|Crypt of the NecroDancer
+September 2014|145.36|-198.19|-57.69%|560|Crypt of the NecroDancer
+August 2014|343.55|186.49|+118.73%|1284|Crypt of the NecroDancer
+July 2014|157.07|-|-|1827|Crypt of the NecroDancer
+March 2024|3545.15|1336.37|+60.50%|7813|Dead Cells
+February 2024|2208.78|-695.32|-23.94%|3891|Dead Cells
+January 2024|2904.1|-30.94|-1.05%|5551|Dead Cells
+December 2023|2935.04|750.12|+34.33%|6001|Dead Cells
+November 2023|2184.91|-213.01|-8.88%|4910|Dead Cells
+October 2023|2397.92|308.60|+14.77%|5417|Dead Cells
+September 2023|2089.33|-349.12|-14.32%|4002|Dead Cells
+August 2023|2438.45|-792.78|-24.53%|4589|Dead Cells
+July 2023|3231.23|837.91|+35.01%|5799|Dead Cells
+June 2023|2393.32|-539.39|-18.39%|4674|Dead Cells
+May 2023|2932.72|-805.81|-21.55%|5765|Dead Cells
+April 2023|3738.53|-2496.28|-40.04%|8426|Dead Cells
+March 2023|6234.81|3441.80|+123.23%|14880|Dead Cells
+February 2023|2793.0|-1052.28|-27.37%|4928|Dead Cells
+January 2023|3845.28|351.05|+10.05%|6094|Dead Cells
+December 2022|3494.23|-50.47|-1.42%|6505|Dead Cells
+November 2022|3544.7|1618.63|+84.04%|8619|Dead Cells
+October 2022|1926.07|-59.44|-2.99%|3609|Dead Cells
+September 2022|1985.51|-928.63|-31.87%|3713|Dead Cells
+August 2022|2914.15|21.80|+0.75%|5134|Dead Cells
+July 2022|2892.35|547.41|+23.34%|5132|Dead Cells
+June 2022|2344.93|-589.32|-20.08%|5146|Dead Cells
+May 2022|2934.25|31.47|+1.08%|6609|Dead Cells
+April 2022|2902.78|294.14|+11.28%|6441|Dead Cells
+March 2022|2608.64|-1404.06|-34.99%|5492|Dead Cells
+February 2022|4012.7|-3008.21|-42.85%|7525|Dead Cells
+January 2022|7020.91|3426.15|+95.31%|13556|Dead Cells
+December 2021|3594.75|1076.28|+42.74%|7553|Dead Cells
+November 2021|2518.47|646.88|+34.56%|8530|Dead Cells
+October 2021|1871.59|-294.97|-13.61%|4579|Dead Cells
+September 2021|2166.56|-125.54|-5.48%|5483|Dead Cells
+August 2021|2292.1|-711.16|-23.68%|3680|Dead Cells
+July 2021|3003.26|645.49|+27.38%|6287|Dead Cells
+June 2021|2357.77|389.89|+19.81%|5852|Dead Cells
+May 2021|1967.88|-742.50|-27.39%|4588|Dead Cells
+April 2021|2710.38|-229.14|-7.80%|6771|Dead Cells
+March 2021|2939.53|-3242.04|-52.45%|7289|Dead Cells
+February 2021|6181.57|3291.26|+113.87%|13651|Dead Cells
+January 2021|2890.31|1212.87|+72.30%|10451|Dead Cells
+December 2020|1677.44|457.57|+37.51%|4107|Dead Cells
+November 2020|1219.87|43.70|+3.72%|2474|Dead Cells
+October 2020|1176.17|-484.14|-29.16%|2095|Dead Cells
+September 2020|1660.31|-1054.54|-38.84%|3307|Dead Cells
+August 2020|2714.86|17.71|+0.66%|5413|Dead Cells
+July 2020|2697.15|1025.91|+61.39%|5316|Dead Cells
+June 2020|1671.24|-41.06|-2.40%|4428|Dead Cells
+May 2020|1712.3|-295.79|-14.73%|3262|Dead Cells
+April 2020|2008.09|-348.49|-14.79%|5322|Dead Cells
+March 2020|2356.58|-1425.89|-37.70%|5054|Dead Cells
+February 2020|3782.47|1964.64|+108.08%|9717|Dead Cells
+January 2020|1817.83|13.92|+0.77%|3313|Dead Cells
+December 2019|1803.91|334.13|+22.73%|3780|Dead Cells
+November 2019|1469.78|381.51|+35.06%|3125|Dead Cells
+October 2019|1088.27|-321.18|-22.79%|2029|Dead Cells
+September 2019|1409.44|-629.10|-30.86%|2685|Dead Cells
+August 2019|2038.55|274.59|+15.57%|5121|Dead Cells
+July 2019|1763.95|326.17|+22.69%|3363|Dead Cells
+June 2019|1437.78|-97.73|-6.36%|3274|Dead Cells
+May 2019|1535.51|-569.58|-27.06%|3133|Dead Cells
+April 2019|2105.09|446.96|+26.96%|5155|Dead Cells
+March 2019|1658.13|342.62|+26.04%|6323|Dead Cells
+February 2019|1315.51|-581.44|-30.65%|2293|Dead Cells
+January 2019|1896.96|99.34|+5.53%|4153|Dead Cells
+December 2018|1797.62|647.57|+56.31%|4381|Dead Cells
+November 2018|1150.05|-398.62|-25.74%|2136|Dead Cells
+October 2018|1548.68|-583.50|-27.37%|3746|Dead Cells
+September 2018|2132.17|-2305.57|-51.95%|4601|Dead Cells
+August 2018|4437.74|2702.05|+155.68%|10344|Dead Cells
+July 2018|1735.69|-32.48|-1.84%|3625|Dead Cells
+June 2018|1768.17|616.12|+53.48%|4192|Dead Cells
+May 2018|1152.05|61.99|+5.69%|2200|Dead Cells
+April 2018|1090.05|-358.23|-24.73%|1787|Dead Cells
+March 2018|1448.29|506.88|+53.84%|3516|Dead Cells
+February 2018|941.41|-861.62|-47.79%|1548|Dead Cells
+January 2018|1803.03|425.24|+30.86%|3602|Dead Cells
+December 2017|1377.79|363.84|+35.88%|4004|Dead Cells
+November 2017|1013.96|567.05|+126.88%|2639|Dead Cells
+October 2017|446.91|-365.79|-45.01%|847|Dead Cells
+September 2017|812.7|-158.16|-16.29%|1670|Dead Cells
+August 2017|970.85|-1109.51|-53.33%|1535|Dead Cells
+July 2017|2080.37|-443.30|-17.57%|4243|Dead Cells
+June 2017|2523.67|-37.34|-1.46%|4463|Dead Cells
+May 2017|2561.01|2558.05|+86307.07%|6712|Dead Cells
+April 2017|2.96|2.75|+1304.43%|15|Dead Cells
+March 2017|0.21|0.15|+264.04%|6|Dead Cells
+February 2017|0.06|-|-|2|Dead Cells
+March 2024|14725.62|4120.88|+38.86%|31452|Deep_Rock
+February 2024|10604.74|-924.02|-8.01%|18738|Deep_Rock
+January 2024|11528.77|-705.12|-5.76%|20789|Deep_Rock
+December 2023|12233.88|-385.20|-3.05%|20579|Deep_Rock
+November 2023|12619.08|1740.95|+16.00%|22249|Deep_Rock
+October 2023|10878.13|-1505.71|-12.16%|23423|Deep_Rock
+September 2023|12383.85|-2099.40|-14.50%|25298|Deep_Rock
+August 2023|14483.24|-4305.90|-22.92%|25573|Deep_Rock
+July 2023|18789.15|980.16|+5.50%|34474|Deep_Rock
+June 2023|17808.98|4615.36|+34.98%|34905|Deep_Rock
+May 2023|13193.62|-2034.10|-13.36%|24918|Deep_Rock
+April 2023|15227.72|-5570.67|-26.78%|27496|Deep_Rock
+March 2023|20798.39|7700.37|+58.79%|36198|Deep_Rock
+February 2023|13098.02|-3522.72|-21.19%|23460|Deep_Rock
+January 2023|16620.74|284.88|+1.74%|27360|Deep_Rock
+December 2022|16335.86|-5301.69|-24.50%|25051|Deep_Rock
+November 2022|21637.55|13131.11|+154.37%|46392|Deep_Rock
+October 2022|8506.44|-31.65|-0.37%|15230|Deep_Rock
+September 2022|8538.09|393.40|+4.83%|16182|Deep_Rock
+August 2022|8144.69|-3769.25|-31.64%|13619|Deep_Rock
+July 2022|11913.93|-1381.37|-10.39%|24217|Deep_Rock
+June 2022|13295.31|470.86|+3.67%|26162|Deep_Rock
+May 2022|12824.45|3983.47|+45.06%|30710|Deep_Rock
+April 2022|8840.98|447.41|+5.33%|28698|Deep_Rock
+March 2022|8393.57|-1462.09|-14.83%|16649|Deep_Rock
+February 2022|9855.65|-483.81|-4.68%|21314|Deep_Rock
+January 2022|10339.46|-501.69|-4.63%|20811|Deep_Rock
+December 2021|10841.15|-7183.58|-39.85%|19148|Deep_Rock
+November 2021|18024.73|13301.11|+281.59%|41544|Deep_Rock
+October 2021|4723.62|-175.09|-3.57%|10818|Deep_Rock
+September 2021|4898.71|452.63|+10.18%|9112|Deep_Rock
+August 2021|4446.08|-2255.60|-33.66%|7472|Deep_Rock
+July 2021|6701.67|1144.29|+20.59%|12469|Deep_Rock
+June 2021|5557.39|-743.92|-11.81%|13027|Deep_Rock
+May 2021|6301.31|1044.34|+19.87%|13218|Deep_Rock
+April 2021|5256.97|-5692.64|-51.99%|9049|Deep_Rock
+March 2021|10949.6|1823.14|+19.98%|24522|Deep_Rock
+February 2021|9126.46|1921.06|+26.66%|35827|Deep_Rock
+January 2021|7205.41|1193.30|+19.85%|14077|Deep_Rock
+December 2020|6012.11|485.09|+8.78%|12395|Deep_Rock
+November 2020|5527.01|510.43|+10.17%|11275|Deep_Rock
+October 2020|5016.59|382.40|+8.25%|12457|Deep_Rock
+September 2020|4634.19|1223.67|+35.88%|9273|Deep_Rock
+August 2020|3410.52|-1956.41|-36.45%|6370|Deep_Rock
+July 2020|5366.93|-676.53|-11.19%|10527|Deep_Rock
+June 2020|6043.46|-519.74|-7.92%|11326|Deep_Rock
+May 2020|6563.21|3156.66|+92.66%|15515|Deep_Rock
+April 2020|3406.54|-3067.17|-47.38%|6541|Deep_Rock
+March 2020|6473.72|3164.79|+95.64%|20030|Deep_Rock
+February 2020|3308.93|796.89|+31.72%|19471|Deep_Rock
+January 2020|2512.05|13.56|+0.54%|5242|Deep_Rock
+December 2019|2498.49|726.93|+41.03%|5091|Deep_Rock
+November 2019|1771.56|-165.51|-8.54%|4489|Deep_Rock
+October 2019|1937.07|-22.84|-1.17%|4172|Deep_Rock
+September 2019|1959.91|1220.49|+165.06%|9790|Deep_Rock
+August 2019|739.42|-624.56|-45.79%|1393|Deep_Rock
+July 2019|1363.98|205.92|+17.78%|3026|Deep_Rock
+June 2019|1158.06|15.66|+1.37%|3085|Deep_Rock
+May 2019|1142.41|322.24|+39.29%|3453|Deep_Rock
+April 2019|820.17|-1666.99|-67.02%|1863|Deep_Rock
+March 2019|2487.16|1305.94|+110.56%|14863|Deep_Rock
+February 2019|1181.22|-162.28|-12.08%|4462|Deep_Rock
+January 2019|1343.5|-86.97|-6.08%|3014|Deep_Rock
+December 2018|1430.48|733.60|+105.27%|3263|Deep_Rock
+November 2018|696.88|114.51|+19.66%|2631|Deep_Rock
+October 2018|582.37|-10.02|-1.69%|1404|Deep_Rock
+September 2018|592.38|303.24|+104.88%|1311|Deep_Rock
+August 2018|289.14|-510.75|-63.85%|743|Deep_Rock
+July 2018|799.88|95.52|+13.56%|2272|Deep_Rock
+June 2018|704.37|-102.34|-12.69%|2189|Deep_Rock
+May 2018|806.71|192.97|+31.44%|2963|Deep_Rock
+April 2018|613.74|-720.77|-54.01%|1686|Deep_Rock
+March 2018|1334.51|1288.12|+2776.24%|4286|Deep_Rock
+February 2018|46.4|45.60|+5725.25%|2674|Deep_Rock
+January 2018|0.8|-0.26|-24.53%|6|Deep_Rock
+December 2017|1.06|-1.90|-64.32%|9|Deep_Rock
+November 2017|2.96|-1.28|-30.24%|17|Deep_Rock
+October 2017|4.24|-7.77|-64.68%|25|Deep_Rock
+September 2017|12.01|1.84|+18.07%|59|Deep_Rock
+August 2017|10.17|5.41|+113.61%|184|Deep_Rock
+July 2017|4.76|-1.07|-18.41%|28|Deep_Rock
+June 2017|5.83|4.33|+288.11%|114|Deep_Rock
+May 2017|1.5|0.25|+19.87%|16|Deep_Rock
+April 2017|1.25|-0.86|-40.60%|9|Deep_Rock
+March 2017|2.11|0.55|+35.53%|33|Deep_Rock
+February 2017|1.56|1.32|+554.90%|21|Deep_Rock
+January 2017|0.24|-1.19|-83.29%|4|Deep_Rock
+December 2016|1.42|-|-|11|Deep_Rock
+March 2024|989.42|-74.19|-6.98%|1468|Enter the Gungeon
+February 2024|1063.61|-40.44|-3.66%|1730|Enter the Gungeon
+January 2024|1104.05|27.34|+2.54%|1567|Enter the Gungeon
+December 2023|1076.71|75.83|+7.58%|1554|Enter the Gungeon
+November 2023|1000.88|-234.69|-18.99%|1649|Enter the Gungeon
+October 2023|1235.57|131.77|+11.94%|2593|Enter the Gungeon
+September 2023|1103.8|-275.44|-19.97%|2593|Enter the Gungeon
+August 2023|1379.24|306.58|+28.58%|2225|Enter the Gungeon
+July 2023|1072.67|-6.88|-0.64%|1418|Enter the Gungeon
+June 2023|1079.54|-76.59|-6.62%|1578|Enter the Gungeon
+May 2023|1156.13|136.19|+13.35%|1929|Enter the Gungeon
+April 2023|1019.94|80.44|+8.56%|1998|Enter the Gungeon
+March 2023|939.5|-21.73|-2.26%|1373|Enter the Gungeon
+February 2023|961.24|-74.04|-7.15%|1388|Enter the Gungeon
+January 2023|1035.28|47.69|+4.83%|1454|Enter the Gungeon
+December 2022|987.58|68.97|+7.51%|1387|Enter the Gungeon
+November 2022|918.62|-117.00|-11.30%|1379|Enter the Gungeon
+October 2022|1035.61|-198.15|-16.06%|1750|Enter the Gungeon
+September 2022|1233.77|-396.83|-24.34%|1996|Enter the Gungeon
+August 2022|1630.59|484.35|+42.26%|4401|Enter the Gungeon
+July 2022|1146.24|-25.84|-2.20%|1503|Enter the Gungeon
+June 2022|1172.09|-309.58|-20.89%|1674|Enter the Gungeon
+May 2022|1481.67|539.21|+57.21%|2397|Enter the Gungeon
+April 2022|942.46|72.20|+8.30%|1353|Enter the Gungeon
+March 2022|870.26|-45.89|-5.01%|1324|Enter the Gungeon
+February 2022|916.15|-149.10|-14.00%|1298|Enter the Gungeon
+January 2022|1065.25|38.29|+3.73%|1452|Enter the Gungeon
+December 2021|1026.96|102.35|+11.07%|1414|Enter the Gungeon
+November 2021|924.61|-7.93|-0.85%|1410|Enter the Gungeon
+October 2021|932.54|-156.06|-14.34%|1444|Enter the Gungeon
+September 2021|1088.6|-33.15|-2.95%|1681|Enter the Gungeon
+August 2021|1121.75|-123.28|-9.90%|1483|Enter the Gungeon
+July 2021|1245.03|-33.31|-2.61%|1656|Enter the Gungeon
+June 2021|1278.33|-51.32|-3.86%|1983|Enter the Gungeon
+May 2021|1329.66|111.84|+9.18%|2134|Enter the Gungeon
+April 2021|1217.82|73.55|+6.43%|1724|Enter the Gungeon
+March 2021|1144.27|-38.54|-3.26%|1986|Enter the Gungeon
+February 2021|1182.81|-187.17|-13.66%|1589|Enter the Gungeon
+January 2021|1369.98|215.84|+18.70%|1982|Enter the Gungeon
+December 2020|1154.14|-87.29|-7.03%|1562|Enter the Gungeon
+November 2020|1241.43|80.08|+6.90%|1680|Enter the Gungeon
+October 2020|1161.35|-260.87|-18.34%|1585|Enter the Gungeon
+September 2020|1422.22|-23.55|-1.63%|2015|Enter the Gungeon
+August 2020|1445.77|-10.18|-0.70%|2049|Enter the Gungeon
+July 2020|1455.94|-80.37|-5.23%|1874|Enter the Gungeon
+June 2020|1536.31|-12.45|-0.80%|2598|Enter the Gungeon
+May 2020|1548.76|-446.11|-22.36%|2230|Enter the Gungeon
+April 2020|1994.87|-114.95|-5.45%|3003|Enter the Gungeon
+March 2020|2109.82|514.75|+32.27%|3538|Enter the Gungeon
+February 2020|1595.07|43.23|+2.79%|2550|Enter the Gungeon
+January 2020|1551.85|93.67|+6.42%|2215|Enter the Gungeon
+December 2019|1458.18|94.92|+6.96%|2251|Enter the Gungeon
+November 2019|1363.26|22.84|+1.70%|2490|Enter the Gungeon
+October 2019|1340.43|-278.11|-17.18%|2212|Enter the Gungeon
+September 2019|1618.53|81.92|+5.33%|3289|Enter the Gungeon
+August 2019|1536.62|-600.11|-28.09%|2572|Enter the Gungeon
+July 2019|2136.73|-562.73|-20.85%|3395|Enter the Gungeon
+June 2019|2699.46|-1229.92|-31.30%|3843|Enter the Gungeon
+May 2019|3929.39|-2558.66|-39.44%|7041|Enter the Gungeon
+April 2019|6488.05|5179.69|+395.89%|13043|Enter the Gungeon
+March 2019|1308.36|-104.50|-7.40%|2238|Enter the Gungeon
+February 2019|1412.86|-390.36|-21.65%|2159|Enter the Gungeon
+January 2019|1803.22|348.14|+23.93%|3413|Enter the Gungeon
+December 2018|1455.08|-119.33|-7.58%|2315|Enter the Gungeon
+November 2018|1574.41|-150.03|-8.70%|2597|Enter the Gungeon
+October 2018|1724.44|-692.45|-28.65%|3184|Enter the Gungeon
+September 2018|2416.89|-2224.06|-47.92%|4318|Enter the Gungeon
+August 2018|4640.95|-184.90|-3.83%|8612|Enter the Gungeon
+July 2018|4825.85|3706.02|+330.95%|15767|Enter the Gungeon
+June 2018|1119.83|40.04|+3.71%|3111|Enter the Gungeon
+May 2018|1079.79|370.58|+52.25%|2579|Enter the Gungeon
+April 2018|709.21|-52.09|-6.84%|1269|Enter the Gungeon
+March 2018|761.29|-153.23|-16.76%|1273|Enter the Gungeon
+February 2018|914.53|-136.33|-12.97%|1480|Enter the Gungeon
+January 2018|1050.86|153.98|+17.17%|1646|Enter the Gungeon
+December 2017|896.88|146.99|+19.60%|1632|Enter the Gungeon
+November 2017|749.89|-242.88|-24.46%|1297|Enter the Gungeon
+October 2017|992.77|139.57|+16.36%|2565|Enter the Gungeon
+September 2017|853.2|162.19|+23.47%|2123|Enter the Gungeon
+August 2017|691.01|-245.11|-26.18%|1007|Enter the Gungeon
+July 2017|936.12|-37.69|-3.87%|1658|Enter the Gungeon
+June 2017|973.81|-60.32|-5.83%|1828|Enter the Gungeon
+May 2017|1034.13|123.89|+13.61%|2633|Enter the Gungeon
+April 2017|910.24|-264.15|-22.49%|1491|Enter the Gungeon
+March 2017|1174.39|-1176.31|-50.04%|2091|Enter the Gungeon
+February 2017|2350.7|738.26|+45.78%|4609|Enter the Gungeon
+January 2017|1612.45|772.67|+92.01%|6903|Enter the Gungeon
+December 2016|839.78|226.97|+37.04%|2076|Enter the Gungeon
+November 2016|612.81|61.49|+11.15%|1518|Enter the Gungeon
+October 2016|551.31|-191.36|-25.77%|1023|Enter the Gungeon
+September 2016|742.68|29.32|+4.11%|1748|Enter the Gungeon
+August 2016|713.36|-378.57|-34.67%|1264|Enter the Gungeon
+July 2016|1091.92|-226.35|-17.17%|2153|Enter the Gungeon
+June 2016|1318.28|-1108.30|-45.67%|2132|Enter the Gungeon
+May 2016|2426.58|-2192.10|-47.46%|5299|Enter the Gungeon
+April 2016|4618.68|4615.52|+146304.94%|13574|Enter the Gungeon
+March 2016|3.15|2.17|+220.07%|23|Enter the Gungeon
+February 2016|0.99|0.12|+14.09%|5|Enter the Gungeon
+January 2016|0.86|0.56|+182.44%|5|Enter the Gungeon
+December 2015|0.31|0.27|+761.52%|3|Enter the Gungeon
+November 2015|0.04|-0.07|-65.25%|1|Enter the Gungeon
+October 2015|0.1|-0.02|-18.26%|1|Enter the Gungeon
+September 2015|0.12|0.07|+110.76%|2|Enter the Gungeon
+August 2015|0.06|-0.03|-31.24%|2|Enter the Gungeon
+July 2015|0.09|-0.07|-43.98%|2|Enter the Gungeon
+June 2015|0.15|0.12|+334.98%|3|Enter the Gungeon
+May 2015|0.04|-0.09|-72.10%|2|Enter the Gungeon
+April 2015|0.13|-|-|2|Enter the Gungeon
+March 2024|1049.95|-63.24|-5.68%|1637|Faster Than Light
+February 2024|1113.19|-19.71|-1.74%|1708|Faster Than Light
+January 2024|1132.9|28.45|+2.58%|1817|Faster Than Light
+December 2023|1104.45|58.05|+5.55%|1672|Faster Than Light
+November 2023|1046.41|72.74|+7.47%|1772|Faster Than Light
+October 2023|973.67|-8.02|-0.82%|1476|Faster Than Light
+September 2023|981.69|-8.75|-0.88%|1495|Faster Than Light
+August 2023|990.44|-102.66|-9.39%|1463|Faster Than Light
+July 2023|1093.1|171.24|+18.58%|1580|Faster Than Light
+June 2023|921.86|-48.65|-5.01%|1380|Faster Than Light
+May 2023|970.52|-82.35|-7.82%|1487|Faster Than Light
+April 2023|1052.87|-59.22|-5.32%|1553|Faster Than Light
+March 2023|1112.09|66.17|+6.33%|1714|Faster Than Light
+February 2023|1045.92|-70.45|-6.31%|1659|Faster Than Light
+January 2023|1116.37|55.95|+5.28%|1713|Faster Than Light
+December 2022|1060.43|41.63|+4.09%|1612|Faster Than Light
+November 2022|1018.8|-19.58|-1.89%|1615|Faster Than Light
+October 2022|1038.38|-75.34|-6.76%|1616|Faster Than Light
+September 2022|1113.72|-194.80|-14.89%|1779|Faster Than Light
+August 2022|1308.51|-18.38|-1.39%|1967|Faster Than Light
+July 2022|1326.9|109.17|+8.97%|2079|Faster Than Light
+June 2022|1217.73|-145.26|-10.66%|1957|Faster Than Light
+May 2022|1362.99|177.44|+14.97%|2173|Faster Than Light
+April 2022|1185.55|161.68|+15.79%|1855|Faster Than Light
+March 2022|1023.87|-49.64|-4.62%|1577|Faster Than Light
+February 2022|1073.52|-139.23|-11.48%|1662|Faster Than Light
+January 2022|1212.74|99.38|+8.93%|1834|Faster Than Light
+December 2021|1113.36|-73.33|-6.18%|1733|Faster Than Light
+November 2021|1186.69|-84.46|-6.64%|1845|Faster Than Light
+October 2021|1271.15|-148.15|-10.44%|2190|Faster Than Light
+September 2021|1419.29|-105.14|-6.90%|2273|Faster Than Light
+August 2021|1524.43|-284.17|-15.71%|2261|Faster Than Light
+July 2021|1808.6|353.69|+24.31%|3219|Faster Than Light
+June 2021|1454.92|351.61|+31.87%|2975|Faster Than Light
+May 2021|1103.3|18.45|+1.70%|1638|Faster Than Light
+April 2021|1084.86|-54.34|-4.77%|1706|Faster Than Light
+March 2021|1139.19|-64.93|-5.39%|1892|Faster Than Light
+February 2021|1204.12|25.15|+2.13%|1854|Faster Than Light
+January 2021|1178.97|88.04|+8.07%|1833|Faster Than Light
+December 2020|1090.94|-41.05|-3.63%|1756|Faster Than Light
+November 2020|1131.99|64.49|+6.04%|1769|Faster Than Light
+October 2020|1067.5|-70.43|-6.19%|1648|Faster Than Light
+September 2020|1137.93|-13.48|-1.17%|1734|Faster Than Light
+August 2020|1151.41|-127.94|-10.00%|1693|Faster Than Light
+July 2020|1279.35|135.77|+11.87%|1934|Faster Than Light
+June 2020|1143.58|-99.61|-8.01%|1853|Faster Than Light
+May 2020|1243.19|-62.28|-4.77%|1823|Faster Than Light
+April 2020|1305.46|75.51|+6.14%|1865|Faster Than Light
+March 2020|1229.95|-41.82|-3.29%|2190|Faster Than Light
+February 2020|1271.78|-98.73|-7.20%|2299|Faster Than Light
+January 2020|1370.51|187.99|+15.90%|2186|Faster Than Light
+December 2019|1182.52|62.28|+5.56%|2196|Faster Than Light
+November 2019|1120.23|155.80|+16.15%|1876|Faster Than Light
+October 2019|964.43|-45.92|-4.55%|1566|Faster Than Light
+September 2019|1010.35|-285.31|-22.02%|1720|Faster Than Light
+August 2019|1295.66|-397.36|-23.47%|2163|Faster Than Light
+July 2019|1693.02|539.63|+46.79%|3619|Faster Than Light
+June 2019|1153.39|120.04|+11.62%|2254|Faster Than Light
+May 2019|1033.35|44.35|+4.48%|1794|Faster Than Light
+April 2019|989.0|-71.10|-6.71%|1614|Faster Than Light
+March 2019|1060.1|-91.58|-7.95%|1877|Faster Than Light
+February 2019|1151.68|-122.39|-9.61%|2036|Faster Than Light
+January 2019|1274.07|61.01|+5.03%|2172|Faster Than Light
+December 2018|1213.06|144.82|+13.56%|2116|Faster Than Light
+November 2018|1068.23|-23.89|-2.19%|2192|Faster Than Light
+October 2018|1092.13|123.95|+12.80%|1903|Faster Than Light
+September 2018|968.17|52.40|+5.72%|2210|Faster Than Light
+August 2018|915.78|-256.15|-21.86%|1534|Faster Than Light
+July 2018|1171.93|103.17|+9.65%|2007|Faster Than Light
+June 2018|1068.75|80.13|+8.11%|1957|Faster Than Light
+May 2018|988.62|-148.21|-13.04%|1760|Faster Than Light
+April 2018|1136.83|-367.54|-24.43%|1936|Faster Than Light
+March 2018|1504.37|406.62|+37.04%|2996|Faster Than Light
+February 2018|1097.74|-134.06|-10.88%|1907|Faster Than Light
+January 2018|1231.8|22.61|+1.87%|2219|Faster Than Light
+December 2017|1209.18|119.00|+10.92%|2126|Faster Than Light
+November 2017|1090.18|-69.57|-6.00%|2041|Faster Than Light
+October 2017|1159.75|47.63|+4.28%|2092|Faster Than Light
+September 2017|1112.12|-35.09|-3.06%|1918|Faster Than Light
+August 2017|1147.21|-286.33|-19.97%|1825|Faster Than Light
+July 2017|1433.54|86.10|+6.39%|2607|Faster Than Light
+June 2017|1347.44|207.91|+18.25%|3224|Faster Than Light
+May 2017|1139.53|7.43|+0.66%|1939|Faster Than Light
+April 2017|1132.1|-274.28|-19.50%|1822|Faster Than Light
+March 2017|1406.38|93.66|+7.13%|3421|Faster Than Light
+February 2017|1312.73|25.03|+1.94%|3024|Faster Than Light
+January 2017|1287.7|43.88|+3.53%|2566|Faster Than Light
+December 2016|1243.82|122.45|+10.92%|2402|Faster Than Light
+November 2016|1121.37|83.44|+8.04%|2249|Faster Than Light
+October 2016|1037.93|4.25|+0.41%|1818|Faster Than Light
+September 2016|1033.67|-58.59|-5.36%|1710|Faster Than Light
+August 2016|1092.26|-191.16|-14.89%|1804|Faster Than Light
+July 2016|1283.42|116.15|+9.95%|2595|Faster Than Light
+June 2016|1167.28|123.59|+11.84%|2378|Faster Than Light
+May 2016|1043.69|18.72|+1.83%|1873|Faster Than Light
+April 2016|1024.97|-115.31|-10.11%|1799|Faster Than Light
+March 2016|1140.28|-210.91|-15.61%|2075|Faster Than Light
+February 2016|1351.19|-282.31|-17.28%|2467|Faster Than Light
+January 2016|1633.5|248.11|+17.91%|3472|Faster Than Light
+December 2015|1385.39|324.55|+30.59%|3093|Faster Than Light
+November 2015|1060.84|-47.35|-4.27%|2232|Faster Than Light
+October 2015|1108.2|67.05|+6.44%|2059|Faster Than Light
+September 2015|1041.14|-85.78|-7.61%|1813|Faster Than Light
+August 2015|1126.93|-83.20|-6.88%|1830|Faster Than Light
+July 2015|1210.13|-184.71|-13.24%|1935|Faster Than Light
+June 2015|1394.84|22.99|+1.68%|2786|Faster Than Light
+May 2015|1371.85|-78.00|-5.38%|2503|Faster Than Light
+April 2015|1449.86|16.93|+1.18%|4108|Faster Than Light
+March 2015|1432.93|-13.73|-0.95%|2967|Faster Than Light
+February 2015|1446.66|-501.06|-25.73%|2662|Faster Than Light
+January 2015|1947.72|140.02|+7.75%|3947|Faster Than Light
+December 2014|1807.7|470.76|+35.21%|4837|Faster Than Light
+November 2014|1336.94|-15.13|-1.12%|3244|Faster Than Light
+October 2014|1352.08|-5.98|-0.44%|2502|Faster Than Light
+September 2014|1358.05|-439.07|-24.43%|2390|Faster Than Light
+August 2014|1797.12|-379.58|-17.44%|3602|Faster Than Light
+July 2014|2176.7|-335.88|-13.37%|4311|Faster Than Light
+June 2014|2512.58|-407.03|-13.94%|7593|Faster Than Light
+May 2014|2919.61|-4070.72|-58.23%|6255|Faster Than Light
+April 2014|6990.34|5776.12|+475.71%|18821|Faster Than Light
+March 2014|1214.21|52.04|+4.48%|3264|Faster Than Light
+February 2014|1162.17|-414.71|-26.30%|2268|Faster Than Light
+January 2014|1576.88|-260.72|-14.19%|3714|Faster Than Light
+December 2013|1837.61|536.32|+41.21%|5334|Faster Than Light
+November 2013|1301.28|21.54|+1.68%|3080|Faster Than Light
+October 2013|1279.74|-754.67|-37.10%|2724|Faster Than Light
+September 2013|2034.41|596.02|+41.44%|5204|Faster Than Light
+August 2013|1438.4|-1587.27|-52.46%|2982|Faster Than Light
+July 2013|3025.67|1778.46|+142.60%|11642|Faster Than Light
+June 2013|1247.2|356.18|+39.97%|3503|Faster Than Light
+May 2013|891.02|-204.73|-18.68%|2123|Faster Than Light
+April 2013|1095.75|-265.91|-19.53%|2078|Faster Than Light
+March 2013|1361.67|-679.34|-33.28%|3102|Faster Than Light
+February 2013|2041.0|-1382.19|-40.38%|4588|Faster Than Light
+January 2013|3423.2|854.04|+33.24%|9356|Faster Than Light
+December 2012|2569.16|1369.14|+114.09%|9308|Faster Than Light
+November 2012|1200.02|-1188.46|-49.76%|2612|Faster Than Light
+October 2012|2388.48|-4202.95|-63.76%|5744|Faster Than Light
+September 2012|6591.43|-|-|17537|Faster Than Light
+March 2024|9.06|1.15|+14.55%|24|Guild of Dungeoneering Ultimate Edition
+February 2024|7.91|0.10|+1.32%|18|Guild of Dungeoneering Ultimate Edition
+January 2024|7.81|0.02|+0.23%|19|Guild of Dungeoneering Ultimate Edition
+December 2023|7.79|0.16|+2.11%|18|Guild of Dungeoneering Ultimate Edition
+November 2023|7.63|-1.07|-12.31%|21|Guild of Dungeoneering Ultimate Edition
+October 2023|8.7|-0.51|-5.50%|22|Guild of Dungeoneering Ultimate Edition
+September 2023|9.21|1.75|+23.53%|25|Guild of Dungeoneering Ultimate Edition
+August 2023|7.45|-1.91|-20.43%|22|Guild of Dungeoneering Ultimate Edition
+July 2023|9.37|1.95|+26.32%|22|Guild of Dungeoneering Ultimate Edition
+June 2023|7.42|-2.35|-24.07%|18|Guild of Dungeoneering Ultimate Edition
+May 2023|9.77|0.21|+2.20%|22|Guild of Dungeoneering Ultimate Edition
+April 2023|9.56|0.03|+0.27%|23|Guild of Dungeoneering Ultimate Edition
+March 2023|9.53|0.16|+1.76%|24|Guild of Dungeoneering Ultimate Edition
+February 2023|9.37|-1.91|-16.90%|25|Guild of Dungeoneering Ultimate Edition
+January 2023|11.27|0.88|+8.48%|28|Guild of Dungeoneering Ultimate Edition
+December 2022|10.39|-0.11|-1.06%|29|Guild of Dungeoneering Ultimate Edition
+November 2022|10.5|0.91|+9.49%|26|Guild of Dungeoneering Ultimate Edition
+October 2022|9.59|-0.11|-1.13%|20|Guild of Dungeoneering Ultimate Edition
+September 2022|9.7|-1.92|-16.50%|23|Guild of Dungeoneering Ultimate Edition
+August 2022|11.62|-1.42|-10.89%|29|Guild of Dungeoneering Ultimate Edition
+July 2022|13.04|-1.35|-9.41%|29|Guild of Dungeoneering Ultimate Edition
+June 2022|14.39|-2.78|-16.18%|30|Guild of Dungeoneering Ultimate Edition
+May 2022|17.17|-1.39|-7.50%|38|Guild of Dungeoneering Ultimate Edition
+April 2022|18.57|-6.94|-27.20%|40|Guild of Dungeoneering Ultimate Edition
+March 2022|25.5|6.12|+31.58%|59|Guild of Dungeoneering Ultimate Edition
+February 2022|19.38|-9.04|-31.82%|41|Guild of Dungeoneering Ultimate Edition
+January 2022|28.42|-28.90|-50.41%|53|Guild of Dungeoneering Ultimate Edition
+December 2021|57.32|-35.95|-38.55%|155|Guild of Dungeoneering Ultimate Edition
+November 2021|93.28|83.15|+821.25%|433|Guild of Dungeoneering Ultimate Edition
+October 2021|10.13|-0.52|-4.90%|26|Guild of Dungeoneering Ultimate Edition
+September 2021|10.65|-1.83|-14.65%|26|Guild of Dungeoneering Ultimate Edition
+August 2021|12.48|1.89|+17.80%|51|Guild of Dungeoneering Ultimate Edition
+July 2021|10.59|-2.58|-19.60%|25|Guild of Dungeoneering Ultimate Edition
+June 2021|13.17|4.00|+43.57%|34|Guild of Dungeoneering Ultimate Edition
+May 2021|9.18|-0.18|-1.91%|23|Guild of Dungeoneering Ultimate Edition
+April 2021|9.35|-0.26|-2.72%|22|Guild of Dungeoneering Ultimate Edition
+March 2021|9.62|-1.34|-12.20%|23|Guild of Dungeoneering Ultimate Edition
+February 2021|10.95|-0.65|-5.58%|40|Guild of Dungeoneering Ultimate Edition
+January 2021|11.6|-0.72|-5.84%|30|Guild of Dungeoneering Ultimate Edition
+December 2020|12.32|-0.63|-4.88%|28|Guild of Dungeoneering Ultimate Edition
+November 2020|12.95|-5.10|-28.24%|35|Guild of Dungeoneering Ultimate Edition
+October 2020|18.05|6.73|+59.47%|52|Guild of Dungeoneering Ultimate Edition
+September 2020|11.32|-2.53|-18.29%|28|Guild of Dungeoneering Ultimate Edition
+August 2020|13.85|-2.70|-16.31%|32|Guild of Dungeoneering Ultimate Edition
+July 2020|16.55|2.52|+17.97%|37|Guild of Dungeoneering Ultimate Edition
+June 2020|14.03|-11.09|-44.14%|32|Guild of Dungeoneering Ultimate Edition
+May 2020|25.12|10.92|+76.98%|101|Guild of Dungeoneering Ultimate Edition
+April 2020|14.19|-0.91|-6.01%|29|Guild of Dungeoneering Ultimate Edition
+March 2020|15.1|2.34|+18.38%|41|Guild of Dungeoneering Ultimate Edition
+February 2020|12.76|-4.28|-25.13%|31|Guild of Dungeoneering Ultimate Edition
+January 2020|17.04|-3.50|-17.03%|45|Guild of Dungeoneering Ultimate Edition
+December 2019|20.54|1.75|+9.30%|52|Guild of Dungeoneering Ultimate Edition
+November 2019|18.79|1.08|+6.08%|52|Guild of Dungeoneering Ultimate Edition
+October 2019|17.71|-3.55|-16.70%|40|Guild of Dungeoneering Ultimate Edition
+September 2019|21.26|6.12|+40.46%|100|Guild of Dungeoneering Ultimate Edition
+August 2019|15.14|-5.46|-26.50%|34|Guild of Dungeoneering Ultimate Edition
+July 2019|20.6|4.67|+29.34%|43|Guild of Dungeoneering Ultimate Edition
+June 2019|15.92|1.84|+13.04%|44|Guild of Dungeoneering Ultimate Edition
+May 2019|14.09|0.10|+0.69%|33|Guild of Dungeoneering Ultimate Edition
+April 2019|13.99|-1.66|-10.63%|36|Guild of Dungeoneering Ultimate Edition
+March 2019|15.66|-1.87|-10.65%|40|Guild of Dungeoneering Ultimate Edition
+February 2019|17.52|-2.31|-11.64%|43|Guild of Dungeoneering Ultimate Edition
+January 2019|19.83|-1.76|-8.13%|52|Guild of Dungeoneering Ultimate Edition
+December 2018|21.59|0.46|+2.16%|60|Guild of Dungeoneering Ultimate Edition
+November 2018|21.13|-4.60|-17.87%|69|Guild of Dungeoneering Ultimate Edition
+October 2018|25.73|-9.31|-26.58%|65|Guild of Dungeoneering Ultimate Edition
+September 2018|35.04|5.32|+17.89%|154|Guild of Dungeoneering Ultimate Edition
+August 2018|29.73|-3.51|-10.57%|101|Guild of Dungeoneering Ultimate Edition
+July 2018|33.24|3.27|+10.93%|92|Guild of Dungeoneering Ultimate Edition
+June 2018|29.97|6.39|+27.08%|96|Guild of Dungeoneering Ultimate Edition
+May 2018|23.58|-0.57|-2.38%|51|Guild of Dungeoneering Ultimate Edition
+April 2018|24.15|-3.59|-12.94%|53|Guild of Dungeoneering Ultimate Edition
+March 2018|27.74|-7.90|-22.17%|59|Guild of Dungeoneering Ultimate Edition
+February 2018|35.64|-12.39|-25.80%|79|Guild of Dungeoneering Ultimate Edition
+January 2018|48.04|0.54|+1.13%|100|Guild of Dungeoneering Ultimate Edition
+December 2017|47.5|-15.75|-24.90%|111|Guild of Dungeoneering Ultimate Edition
+November 2017|63.25|-100.54|-61.39%|157|Guild of Dungeoneering Ultimate Edition
+October 2017|163.79|149.51|+1046.71%|579|Guild of Dungeoneering Ultimate Edition
+September 2017|14.28|-2.92|-16.98%|34|Guild of Dungeoneering Ultimate Edition
+August 2017|17.21|-11.46|-39.97%|47|Guild of Dungeoneering Ultimate Edition
+July 2017|28.66|-3.90|-11.98%|93|Guild of Dungeoneering Ultimate Edition
+June 2017|32.57|-18.42|-36.12%|100|Guild of Dungeoneering Ultimate Edition
+May 2017|50.98|35.12|+221.32%|342|Guild of Dungeoneering Ultimate Edition
+April 2017|15.87|-2.38|-13.06%|30|Guild of Dungeoneering Ultimate Edition
+March 2017|18.25|-0.45|-2.42%|45|Guild of Dungeoneering Ultimate Edition
+February 2017|18.7|-9.67|-34.08%|36|Guild of Dungeoneering Ultimate Edition
+January 2017|28.37|-0.06|-0.23%|107|Guild of Dungeoneering Ultimate Edition
+December 2016|28.44|-35.11|-55.25%|92|Guild of Dungeoneering Ultimate Edition
+November 2016|63.54|12.87|+25.41%|288|Guild of Dungeoneering Ultimate Edition
+October 2016|50.67|35.72|+238.96%|481|Guild of Dungeoneering Ultimate Edition
+September 2016|14.95|-5.86|-28.15%|36|Guild of Dungeoneering Ultimate Edition
+August 2016|20.81|-17.83|-46.15%|43|Guild of Dungeoneering Ultimate Edition
+July 2016|38.63|6.95|+21.94%|113|Guild of Dungeoneering Ultimate Edition
+June 2016|31.68|11.94|+60.49%|144|Guild of Dungeoneering Ultimate Edition
+May 2016|19.74|0.81|+4.29%|41|Guild of Dungeoneering Ultimate Edition
+April 2016|18.93|-2.12|-10.06%|50|Guild of Dungeoneering Ultimate Edition
+March 2016|21.05|-11.78|-35.88%|50|Guild of Dungeoneering Ultimate Edition
+February 2016|32.82|-13.63|-29.35%|77|Guild of Dungeoneering Ultimate Edition
+January 2016|46.45|-7.96|-14.63%|138|Guild of Dungeoneering Ultimate Edition
+December 2015|54.41|-27.63|-33.68%|155|Guild of Dungeoneering Ultimate Edition
+November 2015|82.05|35.42|+75.98%|345|Guild of Dungeoneering Ultimate Edition
+October 2015|46.62|-45.53|-49.41%|151|Guild of Dungeoneering Ultimate Edition
+September 2015|92.15|-10.31|-10.06%|396|Guild of Dungeoneering Ultimate Edition
+August 2015|102.46|-174.83|-63.05%|278|Guild of Dungeoneering Ultimate Edition
+July 2015|277.29|277.08|+135750.71%|1793|Guild of Dungeoneering Ultimate Edition
+June 2015|0.2|0.19|+1818.65%|3|Guild of Dungeoneering Ultimate Edition
+April 2015|0.01|-0.02|-66.90%|1|Guild of Dungeoneering Ultimate Edition
+March 2015|0.03|-|-|1|Guild of Dungeoneering Ultimate Edition
+March 2024|4208.55|-321.65|-7.10%|7875|Hades
+February 2024|4530.2|-687.70|-13.18%|8166|Hades
+January 2024|5217.9|-458.41|-8.08%|8963|Hades
+December 2023|5676.31|1257.81|+28.47%|9428|Hades
+November 2023|4418.5|1082.85|+32.46%|8612|Hades
+October 2023|3335.65|-300.47|-8.26%|7123|Hades
+September 2023|3636.13|238.19|+7.01%|8221|Hades
+August 2023|3397.94|-1451.22|-29.93%|5428|Hades
+July 2023|4849.16|1927.47|+65.97%|7996|Hades
+June 2023|2921.69|-1032.17|-26.11%|5205|Hades
+May 2023|3953.86|-1361.41|-25.61%|7570|Hades
+April 2023|5315.27|265.98|+5.27%|11963|Hades
+March 2023|5049.29|38.73|+0.77%|10812|Hades
+February 2023|5010.56|-4647.63|-48.12%|8198|Hades
+January 2023|9658.19|-1359.44|-12.34%|16843|Hades
+December 2022|11017.62|6231.58|+130.20%|20050|Hades
+November 2022|4786.04|220.72|+4.83%|9350|Hades
+October 2022|4565.32|-651.50|-12.49%|9490|Hades
+September 2022|5216.82|-362.49|-6.50%|12105|Hades
+August 2022|5579.32|-612.62|-9.89%|13576|Hades
+July 2022|6191.93|2250.18|+57.09%|14044|Hades
+June 2022|3941.76|190.19|+5.07%|10020|Hades
+May 2022|3751.57|-856.44|-18.59%|6097|Hades
+April 2022|4608.01|-353.03|-7.12%|9267|Hades
+March 2022|4961.04|-1395.72|-21.96%|10310|Hades
+February 2022|6356.76|-1023.15|-13.86%|12076|Hades
+January 2022|7379.91|1008.87|+15.84%|12295|Hades
+December 2021|6371.04|625.82|+10.89%|11055|Hades
+November 2021|5745.22|823.73|+16.74%|12607|Hades
+October 2021|4921.48|-451.30|-8.40%|13666|Hades
+September 2021|5372.79|-787.90|-12.79%|8308|Hades
+August 2021|6160.69|-2156.00|-25.92%|9150|Hades
+July 2021|8316.69|3020.72|+57.04%|15468|Hades
+June 2021|5295.97|431.11|+8.86%|14563|Hades
+May 2021|4864.86|-1501.70|-23.59%|7582|Hades
+April 2021|6366.55|-3371.59|-34.62%|11114|Hades
+March 2021|9738.14|-1110.93|-10.24%|18007|Hades
+February 2021|10849.07|-7926.41|-42.22%|16939|Hades
+January 2021|18775.48|1173.04|+6.66%|35048|Hades
+December 2020|17602.44|-427.45|-2.37%|29764|Hades
+November 2020|18029.89|-1557.22|-7.95%|30509|Hades
+October 2020|19587.12|8261.59|+72.95%|32431|Hades
+September 2020|11325.52|10058.01|+793.52%|37586|Hades
+August 2020|1267.52|-1203.91|-48.71%|1929|Hades
+July 2020|2471.42|716.45|+40.82%|4995|Hades
+June 2020|1754.97|-201.80|-10.31%|5646|Hades
+May 2020|1956.76|959.14|+96.14%|6070|Hades
+April 2020|997.62|-1079.64|-51.97%|2079|Hades
+March 2020|2077.26|-434.10|-17.29%|5941|Hades
+February 2020|2511.35|-1723.18|-40.69%|5566|Hades
+January 2020|4234.54|-154.39|-3.52%|8086|Hades
+December 2019|4388.93|-|-|6196|Hades
+March 2024|128.09|17.58|+15.90%|252|Moonlighter
+February 2024|110.51|-72.10|-39.48%|203|Moonlighter
+January 2024|182.61|-65.75|-26.47%|351|Moonlighter
+December 2023|248.36|83.82|+50.94%|466|Moonlighter
+November 2023|164.54|10.76|+7.00%|356|Moonlighter
+October 2023|153.78|-35.42|-18.72%|357|Moonlighter
+September 2023|189.2|34.78|+22.52%|383|Moonlighter
+August 2023|154.42|-124.46|-44.63%|405|Moonlighter
+July 2023|278.88|46.93|+20.23%|475|Moonlighter
+June 2023|231.94|75.91|+48.65%|749|Moonlighter
+May 2023|156.03|-158.07|-50.32%|380|Moonlighter
+April 2023|314.11|-132.73|-29.70%|725|Moonlighter
+March 2023|446.84|282.85|+172.48%|1880|Moonlighter
+February 2023|163.99|3.12|+1.94%|481|Moonlighter
+January 2023|160.87|-31.08|-16.19%|304|Moonlighter
+December 2022|191.95|-5.20|-2.64%|326|Moonlighter
+November 2022|197.15|34.60|+21.29%|394|Moonlighter
+October 2022|162.55|-80.54|-33.13%|453|Moonlighter
+September 2022|243.09|100.57|+70.57%|981|Moonlighter
+August 2022|142.52|-52.57|-26.95%|309|Moonlighter
+July 2022|195.08|-17.30|-8.15%|376|Moonlighter
+June 2022|212.39|61.78|+41.02%|649|Moonlighter
+May 2022|150.6|58.55|+63.59%|402|Moonlighter
+April 2022|92.06|-30.56|-24.92%|184|Moonlighter
+March 2022|122.62|-11.29|-8.43%|342|Moonlighter
+February 2022|133.9|-141.06|-51.30%|281|Moonlighter
+January 2022|274.96|140.21|+104.05%|989|Moonlighter
+December 2021|134.75|9.25|+7.37%|315|Moonlighter
+November 2021|125.5|-136.43|-52.09%|285|Moonlighter
+October 2021|261.94|186.16|+245.69%|1074|Moonlighter
+September 2021|75.77|-18.40|-19.54%|141|Moonlighter
+August 2021|94.17|-60.18|-38.99%|163|Moonlighter
+July 2021|154.34|-35.89|-18.87%|330|Moonlighter
+June 2021|190.24|39.39|+26.11%|499|Moonlighter
+May 2021|150.85|-80.60|-34.82%|417|Moonlighter
+April 2021|231.46|133.48|+136.23%|1009|Moonlighter
+March 2021|97.98|-57.91|-37.15%|179|Moonlighter
+February 2021|155.89|-29.13|-15.74%|380|Moonlighter
+January 2021|185.02|-61.60|-24.98%|455|Moonlighter
+December 2020|246.62|113.75|+85.61%|819|Moonlighter
+November 2020|132.87|52.94|+66.22%|332|Moonlighter
+October 2020|79.93|-13.38|-14.34%|207|Moonlighter
+September 2020|93.31|-29.24|-23.86%|160|Moonlighter
+August 2020|122.55|-109.65|-47.22%|214|Moonlighter
+July 2020|232.2|-331.80|-58.83%|524|Moonlighter
+June 2020|564.0|384.67|+214.50%|1801|Moonlighter
+May 2020|179.33|46.46|+34.97%|704|Moonlighter
+April 2020|132.87|-16.09|-10.80%|232|Moonlighter
+March 2020|148.96|-109.62|-42.39%|295|Moonlighter
+February 2020|258.58|68.18|+35.81%|1170|Moonlighter
+January 2020|190.4|-59.03|-23.67%|466|Moonlighter
+December 2019|249.43|80.27|+47.45%|745|Moonlighter
+November 2019|169.16|-167.76|-49.79%|454|Moonlighter
+October 2019|336.92|203.05|+151.67%|1214|Moonlighter
+September 2019|133.88|-85.78|-39.05%|268|Moonlighter
+August 2019|219.66|-343.65|-61.01%|549|Moonlighter
+July 2019|563.31|30.68|+5.76%|1299|Moonlighter
+June 2019|532.62|357.20|+203.62%|1767|Moonlighter
+May 2019|175.43|-47.83|-21.42%|1512|Moonlighter
+April 2019|223.26|112.04|+100.74%|798|Moonlighter
+March 2019|111.22|-230.86|-67.49%|282|Moonlighter
+February 2019|342.07|188.43|+122.64%|1244|Moonlighter
+January 2019|153.64|-53.57|-25.85%|508|Moonlighter
+December 2018|207.21|27.75|+15.46%|885|Moonlighter
+November 2018|179.46|-72.09|-28.66%|429|Moonlighter
+October 2018|251.55|164.33|+188.39%|1342|Moonlighter
+September 2018|87.23|-223.45|-71.92%|195|Moonlighter
+August 2018|310.67|9.55|+3.17%|1316|Moonlighter
+July 2018|301.12|-673.01|-69.09%|707|Moonlighter
+June 2018|974.13|973.51|+155900.38%|4121|Moonlighter
+March 2018|0.62|0.35|+130.41%|5|Moonlighter
+February 2018|0.27|0.13|+88.40%|3|Moonlighter
+January 2018|0.14|-0.31|-68.45%|3|Moonlighter
+December 2017|0.46|0.43|+1561.90%|2|Moonlighter
+November 2017|0.03|-0.02|-37.25%|1|Moonlighter
+October 2017|0.04|-0.10|-70.31%|1|Moonlighter
+September 2017|0.15|-0.05|-24.04%|4|Moonlighter
+August 2017|0.19|0.16|+491.15%|3|Moonlighter
+July 2017|0.03|-0.04|-53.39%|1|Moonlighter
+June 2017|0.07|0.07|+Inf%|1|Moonlighter
+May 2017|0.0|-0.05|-100.00%|0|Moonlighter
+April 2017|0.05|-|-|1|Moonlighter
+March 2024|6556.89|-252.78|-3.71%|10948|Risk of Rain 2
+February 2024|6809.68|-1664.82|-19.65%|11546|Risk of Rain 2
+January 2024|8474.49|-1218.49|-12.57%|15819|Risk of Rain 2
+December 2023|9692.99|-1023.45|-9.55%|18103|Risk of Rain 2
+November 2023|10716.43|4645.02|+76.51%|19600|Risk of Rain 2
+October 2023|6071.41|357.57|+6.26%|10172|Risk of Rain 2
+September 2023|5713.85|-889.33|-13.47%|8967|Risk of Rain 2
+August 2023|6603.17|-3356.94|-33.70%|10657|Risk of Rain 2
+July 2023|9960.12|3109.45|+45.39%|14860|Risk of Rain 2
+June 2023|6850.66|876.80|+14.68%|13458|Risk of Rain 2
+May 2023|5973.86|-1202.51|-16.76%|9411|Risk of Rain 2
+April 2023|7176.37|-157.54|-2.15%|11164|Risk of Rain 2
+March 2023|7333.91|-667.92|-8.35%|12741|Risk of Rain 2
+February 2023|8001.83|-2213.45|-21.67%|13406|Risk of Rain 2
+January 2023|10215.28|2471.95|+31.92%|15294|Risk of Rain 2
+December 2022|7743.33|97.87|+1.28%|13857|Risk of Rain 2
+November 2022|7645.46|1893.86|+32.93%|13480|Risk of Rain 2
+October 2022|5751.6|-1432.65|-19.94%|9088|Risk of Rain 2
+September 2022|7184.25|480.42|+7.17%|12553|Risk of Rain 2
+August 2022|6703.83|-2238.31|-25.03%|9922|Risk of Rain 2
+July 2022|8942.15|-762.97|-7.86%|13551|Risk of Rain 2
+June 2022|9705.12|898.40|+10.20%|18109|Risk of Rain 2
+May 2022|8806.72|-4444.85|-33.54%|15205|Risk of Rain 2
+April 2022|13251.57|-14903.09|-52.93%|23506|Risk of Rain 2
+March 2022|28154.67|19816.19|+237.65%|70761|Risk of Rain 2
+February 2022|8338.47|186.58|+2.29%|14531|Risk of Rain 2
+January 2022|8151.9|1737.67|+27.09%|14096|Risk of Rain 2
+December 2021|6414.23|-101.67|-1.56%|12173|Risk of Rain 2
+November 2021|6515.9|1924.87|+41.93%|12143|Risk of Rain 2
+October 2021|4591.02|-503.11|-9.88%|7302|Risk of Rain 2
+September 2021|5094.13|-505.54|-9.03%|8390|Risk of Rain 2
+August 2021|5599.67|-1248.03|-18.23%|8533|Risk of Rain 2
+July 2021|6847.7|1253.80|+22.41%|11061|Risk of Rain 2
+June 2021|5593.9|-717.41|-11.37%|9743|Risk of Rain 2
+May 2021|6311.31|-5103.65|-44.71%|10286|Risk of Rain 2
+April 2021|11414.96|1557.35|+15.80%|25375|Risk of Rain 2
+March 2021|9857.61|4706.15|+91.36%|55559|Risk of Rain 2
+February 2021|5151.47|-1969.41|-27.66%|8037|Risk of Rain 2
+January 2021|7120.88|1823.83|+34.43%|12044|Risk of Rain 2
+December 2020|5297.05|69.37|+1.33%|10075|Risk of Rain 2
+November 2020|5227.68|-363.95|-6.51%|8984|Risk of Rain 2
+October 2020|5591.63|-7286.15|-56.58%|9952|Risk of Rain 2
+September 2020|12877.78|-12372.17|-49.00%|24530|Risk of Rain 2
+August 2020|25249.95|20718.12|+457.17%|71033|Risk of Rain 2
+July 2020|4531.83|947.10|+26.42%|6344|Risk of Rain 2
+June 2020|3584.73|-2017.20|-36.01%|5839|Risk of Rain 2
+May 2020|5601.93|-12828.72|-69.61%|10349|Risk of Rain 2
+April 2020|18430.64|13077.21|+244.28%|64501|Risk of Rain 2
+March 2020|5353.44|-292.48|-5.18%|38104|Risk of Rain 2
+February 2020|5645.91|-2107.93|-27.19%|9544|Risk of Rain 2
+January 2020|7753.84|581.65|+8.11%|15061|Risk of Rain 2
+December 2019|7172.19|4453.99|+163.86%|21395|Risk of Rain 2
+November 2019|2718.21|-1753.60|-39.21%|4420|Risk of Rain 2
+October 2019|4471.81|-2039.12|-31.32%|8592|Risk of Rain 2
+September 2019|6510.93|3496.29|+115.98%|22317|Risk of Rain 2
+August 2019|3014.64|-1476.81|-32.88%|4946|Risk of Rain 2
+July 2019|4491.45|-712.81|-13.70%|9032|Risk of Rain 2
+June 2019|5204.26|-2900.75|-35.79%|23817|Risk of Rain 2
+May 2019|8105.01|-13301.82|-62.14%|17593|Risk of Rain 2
+April 2019|21406.83|-|-|54085|Risk of Rain 2
+March 2024|29.19|2.46|+9.20%|60|Risk of Rain
+February 2024|26.73|-8.78|-24.72%|54|Risk of Rain
+January 2024|35.51|-16.98|-32.35%|76|Risk of Rain
+December 2023|52.49|-42.47|-44.73%|111|Risk of Rain
+November 2023|94.96|33.97|+55.71%|183|Risk of Rain
+October 2023|60.98|5.75|+10.41%|133|Risk of Rain
+September 2023|55.24|-10.24|-15.64%|97|Risk of Rain
+August 2023|65.48|-58.09|-47.01%|166|Risk of Rain
+July 2023|123.57|17.19|+16.16%|276|Risk of Rain
+June 2023|106.38|50.73|+91.15%|393|Risk of Rain
+May 2023|55.65|-12.95|-18.87%|100|Risk of Rain
+April 2023|68.6|-12.84|-15.77%|120|Risk of Rain
+March 2023|81.44|9.29|+12.87%|176|Risk of Rain
+February 2023|72.16|-18.87|-20.73%|128|Risk of Rain
+January 2023|91.03|8.39|+10.15%|168|Risk of Rain
+December 2022|82.63|29.05|+54.21%|238|Risk of Rain
+November 2022|53.58|3.66|+7.33%|95|Risk of Rain
+October 2022|49.92|-2.76|-5.24%|88|Risk of Rain
+September 2022|52.68|-1.69|-3.11%|95|Risk of Rain
+August 2022|54.38|-21.98|-28.79%|164|Risk of Rain
+July 2022|76.36|9.82|+14.75%|142|Risk of Rain
+June 2022|66.54|-2.39|-3.47%|153|Risk of Rain
+May 2022|68.94|-24.88|-26.52%|126|Risk of Rain
+April 2022|93.81|-4.24|-4.32%|183|Risk of Rain
+March 2022|98.05|2.25|+2.35%|183|Risk of Rain
+February 2022|95.8|-1.26|-1.30%|171|Risk of Rain
+January 2022|97.06|5.54|+6.05%|191|Risk of Rain
+December 2021|91.52|-0.22|-0.24%|189|Risk of Rain
+November 2021|91.74|21.71|+31.00%|165|Risk of Rain
+October 2021|70.03|4.91|+7.54%|196|Risk of Rain
+September 2021|65.12|-7.54|-10.38%|108|Risk of Rain
+August 2021|72.66|-29.18|-28.65%|114|Risk of Rain
+July 2021|101.84|20.45|+25.12%|204|Risk of Rain
+June 2021|81.4|5.04|+6.61%|183|Risk of Rain
+May 2021|76.36|-16.56|-17.82%|127|Risk of Rain
+April 2021|92.92|12.60|+15.69%|157|Risk of Rain
+March 2021|80.31|-16.16|-16.75%|141|Risk of Rain
+February 2021|96.47|-29.86|-23.64%|201|Risk of Rain
+January 2021|126.34|23.47|+22.81%|294|Risk of Rain
+December 2020|102.87|25.35|+32.69%|245|Risk of Rain
+November 2020|77.52|-9.92|-11.34%|127|Risk of Rain
+October 2020|87.44|-43.02|-32.98%|151|Risk of Rain
+September 2020|130.47|-13.64|-9.46%|218|Risk of Rain
+August 2020|144.11|22.29|+18.30%|264|Risk of Rain
+July 2020|121.81|29.90|+32.53%|224|Risk of Rain
+June 2020|91.92|-15.67|-14.56%|214|Risk of Rain
+May 2020|107.58|-67.42|-38.53%|183|Risk of Rain
+April 2020|175.0|51.30|+41.48%|322|Risk of Rain
+March 2020|123.7|6.72|+5.74%|212|Risk of Rain
+February 2020|116.98|-37.23|-24.14%|202|Risk of Rain
+January 2020|154.21|1.01|+0.66%|313|Risk of Rain
+December 2019|153.2|48.29|+46.03%|364|Risk of Rain
+November 2019|104.91|-4.60|-4.20%|199|Risk of Rain
+October 2019|109.51|-7.97|-6.78%|200|Risk of Rain
+September 2019|117.47|-11.12|-8.65%|199|Risk of Rain
+August 2019|128.6|-78.38|-37.87%|218|Risk of Rain
+July 2019|206.97|40.97|+24.68%|373|Risk of Rain
+June 2019|166.0|-65.17|-28.19%|412|Risk of Rain
+May 2019|231.17|-242.95|-51.24%|447|Risk of Rain
+April 2019|474.12|246.29|+108.10%|923|Risk of Rain
+March 2019|227.83|40.49|+21.61%|934|Risk of Rain
+February 2019|187.34|-34.91|-15.71%|332|Risk of Rain
+January 2019|222.25|-37.05|-14.29%|373|Risk of Rain
+December 2018|259.31|-119.01|-31.46%|451|Risk of Rain
+November 2018|378.32|177.50|+88.39%|1531|Risk of Rain
+October 2018|200.82|-70.29|-25.93%|362|Risk of Rain
+September 2018|271.1|68.29|+33.67%|617|Risk of Rain
+August 2018|202.81|-205.46|-50.32%|325|Risk of Rain
+July 2018|408.27|144.91|+55.02%|1277|Risk of Rain
+June 2018|263.37|-17.10|-6.10%|512|Risk of Rain
+May 2018|280.46|68.39|+32.25%|439|Risk of Rain
+April 2018|212.08|-7.60|-3.46%|369|Risk of Rain
+March 2018|219.68|-27.48|-11.12%|354|Risk of Rain
+February 2018|247.16|-104.36|-29.69%|431|Risk of Rain
+January 2018|351.53|5.69|+1.64%|648|Risk of Rain
+December 2017|345.84|90.85|+35.63%|688|Risk of Rain
+November 2017|254.99|27.65|+12.16%|604|Risk of Rain
+October 2017|227.34|-4.70|-2.03%|382|Risk of Rain
+September 2017|232.04|-9.48|-3.93%|404|Risk of Rain
+August 2017|241.53|-138.02|-36.36%|378|Risk of Rain
+July 2017|379.54|-45.31|-10.66%|721|Risk of Rain
+June 2017|424.85|-19.79|-4.45%|762|Risk of Rain
+May 2017|444.65|175.71|+65.34%|1624|Risk of Rain
+April 2017|268.94|-39.22|-12.73%|458|Risk of Rain
+March 2017|308.16|-258.81|-45.65%|556|Risk of Rain
+February 2017|566.97|92.38|+19.46%|1185|Risk of Rain
+January 2017|474.59|75.66|+18.96%|1062|Risk of Rain
+December 2016|398.94|109.09|+37.64%|1103|Risk of Rain
+November 2016|289.85|9.72|+3.47%|483|Risk of Rain
+October 2016|280.13|-1.89|-0.67%|500|Risk of Rain
+September 2016|282.02|-39.80|-12.37%|476|Risk of Rain
+August 2016|321.82|-178.69|-35.70%|509|Risk of Rain
+July 2016|500.52|102.36|+25.71%|996|Risk of Rain
+June 2016|398.16|33.46|+9.18%|936|Risk of Rain
+May 2016|364.7|-9.03|-2.42%|688|Risk of Rain
+April 2016|373.72|-60.11|-13.86%|653|Risk of Rain
+March 2016|433.83|-222.48|-33.90%|716|Risk of Rain
+February 2016|656.31|-367.28|-35.88%|1210|Risk of Rain
+January 2016|1023.59|332.36|+48.08%|2703|Risk of Rain
+December 2015|691.23|287.50|+71.21%|1630|Risk of Rain
+November 2015|403.73|34.73|+9.41%|1039|Risk of Rain
+October 2015|369.01|21.87|+6.30%|669|Risk of Rain
+September 2015|347.14|-57.28|-14.16%|613|Risk of Rain
+August 2015|404.42|-62.41|-13.37%|632|Risk of Rain
+July 2015|466.83|-365.22|-43.89%|721|Risk of Rain
+June 2015|832.05|168.23|+25.34%|2423|Risk of Rain
+May 2015|663.83|-311.18|-31.92%|1561|Risk of Rain
+April 2015|975.01|519.90|+114.24%|2717|Risk of Rain
+March 2015|455.1|-56.59|-11.06%|883|Risk of Rain
+February 2015|511.7|-208.56|-28.96%|931|Risk of Rain
+January 2015|720.26|-444.64|-38.17%|1409|Risk of Rain
+December 2014|1164.9|-485.15|-29.40%|3136|Risk of Rain
+November 2014|1650.05|907.52|+122.22%|4200|Risk of Rain
+October 2014|742.53|311.11|+72.11%|3587|Risk of Rain
+September 2014|431.42|-83.46|-16.21%|760|Risk of Rain
+August 2014|514.88|-362.34|-41.31%|886|Risk of Rain
+July 2014|877.22|-302.77|-25.66%|2247|Risk of Rain
+June 2014|1179.99|273.87|+30.22%|5446|Risk of Rain
+May 2014|906.12|342.27|+60.70%|2343|Risk of Rain
+April 2014|563.85|62.20|+12.40%|3450|Risk of Rain
+March 2014|501.65|-566.22|-53.02%|1230|Risk of Rain
+February 2014|1067.87|-81.14|-7.06%|3185|Risk of Rain
+January 2014|1149.01|-248.60|-17.79%|3479|Risk of Rain
+December 2013|1397.62|-461.61|-24.83%|4128|Risk of Rain
+November 2013|1859.23|-|-|4179|Risk of Rain
+March 2024|11725.09|1787.72|+17.99%|20631|Slay the Spire
+February 2024|9937.37|-746.17|-6.98%|15256|Slay the Spire
+January 2024|10683.54|552.15|+5.45%|16383|Slay the Spire
+December 2023|10131.39|-325.94|-3.12%|15450|Slay the Spire
+November 2023|10457.33|431.97|+4.31%|18760|Slay the Spire
+October 2023|10025.36|-62.89|-0.62%|18812|Slay the Spire
+September 2023|10088.25|1307.62|+14.89%|18551|Slay the Spire
+August 2023|8780.63|-552.83|-5.92%|15058|Slay the Spire
+July 2023|9333.46|2394.54|+34.51%|14646|Slay the Spire
+June 2023|6938.92|-926.71|-11.78%|11866|Slay the Spire
+May 2023|7865.64|-1951.10|-19.88%|12617|Slay the Spire
+April 2023|9816.74|63.44|+0.65%|16630|Slay the Spire
+March 2023|9753.29|1348.40|+16.04%|18812|Slay the Spire
+February 2023|8404.89|-1381.14|-14.11%|11835|Slay the Spire
+January 2023|9786.04|258.74|+2.72%|14255|Slay the Spire
+December 2022|9527.29|-775.02|-7.52%|18748|Slay the Spire
+November 2022|10302.32|3209.71|+45.25%|19314|Slay the Spire
+October 2022|7092.6|-28.03|-0.39%|10043|Slay the Spire
+September 2022|7120.63|-640.33|-8.25%|10495|Slay the Spire
+August 2022|7760.97|-2048.74|-20.88%|11010|Slay the Spire
+July 2022|9809.7|1701.15|+20.98%|16576|Slay the Spire
+June 2022|8108.56|-2049.14|-20.17%|15401|Slay the Spire
+May 2022|10157.7|1841.79|+22.15%|18918|Slay the Spire
+April 2022|8315.9|1444.39|+21.02%|11555|Slay the Spire
+March 2022|6871.52|454.48|+7.08%|10695|Slay the Spire
+February 2022|6417.04|-1849.79|-22.38%|8485|Slay the Spire
+January 2022|8266.83|763.16|+10.17%|11903|Slay the Spire
+December 2021|7503.67|738.07|+10.91%|11087|Slay the Spire
+November 2021|6765.6|-389.82|-5.45%|11044|Slay the Spire
+October 2021|7155.42|476.91|+7.14%|13759|Slay the Spire
+September 2021|6678.51|-856.87|-11.37%|9160|Slay the Spire
+August 2021|7535.38|405.54|+5.69%|10843|Slay the Spire
+July 2021|7129.84|1166.59|+19.56%|10831|Slay the Spire
+June 2021|5963.25|502.73|+9.21%|10381|Slay the Spire
+May 2021|5460.52|3.98|+0.07%|7222|Slay the Spire
+April 2021|5456.54|-863.20|-13.66%|7304|Slay the Spire
+March 2021|6319.74|-1156.22|-15.47%|8773|Slay the Spire
+February 2021|7475.97|-628.48|-7.75%|10380|Slay the Spire
+January 2021|8104.45|825.23|+11.34%|11077|Slay the Spire
+December 2020|7279.22|1139.61|+18.56%|10297|Slay the Spire
+November 2020|6139.61|430.80|+7.55%|9696|Slay the Spire
+October 2020|5708.81|204.06|+3.71%|10695|Slay the Spire
+September 2020|5504.75|-1021.79|-15.66%|7895|Slay the Spire
+August 2020|6526.54|-30.56|-0.47%|9584|Slay the Spire
+July 2020|6557.11|1033.45|+18.71%|9621|Slay the Spire
+June 2020|5523.65|-714.34|-11.45%|9030|Slay the Spire
+May 2020|6238.0|-850.59|-12.00%|7994|Slay the Spire
+April 2020|7088.58|-901.54|-11.28%|14267|Slay the Spire
+March 2020|7990.12|-1524.92|-16.03%|10626|Slay the Spire
+February 2020|9515.04|-1404.44|-12.86%|13209|Slay the Spire
+January 2020|10919.48|4995.31|+84.32%|20383|Slay the Spire
+December 2019|5924.18|952.39|+19.16%|10057|Slay the Spire
+November 2019|4971.79|-498.15|-9.11%|7128|Slay the Spire
+October 2019|5469.94|-856.31|-13.54%|7864|Slay the Spire
+September 2019|6326.25|249.93|+4.11%|9434|Slay the Spire
+August 2019|6076.32|-510.84|-7.76%|10357|Slay the Spire
+July 2019|6587.16|1376.12|+26.41%|11521|Slay the Spire
+June 2019|5211.04|-83.61|-1.58%|9508|Slay the Spire
+May 2019|5294.65|-172.64|-3.16%|7471|Slay the Spire
+April 2019|5467.29|-1422.06|-20.64%|7816|Slay the Spire
+March 2019|6889.35|-1448.25|-17.37%|10303|Slay the Spire
+February 2019|8337.6|-2068.99|-19.88%|12407|Slay the Spire
+January 2019|10406.59|2128.45|+25.71%|14586|Slay the Spire
+December 2018|8278.15|358.59|+4.53%|12365|Slay the Spire
+November 2018|7919.56|1169.00|+17.32%|12647|Slay the Spire
+October 2018|6750.57|-167.76|-2.42%|9572|Slay the Spire
+September 2018|6918.33|-12.19|-0.18%|10323|Slay the Spire
+August 2018|6930.52|-4696.65|-40.39%|11015|Slay the Spire
+July 2018|11627.16|894.03|+8.33%|21643|Slay the Spire
+June 2018|10733.13|610.60|+6.03%|18758|Slay the Spire
+May 2018|10122.53|-232.09|-2.24%|17216|Slay the Spire
+April 2018|10354.62|-3548.00|-25.52%|20163|Slay the Spire
+March 2018|13902.62|-5321.67|-27.68%|25018|Slay the Spire
+February 2018|19224.29|9551.09|+98.74%|32937|Slay the Spire
+January 2018|9673.2|8435.71|+681.68%|19513|Slay the Spire
+December 2017|1237.48|1170.70|+1753.13%|3189|Slay the Spire
+November 2017|66.78|66.38|+16572.04%|186|Slay the Spire
+October 2017|0.4|0.35|+691.65%|4|Slay the Spire
+September 2017|0.05|-0.02|-30.76%|2|Slay the Spire
+July 2017|0.07|-0.00|-3.92%|2|Slay the Spire
+June 2017|0.08|-|-|2|Slay the Spire
+March 2024|72.35|-1.44|-1.95%|124|Spelunky
+February 2024|73.79|-8.83|-10.69%|125|Spelunky
+January 2024|82.62|-1.20|-1.43%|150|Spelunky
+December 2023|83.81|2.90|+3.59%|153|Spelunky
+November 2023|80.91|10.30|+14.58%|150|Spelunky
+October 2023|70.61|-1.21|-1.68%|121|Spelunky
+September 2023|71.82|-3.54|-4.69%|120|Spelunky
+August 2023|75.35|-17.70|-19.02%|125|Spelunky
+July 2023|93.06|23.40|+33.59%|155|Spelunky
+June 2023|69.66|-7.11|-9.26%|114|Spelunky
+May 2023|76.76|-11.15|-12.68%|135|Spelunky
+April 2023|87.92|0.19|+0.22%|147|Spelunky
+March 2023|87.72|-0.20|-0.22%|154|Spelunky
+February 2023|87.92|-20.42|-18.85%|161|Spelunky
+January 2023|108.34|5.86|+5.72%|184|Spelunky
+December 2022|102.48|10.57|+11.50%|175|Spelunky
+November 2022|91.9|8.93|+10.77%|164|Spelunky
+October 2022|82.97|2.60|+3.24%|163|Spelunky
+September 2022|80.37|-4.80|-5.63%|141|Spelunky
+August 2022|85.17|-23.80|-21.84%|144|Spelunky
+July 2022|108.97|13.88|+14.60%|210|Spelunky
+June 2022|95.09|12.14|+14.63%|208|Spelunky
+May 2022|82.95|-2.14|-2.52%|145|Spelunky
+April 2022|85.09|-4.86|-5.40%|143|Spelunky
+March 2022|89.95|-15.94|-15.05%|156|Spelunky
+February 2022|105.89|-11.89|-10.09%|173|Spelunky
+January 2022|117.78|15.64|+15.31%|201|Spelunky
+December 2021|102.14|2.63|+2.64%|213|Spelunky
+November 2021|99.51|-8.39|-7.77%|181|Spelunky
+October 2021|107.9|-29.41|-21.42%|193|Spelunky
+September 2021|137.3|-0.93|-0.67%|218|Spelunky
+August 2021|138.23|-21.23|-13.31%|238|Spelunky
+July 2021|159.45|19.74|+14.13%|249|Spelunky
+June 2021|139.71|6.67|+5.01%|250|Spelunky
+May 2021|133.04|-16.76|-11.19%|202|Spelunky
+April 2021|149.8|-23.12|-13.37%|224|Spelunky
+March 2021|172.92|-40.32|-18.91%|264|Spelunky
+February 2021|213.24|-43.57|-16.97%|329|Spelunky
+January 2021|256.81|-32.89|-11.35%|442|Spelunky
+December 2020|289.7|-16.15|-5.28%|469|Spelunky
+November 2020|305.85|-133.20|-30.34%|539|Spelunky
+October 2020|439.05|-176.83|-28.71%|773|Spelunky
+September 2020|615.88|260.41|+73.26%|1255|Spelunky
+August 2020|355.47|-14.04|-3.80%|525|Spelunky
+July 2020|369.51|37.49|+11.29%|552|Spelunky
+June 2020|332.01|38.10|+12.96%|575|Spelunky
+May 2020|293.91|-23.01|-7.26%|431|Spelunky
+April 2020|316.93|-21.27|-6.29%|457|Spelunky
+March 2020|338.19|0.61|+0.18%|509|Spelunky
+February 2020|337.59|31.44|+10.27%|563|Spelunky
+January 2020|306.15|4.87|+1.62%|501|Spelunky
+December 2019|301.27|25.80|+9.37%|484|Spelunky
+November 2019|275.47|72.15|+35.49%|737|Spelunky
+October 2019|203.32|-18.07|-8.16%|311|Spelunky
+September 2019|221.39|-12.90|-5.50%|351|Spelunky
+August 2019|234.28|-29.32|-11.12%|345|Spelunky
+July 2019|263.6|15.69|+6.33%|418|Spelunky
+June 2019|247.91|6.47|+2.68%|401|Spelunky
+May 2019|241.44|27.20|+12.70%|428|Spelunky
+April 2019|214.24|-19.17|-8.21%|337|Spelunky
+March 2019|233.41|-17.87|-7.11%|364|Spelunky
+February 2019|251.28|-30.67|-10.88%|438|Spelunky
+January 2019|281.95|-0.90|-0.32%|450|Spelunky
+December 2018|282.86|-7.64|-2.63%|438|Spelunky
+November 2018|290.5|13.20|+4.76%|479|Spelunky
+October 2018|277.3|-35.52|-11.36%|433|Spelunky
+September 2018|312.82|17.01|+5.75%|474|Spelunky
+August 2018|295.81|-162.61|-35.47%|466|Spelunky
+July 2018|458.42|135.87|+42.12%|1139|Spelunky
+June 2018|322.55|28.97|+9.87%|622|Spelunky
+May 2018|293.58|1.35|+0.46%|469|Spelunky
+April 2018|292.23|-7.92|-2.64%|437|Spelunky
+March 2018|300.15|-45.49|-13.16%|449|Spelunky
+February 2018|345.64|-91.38|-20.91%|534|Spelunky
+January 2018|437.02|11.70|+2.75%|724|Spelunky
+December 2017|425.32|-7.45|-1.72%|706|Spelunky
+November 2017|432.77|157.54|+57.24%|713|Spelunky
+October 2017|275.23|8.53|+3.20%|620|Spelunky
+September 2017|266.7|-17.44|-6.14%|413|Spelunky
+August 2017|284.14|-43.24|-13.21%|416|Spelunky
+July 2017|327.38|-93.70|-22.25%|515|Spelunky
+June 2017|421.07|207.93|+97.55%|1475|Spelunky
+May 2017|213.15|8.75|+4.28%|331|Spelunky
+April 2017|204.4|-1.68|-0.81%|335|Spelunky
+March 2017|206.08|-12.11|-5.55%|336|Spelunky
+February 2017|218.19|-37.12|-14.54%|365|Spelunky
+January 2017|255.31|2.40|+0.95%|473|Spelunky
+December 2016|252.91|49.77|+24.50%|428|Spelunky
+November 2016|203.14|15.83|+8.45%|425|Spelunky
+October 2016|187.31|-10.32|-5.22%|319|Spelunky
+September 2016|197.64|-25.58|-11.46%|340|Spelunky
+August 2016|223.22|-31.12|-12.24%|327|Spelunky
+July 2016|254.33|60.85|+31.45%|424|Spelunky
+June 2016|193.49|15.05|+8.43%|401|Spelunky
+May 2016|178.44|-8.37|-4.48%|333|Spelunky
+April 2016|186.81|-46.72|-20.01%|342|Spelunky
+March 2016|233.53|-52.48|-18.35%|424|Spelunky
+February 2016|286.01|-8.65|-2.94%|560|Spelunky
+January 2016|294.66|42.05|+16.65%|609|Spelunky
+December 2015|252.61|78.02|+44.68%|573|Spelunky
+November 2015|174.6|-16.51|-8.64%|408|Spelunky
+October 2015|191.11|7.33|+3.99%|375|Spelunky
+September 2015|183.78|-16.82|-8.38%|353|Spelunky
+August 2015|200.6|-4.83|-2.35%|324|Spelunky
+July 2015|205.43|-50.96|-19.88%|345|Spelunky
+June 2015|256.39|18.45|+7.75%|711|Spelunky
+May 2015|237.94|1.35|+0.57%|486|Spelunky
+April 2015|236.59|37.85|+19.05%|811|Spelunky
+March 2015|198.73|-25.65|-11.43%|385|Spelunky
+February 2015|224.38|-64.60|-22.35%|402|Spelunky
+January 2015|288.98|10.51|+3.78%|551|Spelunky
+December 2014|278.47|96.58|+53.10%|1074|Spelunky
+November 2014|181.89|-31.98|-14.95%|353|Spelunky
+October 2014|213.87|-23.79|-10.01%|375|Spelunky
+September 2014|237.65|-53.25|-18.31%|420|Spelunky
+August 2014|290.91|-29.31|-9.15%|483|Spelunky
+July 2014|320.21|-21.95|-6.42%|517|Spelunky
+June 2014|342.17|21.04|+6.55%|1059|Spelunky
+May 2014|321.13|-132.92|-29.27%|565|Spelunky
+April 2014|454.05|65.10|+16.74%|1039|Spelunky
+March 2014|388.95|-177.18|-31.30%|793|Spelunky
+February 2014|566.13|-288.93|-33.79%|1104|Spelunky
+January 2014|855.06|123.51|+16.88%|2119|Spelunky
+December 2013|731.55|191.38|+35.43%|2854|Spelunky
+November 2013|540.17|164.93|+43.95%|2382|Spelunky
+October 2013|375.24|-110.62|-22.77%|1384|Spelunky
+September 2013|485.87|-503.32|-50.88%|1035|Spelunky
+August 2013|989.18|-|-|2367|Spelunky
+March 2024|17384.9|-1233.21|-6.62%|27573|The Binding of Isaac Rebirth
+February 2024|18618.11|-1770.97|-8.69%|27244|The Binding of Isaac Rebirth
+January 2024|20389.08|3011.91|+17.33%|30548|The Binding of Isaac Rebirth
+December 2023|17377.17|2186.88|+14.40%|27507|The Binding of Isaac Rebirth
+November 2023|15190.29|-873.88|-5.44%|23825|The Binding of Isaac Rebirth
+October 2023|16064.17|2182.19|+15.72%|25701|The Binding of Isaac Rebirth
+September 2023|13881.98|447.45|+3.33%|21930|The Binding of Isaac Rebirth
+August 2023|13434.52|-793.60|-5.58%|18588|The Binding of Isaac Rebirth
+July 2023|14228.12|1461.76|+11.45%|18686|The Binding of Isaac Rebirth
+June 2023|12766.37|-708.54|-5.26%|18355|The Binding of Isaac Rebirth
+May 2023|13474.91|-821.63|-5.75%|20420|The Binding of Isaac Rebirth
+April 2023|14296.54|-43.96|-0.31%|21643|The Binding of Isaac Rebirth
+March 2023|14340.5|-598.61|-4.01%|21741|The Binding of Isaac Rebirth
+February 2023|14939.11|-416.01|-2.71%|21953|The Binding of Isaac Rebirth
+January 2023|15355.13|2817.30|+22.47%|21061|The Binding of Isaac Rebirth
+December 2022|12537.82|444.94|+3.68%|18304|The Binding of Isaac Rebirth
+November 2022|12092.89|203.80|+1.71%|18913|The Binding of Isaac Rebirth
+October 2022|11889.09|-1283.56|-9.74%|18301|The Binding of Isaac Rebirth
+September 2022|13172.65|-889.51|-6.33%|20119|The Binding of Isaac Rebirth
+August 2022|14062.16|404.14|+2.96%|20465|The Binding of Isaac Rebirth
+July 2022|13658.02|1299.13|+10.51%|18085|The Binding of Isaac Rebirth
+June 2022|12358.9|-241.02|-1.91%|17628|The Binding of Isaac Rebirth
+May 2022|12599.92|-1669.31|-11.70%|18577|The Binding of Isaac Rebirth
+April 2022|14269.23|1602.35|+12.65%|21105|The Binding of Isaac Rebirth
+March 2022|12666.87|-1458.68|-10.33%|21965|The Binding of Isaac Rebirth
+February 2022|14125.55|-1966.53|-12.22%|20399|The Binding of Isaac Rebirth
+January 2022|16092.08|1788.57|+12.50%|22615|The Binding of Isaac Rebirth
+December 2021|14303.51|690.49|+5.07%|20949|The Binding of Isaac Rebirth
+November 2021|13613.02|1329.50|+10.82%|21453|The Binding of Isaac Rebirth
+October 2021|12283.52|-830.92|-6.34%|18974|The Binding of Isaac Rebirth
+September 2021|13114.44|-2507.32|-16.05%|19815|The Binding of Isaac Rebirth
+August 2021|15621.75|-2323.73|-12.95%|21264|The Binding of Isaac Rebirth
+July 2021|17945.48|-4856.88|-21.30%|26686|The Binding of Isaac Rebirth
+June 2021|22802.36|-11551.31|-33.62%|36597|The Binding of Isaac Rebirth
+May 2021|34353.67|-11708.76|-25.42%|55851|The Binding of Isaac Rebirth
+April 2021|46062.43|37549.53|+441.09%|70483|The Binding of Isaac Rebirth
+March 2021|8512.91|862.12|+11.27%|58791|The Binding of Isaac Rebirth
+February 2021|7650.79|-105.35|-1.36%|10422|The Binding of Isaac Rebirth
+January 2021|7756.14|1611.11|+26.22%|12679|The Binding of Isaac Rebirth
+December 2020|6145.03|61.26|+1.01%|8805|The Binding of Isaac Rebirth
+November 2020|6083.77|301.66|+5.22%|8413|The Binding of Isaac Rebirth
+October 2020|5782.11|236.48|+4.26%|8405|The Binding of Isaac Rebirth
+September 2020|5545.64|-77.60|-1.38%|7987|The Binding of Isaac Rebirth
+August 2020|5623.24|-535.90|-8.70%|7761|The Binding of Isaac Rebirth
+July 2020|6159.15|355.05|+6.12%|8437|The Binding of Isaac Rebirth
+June 2020|5804.1|-304.01|-4.98%|7976|The Binding of Isaac Rebirth
+May 2020|6108.11|-576.46|-8.62%|8308|The Binding of Isaac Rebirth
+April 2020|6684.57|209.93|+3.24%|10321|The Binding of Isaac Rebirth
+March 2020|6474.64|581.61|+9.87%|9192|The Binding of Isaac Rebirth
+February 2020|5893.03|515.15|+9.58%|8126|The Binding of Isaac Rebirth
+January 2020|5377.88|174.09|+3.35%|7816|The Binding of Isaac Rebirth
+December 2019|5203.79|167.73|+3.33%|7576|The Binding of Isaac Rebirth
+November 2019|5036.05|724.27|+16.80%|7814|The Binding of Isaac Rebirth
+October 2019|4311.78|216.80|+5.29%|6751|The Binding of Isaac Rebirth
+September 2019|4094.98|137.00|+3.46%|6720|The Binding of Isaac Rebirth
+August 2019|3957.98|-87.14|-2.15%|5803|The Binding of Isaac Rebirth
+July 2019|4045.12|-356.11|-8.09%|5612|The Binding of Isaac Rebirth
+June 2019|4401.23|-319.04|-6.76%|6433|The Binding of Isaac Rebirth
+May 2019|4720.26|16.37|+0.35%|7905|The Binding of Isaac Rebirth
+April 2019|4703.9|-646.29|-12.08%|7395|The Binding of Isaac Rebirth
+March 2019|5350.18|-147.72|-2.69%|8332|The Binding of Isaac Rebirth
+February 2019|5497.91|-363.49|-6.20%|8384|The Binding of Isaac Rebirth
+January 2019|5861.4|240.86|+4.29%|9052|The Binding of Isaac Rebirth
+December 2018|5620.54|-206.45|-3.54%|9089|The Binding of Isaac Rebirth
+November 2018|5826.98|645.86|+12.47%|9315|The Binding of Isaac Rebirth
+October 2018|5181.13|402.46|+8.42%|8602|The Binding of Isaac Rebirth
+September 2018|4778.67|95.88|+2.05%|7778|The Binding of Isaac Rebirth
+August 2018|4682.79|-829.03|-15.04%|6956|The Binding of Isaac Rebirth
+July 2018|5511.82|-490.66|-8.17%|8192|The Binding of Isaac Rebirth
+June 2018|6002.47|-1659.57|-21.66%|9603|The Binding of Isaac Rebirth
+May 2018|7662.04|2872.83|+59.99%|13151|The Binding of Isaac Rebirth
+April 2018|4789.21|-100.65|-2.06%|7795|The Binding of Isaac Rebirth
+March 2018|4889.86|-571.44|-10.46%|7504|The Binding of Isaac Rebirth
+February 2018|5461.3|-373.88|-6.41%|8115|The Binding of Isaac Rebirth
+January 2018|5835.18|52.64|+0.91%|8407|The Binding of Isaac Rebirth
+December 2017|5782.55|268.26|+4.86%|8707|The Binding of Isaac Rebirth
+November 2017|5514.29|117.17|+2.17%|8431|The Binding of Isaac Rebirth
+October 2017|5397.12|336.44|+6.65%|8245|The Binding of Isaac Rebirth
+September 2017|5060.68|-232.61|-4.39%|7931|The Binding of Isaac Rebirth
+August 2017|5293.28|-773.21|-12.75%|7369|The Binding of Isaac Rebirth
+July 2017|6066.49|-174.83|-2.80%|8628|The Binding of Isaac Rebirth
+June 2017|6241.32|260.82|+4.36%|10755|The Binding of Isaac Rebirth
+May 2017|5980.5|-872.18|-12.73%|9649|The Binding of Isaac Rebirth
+April 2017|6852.68|-1180.40|-14.69%|10848|The Binding of Isaac Rebirth
+March 2017|8033.09|-3397.31|-29.72%|13053|The Binding of Isaac Rebirth
+February 2017|11430.4|-5487.61|-32.44%|20039|The Binding of Isaac Rebirth
+January 2017|16918.01|9741.85|+135.75%|39579|The Binding of Isaac Rebirth
+December 2016|7176.16|1191.81|+19.92%|14985|The Binding of Isaac Rebirth
+November 2016|5984.35|702.53|+13.30%|9348|The Binding of Isaac Rebirth
+October 2016|5281.83|224.29|+4.43%|8266|The Binding of Isaac Rebirth
+September 2016|5057.54|-158.68|-3.04%|7930|The Binding of Isaac Rebirth
+August 2016|5216.21|-30.67|-0.58%|7921|The Binding of Isaac Rebirth
+July 2016|5246.88|109.94|+2.14%|7432|The Binding of Isaac Rebirth
+June 2016|5136.95|-219.46|-4.10%|7623|The Binding of Isaac Rebirth
+May 2016|5356.41|-440.39|-7.60%|8242|The Binding of Isaac Rebirth
+April 2016|5796.8|-1657.36|-22.23%|10487|The Binding of Isaac Rebirth
+March 2016|7454.16|-1825.20|-19.67%|12070|The Binding of Isaac Rebirth
+February 2016|9279.36|-2492.64|-21.17%|15221|The Binding of Isaac Rebirth
+January 2016|11772.0|-2439.12|-17.16%|20743|The Binding of Isaac Rebirth
+December 2015|14211.11|-5670.00|-28.52%|23397|The Binding of Isaac Rebirth
+November 2015|19881.12|11572.98|+139.30%|53281|The Binding of Isaac Rebirth
+October 2015|8308.14|2405.12|+40.74%|69673|The Binding of Isaac Rebirth
+September 2015|5903.02|66.29|+1.14%|10247|The Binding of Isaac Rebirth
+August 2015|5836.74|491.42|+9.19%|8727|The Binding of Isaac Rebirth
+July 2015|5345.31|-704.75|-11.65%|7729|The Binding of Isaac Rebirth
+June 2015|6050.07|354.07|+6.22%|9711|The Binding of Isaac Rebirth
+May 2015|5696.0|-133.10|-2.28%|9105|The Binding of Isaac Rebirth
+April 2015|5829.1|-1220.25|-17.31%|9538|The Binding of Isaac Rebirth
+March 2015|7049.35|-1113.11|-13.64%|12872|The Binding of Isaac Rebirth
+February 2015|8162.46|-2894.19|-26.18%|14707|The Binding of Isaac Rebirth
+January 2015|11056.66|-2317.37|-17.33%|19888|The Binding of Isaac Rebirth
+December 2014|13374.03|-5979.85|-30.90%|22392|The Binding of Isaac Rebirth
+November 2014|19353.88|-|-|65836|The Binding of Isaac Rebirth
+March 2024|257.69|17.01|+7.07%|444|The Binding of Isaac
+February 2024|240.68|-50.03|-17.21%|394|The Binding of Isaac
+January 2024|290.71|6.35|+2.23%|470|The Binding of Isaac
+December 2023|284.36|47.54|+20.07%|565|The Binding of Isaac
+November 2023|236.82|2.07|+0.88%|408|The Binding of Isaac
+October 2023|234.75|-7.55|-3.11%|418|The Binding of Isaac
+September 2023|242.3|15.68|+6.92%|486|The Binding of Isaac
+August 2023|226.62|-16.55|-6.81%|394|The Binding of Isaac
+July 2023|243.17|25.15|+11.54%|378|The Binding of Isaac
+June 2023|218.02|14.69|+7.22%|423|The Binding of Isaac
+May 2023|203.33|1.09|+0.54%|351|The Binding of Isaac
+April 2023|202.24|6.82|+3.49%|338|The Binding of Isaac
+March 2023|195.42|-8.48|-4.16%|309|The Binding of Isaac
+February 2023|203.9|4.10|+2.05%|325|The Binding of Isaac
+January 2023|199.8|6.51|+3.37%|309|The Binding of Isaac
+December 2022|193.28|-8.75|-4.33%|317|The Binding of Isaac
+November 2022|202.03|-13.82|-6.40%|324|The Binding of Isaac
+October 2022|215.85|3.33|+1.57%|330|The Binding of Isaac
+September 2022|212.52|-7.30|-3.32%|341|The Binding of Isaac
+August 2022|219.82|-5.63|-2.50%|316|The Binding of Isaac
+July 2022|225.45|1.17|+0.52%|313|The Binding of Isaac
+June 2022|224.28|-13.84|-5.81%|319|The Binding of Isaac
+May 2022|238.12|-49.81|-17.30%|364|The Binding of Isaac
+April 2022|287.93|-26.39|-8.40%|465|The Binding of Isaac
+March 2022|314.32|16.43|+5.51%|686|The Binding of Isaac
+February 2022|297.89|-114.32|-27.73%|438|The Binding of Isaac
+January 2022|412.22|-73.84|-15.19%|814|The Binding of Isaac
+December 2021|486.06|84.95|+21.18%|1171|The Binding of Isaac
+November 2021|401.11|188.49|+88.65%|1416|The Binding of Isaac
+October 2021|212.62|13.57|+6.82%|782|The Binding of Isaac
+September 2021|199.05|-17.59|-8.12%|300|The Binding of Isaac
+August 2021|216.64|-8.63|-3.83%|315|The Binding of Isaac
+July 2021|225.27|-49.86|-18.12%|327|The Binding of Isaac
+June 2021|275.13|-62.41|-18.49%|431|The Binding of Isaac
+May 2021|337.55|-61.34|-15.38%|563|The Binding of Isaac
+April 2021|398.89|96.70|+32.00%|609|The Binding of Isaac
+March 2021|302.19|-70.11|-18.83%|431|The Binding of Isaac
+February 2021|372.29|-17.20|-4.42%|557|The Binding of Isaac
+January 2021|389.5|162.36|+71.48%|1159|The Binding of Isaac
+December 2020|227.13|-22.53|-9.02%|319|The Binding of Isaac
+November 2020|249.66|6.71|+2.76%|358|The Binding of Isaac
+October 2020|242.95|3.10|+1.29%|350|The Binding of Isaac
+September 2020|239.85|7.19|+3.09%|365|The Binding of Isaac
+August 2020|232.67|3.28|+1.43%|324|The Binding of Isaac
+July 2020|229.39|-16.94|-6.88%|331|The Binding of Isaac
+June 2020|246.33|-39.42|-13.79%|370|The Binding of Isaac
+May 2020|285.75|-51.27|-15.21%|413|The Binding of Isaac
+April 2020|337.02|24.62|+7.88%|492|The Binding of Isaac
+March 2020|312.4|67.67|+27.65%|505|The Binding of Isaac
+February 2020|244.73|12.95|+5.59%|355|The Binding of Isaac
+January 2020|231.78|-0.90|-0.39%|343|The Binding of Isaac
+December 2019|232.68|-13.38|-5.44%|375|The Binding of Isaac
+November 2019|246.06|15.65|+6.79%|383|The Binding of Isaac
+October 2019|230.41|4.69|+2.08%|386|The Binding of Isaac
+September 2019|225.72|12.40|+5.81%|379|The Binding of Isaac
+August 2019|213.32|-1.98|-0.92%|335|The Binding of Isaac
+July 2019|215.29|-40.19|-15.73%|315|The Binding of Isaac
+June 2019|255.49|-8.82|-3.34%|381|The Binding of Isaac
+May 2019|264.3|0.92|+0.35%|477|The Binding of Isaac
+April 2019|263.38|-29.56|-10.09%|435|The Binding of Isaac
+March 2019|292.94|7.63|+2.67%|457|The Binding of Isaac
+February 2019|285.31|-7.20|-2.46%|442|The Binding of Isaac
+January 2019|292.51|-1.17|-0.40%|460|The Binding of Isaac
+December 2018|293.68|10.79|+3.82%|466|The Binding of Isaac
+November 2018|282.89|-0.32|-0.11%|473|The Binding of Isaac
+October 2018|283.21|-0.11|-0.04%|475|The Binding of Isaac
+September 2018|283.32|-9.62|-3.28%|458|The Binding of Isaac
+August 2018|292.94|-20.58|-6.57%|448|The Binding of Isaac
+July 2018|313.52|-37.09|-10.58%|462|The Binding of Isaac
+June 2018|350.62|-25.02|-6.66%|563|The Binding of Isaac
+May 2018|375.64|35.62|+10.48%|616|The Binding of Isaac
+April 2018|340.02|-23.58|-6.49%|567|The Binding of Isaac
+March 2018|363.6|-37.10|-9.26%|572|The Binding of Isaac
+February 2018|400.7|-54.27|-11.93%|611|The Binding of Isaac
+January 2018|454.97|-244.79|-34.98%|674|The Binding of Isaac
+December 2017|699.76|374.11|+114.88%|2013|The Binding of Isaac
+November 2017|325.65|-23.71|-6.79%|633|The Binding of Isaac
+October 2017|349.35|2.50|+0.72%|594|The Binding of Isaac
+September 2017|346.85|-0.14|-0.04%|550|The Binding of Isaac
+August 2017|347.0|-14.88|-4.11%|496|The Binding of Isaac
+July 2017|361.88|-33.02|-8.36%|544|The Binding of Isaac
+June 2017|394.9|-11.30|-2.78%|612|The Binding of Isaac
+May 2017|406.2|-20.92|-4.90%|659|The Binding of Isaac
+April 2017|427.12|-26.94|-5.93%|675|The Binding of Isaac
+March 2017|454.06|-87.17|-16.11%|739|The Binding of Isaac
+February 2017|541.23|-46.81|-7.96%|909|The Binding of Isaac
+January 2017|588.04|152.65|+35.06%|990|The Binding of Isaac
+December 2016|435.39|-14.43|-3.21%|703|The Binding of Isaac
+November 2016|449.81|26.91|+6.36%|774|The Binding of Isaac
+October 2016|422.9|41.81|+10.97%|853|The Binding of Isaac
+September 2016|381.08|-13.98|-3.54%|649|The Binding of Isaac
+August 2016|395.06|-46.75|-10.58%|632|The Binding of Isaac
+July 2016|441.82|3.02|+0.69%|752|The Binding of Isaac
+June 2016|438.8|12.06|+2.83%|739|The Binding of Isaac
+May 2016|426.74|-43.74|-9.30%|793|The Binding of Isaac
+April 2016|470.48|-41.62|-8.13%|784|The Binding of Isaac
+March 2016|512.11|-72.83|-12.45%|880|The Binding of Isaac
+February 2016|584.94|-122.24|-17.29%|1031|The Binding of Isaac
+January 2016|707.17|-250.05|-26.12%|1182|The Binding of Isaac
+December 2015|957.22|-518.81|-35.15%|1739|The Binding of Isaac
+November 2015|1476.03|744.05|+101.65%|4269|The Binding of Isaac
+October 2015|731.97|119.79|+19.57%|3699|The Binding of Isaac
+September 2015|612.18|-29.69|-4.63%|1077|The Binding of Isaac
+August 2015|641.88|23.04|+3.72%|1015|The Binding of Isaac
+July 2015|618.84|-106.15|-14.64%|903|The Binding of Isaac
+June 2015|724.99|-285.55|-28.26%|1265|The Binding of Isaac
+May 2015|1010.53|165.15|+19.54%|1977|The Binding of Isaac
+April 2015|845.38|-111.86|-11.69%|1836|The Binding of Isaac
+March 2015|957.24|-280.59|-22.67%|1873|The Binding of Isaac
+February 2015|1237.83|-525.03|-29.78%|2286|The Binding of Isaac
+January 2015|1762.86|-614.19|-25.84%|3940|The Binding of Isaac
+December 2014|2377.05|-682.17|-22.30%|4923|The Binding of Isaac
+November 2014|3059.22|-155.91|-4.85%|7970|The Binding of Isaac
+October 2014|3215.13|395.55|+14.03%|5769|The Binding of Isaac
+September 2014|2819.58|185.15|+7.03%|6127|The Binding of Isaac
+August 2014|2634.43|-132.74|-4.80%|3793|The Binding of Isaac
+July 2014|2767.17|-141.17|-4.85%|4086|The Binding of Isaac
+June 2014|2908.34|38.49|+1.34%|4339|The Binding of Isaac
+May 2014|2869.85|783.89|+37.58%|5800|The Binding of Isaac
+April 2014|2085.96|-90.39|-4.15%|3154|The Binding of Isaac
+March 2014|2176.35|-343.07|-13.62%|3647|The Binding of Isaac
+February 2014|2519.43|-222.08|-8.10%|4071|The Binding of Isaac
+January 2014|2741.51|230.46|+9.18%|4483|The Binding of Isaac
+December 2013|2511.05|91.11|+3.76%|4696|The Binding of Isaac
+November 2013|2419.94|-16.30|-0.67%|4121|The Binding of Isaac
+October 2013|2436.24|-49.56|-1.99%|4273|The Binding of Isaac
+September 2013|2485.81|-331.29|-11.76%|7093|The Binding of Isaac
+August 2013|2817.09|-439.29|-13.49%|4324|The Binding of Isaac
+July 2013|3256.39|681.16|+26.45%|6520|The Binding of Isaac
+June 2013|2575.23|477.38|+22.76%|12295|The Binding of Isaac
+May 2013|2097.84|-67.84|-3.13%|3416|The Binding of Isaac
+April 2013|2165.68|-14.50|-0.66%|3735|The Binding of Isaac
+March 2013|2180.18|-187.20|-7.91%|4442|The Binding of Isaac
+February 2013|2367.39|-691.45|-22.61%|4427|The Binding of Isaac
+January 2013|3058.84|741.76|+32.01%|6115|The Binding of Isaac
+December 2012|2317.08|756.86|+48.51%|4657|The Binding of Isaac
+November 2012|1560.22|-83.66|-5.09%|2806|The Binding of Isaac
+October 2012|1643.88|-513.91|-23.82%|3252|The Binding of Isaac
+September 2012|2157.79|-922.39|-29.95%|4186|The Binding of Isaac
+August 2012|3080.18|-1896.12|-38.10%|5412|The Binding of Isaac
+July 2012|4976.3|-|-|8860|The Binding of Isaac
